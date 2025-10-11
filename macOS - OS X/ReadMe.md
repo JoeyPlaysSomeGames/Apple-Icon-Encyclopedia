@@ -1,0 +1,1 @@
+![A banner image showing OS X 10.0](Banner.jpg)
