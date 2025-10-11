@@ -1,6 +1,6 @@
 # Apple Icon Encyclopedia
 
-![A banner image showing some apps](ReadMeBanner.JPG)
+![A banner image showing some apps](ReadMeBanner.PNG)
 
 Welcome to the Apple Icon Encyclopedia! A cool new resource for artists and theme makers everywhere :3
 
