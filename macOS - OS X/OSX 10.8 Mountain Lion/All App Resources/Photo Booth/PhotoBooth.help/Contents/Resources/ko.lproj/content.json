@@ -1,0 +1,163 @@
+{
+  "content" : {
+    "button-1" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='pbhlp32628'><div class='subjectids'><a name='pbhlp32628'><\/a><\/div><h1 class='title topictitle1'>Photo Booth 도움말<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Photo Booth 도움말<\/h2><p class='p'>단일 이미지 사진, 4장 연속 사진 또는 동영상 클립을 생성합니다.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Photo Booth 도움말",
+      "name" : "Photo Booth 도움말",
+      "class" : "default"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "pbhlp32628",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628-a" : {
+      "name" : "필수 황목"
+    },
+    "pbhlp32628-b" : {
+      "name" : "스냅샷 및 동영상 클립 향상"
+    },
+    "offline-message-com-apple-PhotoBooth-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-PhotoBooth-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-PhotoBooth-help'><\/a><\/div><h1 class='title topictitle1'>현재 선택한 주제는 사용할 수 없습니다<\/h1><div class='body conbody'><p class='p'>인터넷에 연결되어 있는지 확인하십시오. 연결 도움이 필요할 경우 Apple 메뉴 > 시스템 환경설정을 선택하고 네트워크를 클릭한 다음 “도와주세요”를 클릭하십시오.<\/p><p class='p'>인터넷에 연결했는데 계속 콘텐츠가 나타나지 않는다면 나중에 다시 시도하십시오.<\/p><\/div><\/div>",
+      "alternativeName" : "현재 선택한 주제는 사용할 수 없습니다",
+      "name" : "현재 선택한 주제는 사용할 수 없습니다",
+      "class" : "content-not-available-message"
+    },
+    "pbhlp32628-c" : {
+      "name" : "스냅샷 및 동영상 클립 사용"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "pbhlp32628",
+          "class" : "default"
+        },
+        {
+          "id" : "pbhlp32628-a",
+          "children" : [
+            {
+              "name" : "스냅샷 또는 동영상 클립 생성",
+              "href" : "#pbhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "카운트다운 또는 플래시 끄기",
+              "href" : "#pbhlp18454",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "스냅샷 및 동영상 클립 미리보기",
+              "href" : "#pbhlp11570",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "교정 용지 프린트",
+              "href" : "#pbhlp11571",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "스냅샷 및 동영상 클립 삭제",
+              "href" : "#pbhlp1009",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "전체 화면으로 Photo Booth 사용",
+              "href" : "#pbhlp36644",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-b",
+          "children" : [
+            {
+              "name" : "스냅샷 또는 동영상 클립 뒤집기",
+              "href" : "#pbhlp1006",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "효과 및 배경 사용하기",
+              "href" : "#pbhlp1005",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "동영상 클립 자르기",
+              "href" : "#pbhlp32627",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-c",
+          "children" : [
+            {
+              "name" : "스냅샷 또는 동영상 클립 보내기",
+              "href" : "#pbhlp11572",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "메시지 사진 선택하기",
+              "href" : "#pbhlp1002",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "계정 사진 선택하기",
+              "href" : "#pbhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Twitter 프로필 사진 선택하기",
+              "href" : "#pbhlp40699",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Mail을 사용하여 스냅샷 또는 동영상 클립 전송",
+              "href" : "#pbhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "여러분 근처에 있는 사람과 스냅샷 또는 동영상 클립 공유",
+              "href" : "#pbhlp40693",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "소셜 미디어로 스냅샷 또는 동영상 클립 공유",
+              "href" : "#pbhlp40625",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-PhotoBooth-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "13.6",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "pbic.png",
+    "AppVersion" : "4.0",
+    "FolderName" : "PhotoBooth.help",
+    "LocalizationISOCode" : "ko",
+    "buildID" : "D07C59F2-87F1-11E1-B012-155775470237",
+    "Title" : "Photo Booth 도움말",
+    "RemoteURL" : "https:\/\/help.apple.com\/photobooth\/mac\/10.8\/help\/"
+  }
+}

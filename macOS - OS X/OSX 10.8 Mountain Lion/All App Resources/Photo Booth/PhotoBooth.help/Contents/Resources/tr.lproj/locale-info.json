@@ -1,0 +1,39 @@
+{
+	"meta": {
+		"folder": "tr.lproj",
+		"isoCodes": ["tr"],
+		"isoName": "Turkish",
+		"name": "Türkçe"
+	},
+	"static_ui": {
+		"jsdisabled": "<div><p>Yardım’ı görüntülemek için, JavaScript’i açmanız gerekir.</p>Daha fazla bilgi için, bakınız: <a href=\"http://help.apple.com/resources/javascript/\">Apple destek makalesi</a>.</div>",
+		"loadfailed": "<div>Yardım şu anda kullanılamıyor.</div>"
+	},
+	"ui": {
+		"%@ Search Results": "%@ Arama Sonuçları",
+		"Apple applications": "Apple uygulamaları",
+		"Cancel": "Vazgeç",
+		"Change Language": "Dili Değiştir",
+		"Close": "Kapat",
+		"Featured application help": "Seçme uygulamalar için yardım",
+		"Go to the homepage": "Ana sayfaya git",
+		"Help for:": "Yardım:",
+		"Hide": "Gizle",
+		"Home": "Ana Sayfa",
+		"Loading latest help...": "En son yardım yükleniyor…",
+		"Other applications": "Diğer uygulamalar",
+		"Print Book": "Kitabı Yazdır",
+		"Print Options": "Yazdırma Seçenekleri",
+		"Print Page": "Sayfayı Yazdır",
+		"Print Section": "Bölümü Yazdır",
+		"Recent applications": "Son kullanılan uygulamalar",
+		"Search": "Ara",
+		"Send feedback.": "Geri bildirim gönder.",
+		"Show all": "Tümünü göster",
+		"Show less": "Daha azını göster",
+		"Show the previous page": "Önceki sayfayı göster",
+		"Show the next page": "Sonraki sayfayı göster",
+		"Show": "Göster",
+		"Was this page helpful?": "Bu sayfa faydalı oldu mu?"
+	}
+}

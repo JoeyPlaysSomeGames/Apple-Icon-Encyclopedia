@@ -1,0 +1,39 @@
+{
+	"meta": {
+		"folder": "hu.lproj",
+		"isoCodes": ["hu"],
+		"isoName": "Hungarian",
+		"name": "Magyar"
+	},
+	"static_ui": {
+		"jsdisabled": "<div><p>A súgó megtekintéséhez be kell kapcsolnia a JavaScriptet.</p>További információkért tekintse meg <a href=\"http://help.apple.com/resources/javascript/\">ezt az Apple támogatási cikket</a>.</div>",
+		"loadfailed": "<div>A súgó jelenleg nem érhető el.</div>"
+	},
+	"ui": {
+		"%@ Search Results": "%@ keresési eredmény",
+		"Apple applications": "Apple alkalmazások",
+		"Cancel": "Mégsem",
+		"Change Language": "Nyelv módosítása",
+		"Close": "Bezárás",
+		"Featured application help": "Kiemelt alkalmazássúgó",
+		"Go to the homepage": "Ugrás a keződlapra",
+		"Help for:": "Súgó a következőhöz:",
+		"Hide": "Elrejtés",
+		"Home": "Főgomb",
+		"Loading latest help...": "Legújabb súgó betöltése…",
+		"Other applications": "Egyéb alkalmazások",
+		"Print Book": "Könyv nyomtatása",
+		"Print Options": "Nyomtatási lehetőségek",
+		"Print Page": "Oldal nyomtatása",
+		"Print Section": "Kijelölés nyomtatása",
+		"Recent applications": "Legutóbbi alkalmazások",
+		"Search": "Keresés",
+		"Send feedback.": "Visszajelzés küldése",
+		"Show all": "Az összes megjelenítése",
+		"Show less": "Kevesebb megjelenítése",
+		"Show the previous page": "Előző oldal megjelenítése",
+		"Show the next page": "Következő oldal megjelenítése",
+		"Show": "Megjelenítés",
+		"Was this page helpful?": "Hasznosnak találta ezt az oldalt?"
+	}
+}

@@ -1,0 +1,20 @@
+/* <rdar://problem/10618626> [DVDPlayerHelp] GR: 11D36: Improper accentuation of allcaps string 'WARNING' */
+.contentView span.Warning {
+    text-transform: none !important;
+}
+
+div.dangertitle, 
+div.note.warningtitle, 
+span.note.warning, 
+div.note.warning > span.warningtitle {
+    text-transform: none !important;
+}
+
+.contentView span.LinkUniversal {
+    text-transform: none !important;
+}
+
+div.relinfo > strong, 
+div.linklist.linklist > strong {
+    text-transform: none !important;
+}

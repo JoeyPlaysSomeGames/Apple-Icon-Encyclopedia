@@ -1,0 +1,163 @@
+{
+  "content" : {
+    "button-1" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='pbhlp32628'><div class='subjectids'><a name='pbhlp32628'><\/a><\/div><h1 class='title topictitle1'>Ajutor Photo Booth<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Ajutor Photo Booth<\/h2><p class='p'>Creați poze cu o singură imagine, o rafală rapidă de patru poze sau un clip video.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Ajutor Photo Booth",
+      "name" : "Ajutor Photo Booth",
+      "class" : "default"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "pbhlp32628",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628-a" : {
+      "name" : "Informații esențiale"
+    },
+    "pbhlp32628-b" : {
+      "name" : "Îmbunătățirea instantaneelor și a clipurilor video"
+    },
+    "offline-message-com-apple-PhotoBooth-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-PhotoBooth-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-PhotoBooth-help'><\/a><\/div><h1 class='title topictitle1'>Subiectul selectat este momentan indisponibil<\/h1><div class='body conbody'><p class='p'>Asigurați-vă că dispuneți de o conexiune la Internet. Pentru ajutor referitor la conectare, selectați meniul Apple > Preferințe sistem, faceți clic pe Rețea și clic pe “Doresc asistență”.<\/p><p class='p'>Dacă dispuneți de o conexiune la Internet, însă conținutul tot nu apare, reîncercați mai târziu.<\/p><\/div><\/div>",
+      "alternativeName" : "Subiectul selectat este momentan indisponibil",
+      "name" : "Subiectul selectat este momentan indisponibil",
+      "class" : "content-not-available-message"
+    },
+    "pbhlp32628-c" : {
+      "name" : "Utilizarea instantaneelor și a clipurilor video"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "pbhlp32628",
+          "class" : "default"
+        },
+        {
+          "id" : "pbhlp32628-a",
+          "children" : [
+            {
+              "name" : "Crearea unui instantaneu sau a unui clip video",
+              "href" : "#pbhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Dezactivarea numărătorii inverse sau a blițului",
+              "href" : "#pbhlp18454",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Previzualizarea instantaneelor și a clipurilor video",
+              "href" : "#pbhlp11570",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Tipărirea unei foi de probă",
+              "href" : "#pbhlp11571",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Ștergerea instantaneelor și a clipurilor video",
+              "href" : "#pbhlp1009",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Utilizarea Photo Booth pe tot ecranul",
+              "href" : "#pbhlp36644",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-b",
+          "children" : [
+            {
+              "name" : "Întoarcerea unui instantaneu sau a unui clip video",
+              "href" : "#pbhlp1006",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Utilizarea efectelor și a fundalurilor",
+              "href" : "#pbhlp1005",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Scurtarea unui clip video",
+              "href" : "#pbhlp32627",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-c",
+          "children" : [
+            {
+              "name" : "Exportarea unui instantaneu sau a unui clip video",
+              "href" : "#pbhlp11572",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Selectarea unei imagini pentru Mesaje",
+              "href" : "#pbhlp1002",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Selectarea imaginii dvs. de cont",
+              "href" : "#pbhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Selectarea imaginii dvs. de profil Twitter",
+              "href" : "#pbhlp40699",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Trimiterea unui instantaneu sau a unui clip video utilizând aplicația Mail",
+              "href" : "#pbhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Partajarea unui instantaneu sau a unui clip video cu persoane din apropiere",
+              "href" : "#pbhlp40693",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Partajarea unui instantaneu sau a unui clip video în medii de socializare",
+              "href" : "#pbhlp40625",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-PhotoBooth-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "13.6",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "pbic.png",
+    "AppVersion" : "4.0",
+    "FolderName" : "PhotoBooth.help",
+    "LocalizationISOCode" : "ro",
+    "buildID" : "D0A542F4-87F1-11E1-B012-155775470237",
+    "Title" : "Ajutor Photo Booth",
+    "RemoteURL" : "https:\/\/help.apple.com\/photobooth\/mac\/10.8\/help\/"
+  }
+}

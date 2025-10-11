@@ -1,0 +1,39 @@
+{
+	"meta": {
+		"folder": "ru.lproj",
+		"isoCodes": ["ru"],
+		"isoName": "Russian",
+		"name": "Русский"
+	},
+	"static_ui": {
+		"jsdisabled": "<div><p>Для просмoтра Справки необходимо включить JavaScript.\n Для получения более подробной информации см. <a href=\"http://help.apple.com/resources/javascript/\">статью службы поддержки Apple</a>.</div>",
+		"loadfailed": "<div>Справка временно недоступна.</div>"
+	},
+	"ui": {
+		"%@ Search Results": "Результатов поиска: %@",
+		"Apple applications": "Программы Apple",
+		"Cancel": "Отменить",
+		"Change Language": "Изменить язык",
+		"Close": "Закрыть",
+		"Featured application help": "Справка текущей программы",
+		"Go to the homepage": "Перейти к главной странице",
+		"Help for:": "Справка:",
+		"Hide": "Скрыть",
+		"Home": "Кнопка «Домой»",
+		"Loading latest help...": "Загрузка последней версии Справки…",
+		"Other applications": "Другие программы",
+		"Print Book": "Напечатать книгу",
+		"Print Options": "Параметры печати",
+		"Print Page": "Напечатать страницу",
+		"Print Section": "Напечатать раздел",
+		"Recent applications": "Недавние программы",
+		"Search": "Найти",
+		"Send feedback.": "Отправить отзыв.",
+		"Show all": "Показать все",
+		"Show less": "Показать часть",
+		"Show the previous page": "Показать предыдущую страницу",
+		"Show the next page": "Показать следующую страницу",
+		"Show": "Показать",
+		"Was this page helpful?": "Была ли эта страница полезной?"
+	}
+}

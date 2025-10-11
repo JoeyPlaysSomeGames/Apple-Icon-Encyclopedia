@@ -1,0 +1,39 @@
+{
+	"meta": {
+		"folder": "uk.lproj",
+		"isoCodes": ["uk"],
+		"isoName": "Ukranian",
+		"name": "Українська"
+	},
+	"static_ui": {
+		"jsdisabled": "<div><p>Для перегляду довідки необхідно ввімкнути JavaScript.</p>Додаткові відомості можна знайти у <a href=\"http://help.apple.com/resources/javascript/\">цій статті служби підтримки Apple</a>.</div>",
+		"loadfailed": "<div>Довідка зараз недоступна.</div>"
+	},
+	"ui": {
+		"%@ Search Results": "Результатів пошуку: %@",
+		"Apple applications": "Програми Apple",
+		"Cancel": "Скасувати",
+		"Change Language": "Змінити мову",
+		"Close": "Закрити",
+		"Featured application help": "Довідка цікавих програм",
+		"Go to the homepage": "Перейти до голвної сторінки",
+		"Help for:": "Довідка для:",
+		"Hide": "Сховати",
+		"Home": "Головна",
+		"Loading latest help...": "Викачую останню довідку…",
+		"Other applications": "Інші програми",
+		"Print Book": "Друкувати книгу",
+		"Print Options": "Параметри друку",
+		"Print Page": "Друкувати сторінку",
+		"Print Section": "Друкувати розділ",
+		"Recent applications": "Нещодавно використані програми",
+		"Search": "Шукати",
+		"Send feedback.": "Надіслати відгук.",
+		"Show all": "Показати всі",
+		"Show less": "Показати менше",
+		"Show the previous page": "Показати попередню сторінку",
+		"Show the next page": "Показати наступну сторінку",
+		"Show": "Показати",
+		"Was this page helpful?": "Ця сторінка стала вам у пригоді?"
+	}
+}

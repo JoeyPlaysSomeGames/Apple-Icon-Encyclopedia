@@ -1,0 +1,163 @@
+{
+  "content" : {
+    "button-1" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='pbhlp32628'><div class='subjectids'><a name='pbhlp32628'><\/a><\/div><h1 class='title topictitle1'>Справка Photo Booth<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Справка Photo Booth<\/h2><p class='p'>Создание фотоснимков, групп из четырех фотоснимков и видеоклипов.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Справка Photo Booth",
+      "name" : "Справка Photo Booth",
+      "class" : "default"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "pbhlp32628",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628-a" : {
+      "name" : "Основные сведения"
+    },
+    "pbhlp32628-b" : {
+      "name" : "Редактирование снимков и видеоклипов"
+    },
+    "offline-message-com-apple-PhotoBooth-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-PhotoBooth-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-PhotoBooth-help'><\/a><\/div><h1 class='title topictitle1'>Выбранный раздел в настоящий момент недоступен<\/h1><div class='body conbody'><p class='p'>Убедитесь, что компьютер подключен к Интернету. Для получения пошаговых инструкций по подключению к Интернету в меню Apple выберите «Системные настройки», «Сеть», затем «Ассистент».<\/p><p class='p'>Если при наличии соединения с Интернетом содержимое по-прежнему не отображается, повторите попытку позднее.<\/p><\/div><\/div>",
+      "alternativeName" : "Выбранный раздел в настоящий момент недоступен",
+      "name" : "Выбранный раздел в настоящий момент недоступен",
+      "class" : "content-not-available-message"
+    },
+    "pbhlp32628-c" : {
+      "name" : "Использование снимков и видеоклипов Photo Booth"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "pbhlp32628",
+          "class" : "default"
+        },
+        {
+          "id" : "pbhlp32628-a",
+          "children" : [
+            {
+              "name" : "Создание снимка или видеоклипа",
+              "href" : "#pbhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Отключение обратного отсчета и вспышки",
+              "href" : "#pbhlp18454",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Предварительный просмотр снимков и видеоклипов",
+              "href" : "#pbhlp11570",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Печать контрольных экземпляров фотографий",
+              "href" : "#pbhlp11571",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Удаление снимков и видеоклипов",
+              "href" : "#pbhlp1009",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Использование полноэкранного режима Photo Booth",
+              "href" : "#pbhlp36644",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-b",
+          "children" : [
+            {
+              "name" : "Зеркальное отображение снимка или видеоклипа",
+              "href" : "#pbhlp1006",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Использование эффектов и фонов",
+              "href" : "#pbhlp1005",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Обрезка видеоклипа",
+              "href" : "#pbhlp32627",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-c",
+          "children" : [
+            {
+              "name" : "Экспорт снимка или видеоклипа",
+              "href" : "#pbhlp11572",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Выбор картинки для программы «Сообщения»",
+              "href" : "#pbhlp1002",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Выбор картинки для учетной записи",
+              "href" : "#pbhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Выбор картинки для профиля Twitter ",
+              "href" : "#pbhlp40699",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Отправка снимка или видеоклипа с помощью Mail",
+              "href" : "#pbhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Предоставление доступа к снимку или видеоклипу расположенным поблизости пользователям ",
+              "href" : "#pbhlp40693",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Публикация снимка или видеоклипа в социальных сетях",
+              "href" : "#pbhlp40625",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-PhotoBooth-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "13.6",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "pbic.png",
+    "AppVersion" : "4.0",
+    "FolderName" : "PhotoBooth.help",
+    "LocalizationISOCode" : "ru",
+    "buildID" : "D1EB4758-87F1-11E1-B012-155775470237",
+    "Title" : "Справка Photo Booth",
+    "RemoteURL" : "https:\/\/help.apple.com\/photobooth\/mac\/10.8\/help\/"
+  }
+}

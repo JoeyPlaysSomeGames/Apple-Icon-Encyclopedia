@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioSampleRate</key>
+	<integer>44100</integer>
+	<key>audioCodecs</key>
+	<array>
+		<string>aac </string>
+	</array>
+	<key>UTIs</key>
+	<array>
+		<string>com.apple.protected-mpeg-4-video</string>
+		<string>public.movie</string>
+		<string>com.apple.quicktime-movie</string>
+		<string>public.3gpp</string>
+		<string>public.3gpp2</string>
+		<string>public.mpeg</string>
+		<string>public.mpeg-2-video</string>
+		<string>public.mpeg-4</string>
+		<string>com.microsoft.windows-media-wmv</string>
+	</array>
+	<key>videoDataRate</key>
+	<integer>5000000</integer>
+	<key>audioDataRate</key>
+	<integer>320000</integer>
+	<key>dimensions</key>
+	<string>{1280,720}</string>
+	<key>videoCodecs</key>
+	<array>
+		<string>avc1</string>
+		<string>mp4v</string>
+		<string>mp2v</string>
+		<string>h263</string>
+	</array>
+</dict>
+</plist>

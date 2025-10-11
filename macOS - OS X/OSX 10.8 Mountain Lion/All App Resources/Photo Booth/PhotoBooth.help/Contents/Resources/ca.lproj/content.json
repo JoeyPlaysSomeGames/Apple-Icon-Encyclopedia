@@ -1,0 +1,163 @@
+{
+  "content" : {
+    "button-1" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='pbhlp32628'><div class='subjectids'><a name='pbhlp32628'><\/a><\/div><h1 class='title topictitle1'>Ajuda Photo Booth<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Ajuda Photo Booth<\/h2><p class='p'>Creeu fotos d'una sola imatge, una ràfega ràpida de quatre fotos o un clip de pel·lícula.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Ajuda Photo Booth",
+      "name" : "Ajuda Photo Booth",
+      "class" : "default"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "pbhlp32628",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628-a" : {
+      "name" : "Nocions bàsiques"
+    },
+    "pbhlp32628-b" : {
+      "name" : "Millorar les captures i els clips de vídeo"
+    },
+    "offline-message-com-apple-PhotoBooth-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-PhotoBooth-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-PhotoBooth-help'><\/a><\/div><h1 class='title topictitle1'>El tema seleccionat no està disponible ara<\/h1><div class='body conbody'><p class='p'>Comproveu que teniu connexió a Internet. Per obtenir ajuda sobre com establir connexió, seleccioneu el menú Apple > Preferències del Sistema i feu clic a Xarxa i, després, a Assistent.<\/p><p class='p'>Si esteu connectat a Internet però el contingut no apareix, proveu-ho de nou més endavant.<\/p><\/div><\/div>",
+      "alternativeName" : "El tema seleccionat no està disponible ara",
+      "name" : "El tema seleccionat no està disponible ara",
+      "class" : "content-not-available-message"
+    },
+    "pbhlp32628-c" : {
+      "name" : "Utilitzar les captures i els clips de vídeo"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "pbhlp32628",
+          "class" : "default"
+        },
+        {
+          "id" : "pbhlp32628-a",
+          "children" : [
+            {
+              "name" : "Crear una captura o un clip de vídeo",
+              "href" : "#pbhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Desactivar el compte enrere o el flaix",
+              "href" : "#pbhlp18454",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Previsualitzar fotos i clips de vídeo",
+              "href" : "#pbhlp11570",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Imprimir un full de prova",
+              "href" : "#pbhlp11571",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Eliminar captures i clips de vídeo",
+              "href" : "#pbhlp1009",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Utilitzar Photo Booth a pantalla completa",
+              "href" : "#pbhlp36644",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-b",
+          "children" : [
+            {
+              "name" : "Invertir una captura o un clip de vídeo",
+              "href" : "#pbhlp1006",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Utilitzar efectes i fons d'usuari",
+              "href" : "#pbhlp1005",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Retallar un clip de vídeo",
+              "href" : "#pbhlp32627",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-c",
+          "children" : [
+            {
+              "name" : "Exportar una captura o un clip de vídeo",
+              "href" : "#pbhlp11572",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Seleccionar una imatge per al Missatges",
+              "href" : "#pbhlp1002",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Seleccionar la imatge del vostre compte",
+              "href" : "#pbhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Seleccionar la imatge del vostre perfil de Twitter",
+              "href" : "#pbhlp40699",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Enviar una captura o un clip de vídeo amb Mail",
+              "href" : "#pbhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Compartir una captura o un clip de vídeo amb persones situades a prop",
+              "href" : "#pbhlp40693",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Compartir una captura o un clip de vídeo a les xarxes socials",
+              "href" : "#pbhlp40625",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-PhotoBooth-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "13.6",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "pbic.png",
+    "AppVersion" : "4.0",
+    "FolderName" : "PhotoBooth.help",
+    "LocalizationISOCode" : "ca",
+    "buildID" : "C8BB9502-87F1-11E1-B012-155775470237",
+    "Title" : "Ajuda Photo Booth",
+    "RemoteURL" : "https:\/\/help.apple.com\/photobooth\/mac\/10.8\/help\/"
+  }
+}

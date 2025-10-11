@@ -1,0 +1,163 @@
+{
+  "content" : {
+    "button-1" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='pbhlp32628'><div class='subjectids'><a name='pbhlp32628'><\/a><\/div><h1 class='title topictitle1'>Hjælp til Photo Booth<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Hjælp til Photo Booth<\/h2><p class='p'>Optag et enkelt fotografi, en hurtig sekvens med fire fotografier eller et filmklip.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Hjælp til Photo Booth",
+      "name" : "Hjælp til Photo Booth",
+      "class" : "default"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "pbhlp32628",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628-a" : {
+      "name" : "Vigtige emner"
+    },
+    "pbhlp32628-b" : {
+      "name" : "Gør dine snapshots og videoklip bedre"
+    },
+    "offline-message-com-apple-PhotoBooth-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-PhotoBooth-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-PhotoBooth-help'><\/a><\/div><h1 class='title topictitle1'>Det valgte emne er utilgængeligt<\/h1><div class='body conbody'><p class='p'>Sørg for, at der er oprettet forbindelse til internettet. Vælg Apple > Systemindstillinger, klik på Netværk, og klik derefter på “Hjælp mig” for at få hjælp med at oprette forbindelse.<\/p><p class='p'>Hvis der er forbindelse til internettet, og indholdet stadig ikke vises, kan du prøve igen senere.<\/p><\/div><\/div>",
+      "alternativeName" : "Det valgte emne er utilgængeligt",
+      "name" : "Det valgte emne er utilgængeligt",
+      "class" : "content-not-available-message"
+    },
+    "pbhlp32628-c" : {
+      "name" : "Brug snapshots og videoklip"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "pbhlp32628",
+          "class" : "default"
+        },
+        {
+          "id" : "pbhlp32628-a",
+          "children" : [
+            {
+              "name" : "Optag et snapshot eller et videoklip",
+              "href" : "#pbhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Slå nedtællingen eller blitzen fra",
+              "href" : "#pbhlp18454",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Se eksempler på dine snapshots og videoklip",
+              "href" : "#pbhlp11570",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Udskriv et korrekturark",
+              "href" : "#pbhlp11571",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Slet snapshots og videoklip",
+              "href" : "#pbhlp1009",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Brug Photo Booth på fuld skærm",
+              "href" : "#pbhlp36644",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-b",
+          "children" : [
+            {
+              "name" : "Spejlvend et snapshot eller videoklip",
+              "href" : "#pbhlp1006",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Brug effekter og baggrunde",
+              "href" : "#pbhlp1005",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Tilpas et videoklip",
+              "href" : "#pbhlp32627",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-c",
+          "children" : [
+            {
+              "name" : "Eksporter et snapshot eller videoklip",
+              "href" : "#pbhlp11572",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Vælg et billede til Beskeder",
+              "href" : "#pbhlp1002",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Vælg dit kontobillede",
+              "href" : "#pbhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Vælg dit Twitter-profilbillede",
+              "href" : "#pbhlp40699",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Send et snapshot eller videoklip vha. Mail",
+              "href" : "#pbhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Del et snapshot eller videoklip med andre i nærheden",
+              "href" : "#pbhlp40693",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Del et snapshot eller videoklip til sociale medier",
+              "href" : "#pbhlp40625",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-PhotoBooth-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "13.6",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "pbic.png",
+    "AppVersion" : "4.0",
+    "FolderName" : "PhotoBooth.help",
+    "LocalizationISOCode" : "da",
+    "buildID" : "C80987EA-87F1-11E1-B012-155775470237",
+    "Title" : "Hjælp til Photo Booth",
+    "RemoteURL" : "https:\/\/help.apple.com\/photobooth\/mac\/10.8\/help\/"
+  }
+}

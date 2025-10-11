@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <string name="targetFramework">IBCarbonFramework</string>
+  <object name="rootObject" class="NSCustomObject" id="1">
+    <string name="customClass">NSApplication</string>
+  </object>
+  <array count="2" name="allObjects">
+    <object class="IBCarbonWindow" id="886">
+      <string name="windowRect">324 479 524 679 </string>
+      <string name="title">Fade Window</string>
+      <object name="rootControl" class="IBCarbonRootControl" id="887">
+        <string name="bounds">0 0 200 200 </string>
+      </object>
+      <boolean name="receiveActivates">FALSE</boolean>
+      <boolean name="hasCloseBox">FALSE</boolean>
+      <boolean name="hasCollapseBox">FALSE</boolean>
+      <boolean name="hasHorizontalZoom">FALSE</boolean>
+      <boolean name="isResizable">FALSE</boolean>
+      <boolean name="hasVerticalZoom">FALSE</boolean>
+      <int name="carbonWindowClass">13</int>
+      <int name="themeBrush">-1</int>
+    </object>
+    <reference idRef="887"/>
+  </array>
+  <array count="2" name="allParents">
+    <reference idRef="1"/>
+    <reference idRef="886"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>FadeWind</string>
+    <reference idRef="886"/>
+    <string>Files Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <unsigned_int name="nextObjectID">888</unsigned_int>
+</object>

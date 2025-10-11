@@ -1,0 +1,163 @@
+{
+  "content" : {
+    "button-1" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='pbhlp32628'><div class='subjectids'><a name='pbhlp32628'><\/a><\/div><h1 class='title topictitle1'>A Photo Booth súgója<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>A Photo Booth súgója<\/h2><p class='p'>Készítsen egyetlen képből álló fényképeket, négy, gyorsan megjelenő képből álló fényképeket, illetve filmklipeket.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "A Photo Booth súgója",
+      "name" : "A Photo Booth súgója",
+      "class" : "default"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "pbhlp32628",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628-a" : {
+      "name" : "Alapok"
+    },
+    "pbhlp32628-b" : {
+      "name" : "Pillanatfelvételek vagy videoklipek javítása"
+    },
+    "offline-message-com-apple-PhotoBooth-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-PhotoBooth-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-PhotoBooth-help'><\/a><\/div><h1 class='title topictitle1'>A kijelölt témakör jelenleg nem érhető el.<\/h1><div class='body conbody'><p class='p'>Győződjön meg róla, hogy csatlakozik az internethez. Ha segítségre van szüksége, válassza az Apple menü > Rendszerbeállítások menüpontot, kattintson a Hálózat, majd a „Segítség kérése” elemre.<\/p><p class='p'>Ha csatlakozik az internethez, és a tartalom továbbra sem jelenik meg, próbálja meg később.<\/p><\/div><\/div>",
+      "alternativeName" : "A kijelölt témakör jelenleg nem érhető el.",
+      "name" : "A kijelölt témakör jelenleg nem érhető el.",
+      "class" : "content-not-available-message"
+    },
+    "pbhlp32628-c" : {
+      "name" : "Pillanatfelvételek vagy videoklipek használata"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "pbhlp32628",
+          "class" : "default"
+        },
+        {
+          "id" : "pbhlp32628-a",
+          "children" : [
+            {
+              "name" : "Pillanatfelvétel vagy videoklip létrehozása",
+              "href" : "#pbhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "A visszaszámlálás vagy a vaku kikapcsolása",
+              "href" : "#pbhlp18454",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Pillanatfelvételek és videoklipek megtekintése",
+              "href" : "#pbhlp11570",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Próbanyomat kinyomtatása",
+              "href" : "#pbhlp11571",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Pillanatfelvételek vagy videoklipek törlése",
+              "href" : "#pbhlp1009",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "A Photo Booth használata teljes képernyőn",
+              "href" : "#pbhlp36644",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-b",
+          "children" : [
+            {
+              "name" : "Pillanatfelvétel vagy videoklip átfordítása",
+              "href" : "#pbhlp1006",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Effektusok és háttérfüggönyök használata",
+              "href" : "#pbhlp1005",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Videoklip vágása",
+              "href" : "#pbhlp32627",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-c",
+          "children" : [
+            {
+              "name" : "Pillanatfelvétel vagy videoklip exportálása",
+              "href" : "#pbhlp11572",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Üzenetek képének kijelölése",
+              "href" : "#pbhlp1002",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Fiókkép kijelölése",
+              "href" : "#pbhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Twitter-profilkép kijelölése",
+              "href" : "#pbhlp40699",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Pillanatfelvétel vagy videoklip küldése a Mail használatával",
+              "href" : "#pbhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Pillanatfelvétel vagy videoklip megosztása a közelben lévőkkel",
+              "href" : "#pbhlp40693",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Pillanatfelvétel vagy videoklip megosztása a társasági hálózatokon",
+              "href" : "#pbhlp40625",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-PhotoBooth-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "13.6",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "pbic.png",
+    "AppVersion" : "4.0",
+    "FolderName" : "PhotoBooth.help",
+    "LocalizationISOCode" : "hu",
+    "buildID" : "CEDB5D64-87F1-11E1-B012-155775470237",
+    "Title" : "A Photo Booth súgója",
+    "RemoteURL" : "https:\/\/help.apple.com\/photobooth\/mac\/10.8\/help\/"
+  }
+}

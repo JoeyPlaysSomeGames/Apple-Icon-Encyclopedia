@@ -1,0 +1,163 @@
+{
+  "content" : {
+    "button-1" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='pbhlp32628'><div class='subjectids'><a name='pbhlp32628'><\/a><\/div><h1 class='title topictitle1'>مساعدة Photo Booth<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>مساعدة Photo Booth<\/h2><p class='p'>قم بإنشاء صور مفردة أو مجموعة سريعة من أربع صور أو مقطع فيلم.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "مساعدة Photo Booth",
+      "name" : "مساعدة Photo Booth",
+      "class" : "default"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "pbhlp32628",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628-a" : {
+      "name" : "الأساسيات"
+    },
+    "pbhlp32628-b" : {
+      "name" : "تحسين اللقطات ومقاطع الفيديو"
+    },
+    "offline-message-com-apple-PhotoBooth-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-PhotoBooth-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-PhotoBooth-help'><\/a><\/div><h1 class='title topictitle1'>الموضوع المحدد غير متوفر حاليًا.<\/h1><div class='body conbody'><p class='p'>تأكد من الاتصال بالإنترنت. للحصول على مساعدة، اختر قائمة Apple > تفضيلات النظام، وانقر على الشبكة، ثم انقر على \"ساعدني\".<\/p><p class='p'>إذا كنت متصلاً بالإنترنت، ولا يظهر المحتوى بعد، فحاول مرة أخرى لاحقًا.<\/p><\/div><\/div>",
+      "alternativeName" : "الموضوع المحدد غير متوفر حاليًا.",
+      "name" : "الموضوع المحدد غير متوفر حاليًا.",
+      "class" : "content-not-available-message"
+    },
+    "pbhlp32628-c" : {
+      "name" : "استخدام اللقطات ومقاطع الفيديو"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "pbhlp32628",
+          "class" : "default"
+        },
+        {
+          "id" : "pbhlp32628-a",
+          "children" : [
+            {
+              "name" : "إنشاء لقطة أو مقطع فيديو",
+              "href" : "#pbhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "إيقاف تشغيل العد التنازلي أو الوميض",
+              "href" : "#pbhlp18454",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "معاينة اللقطات أو مقاطع الفيديو الخاصة بك",
+              "href" : "#pbhlp11570",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "طباعة ورقة اختبار",
+              "href" : "#pbhlp11571",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "حذف لقطات ومقاطع فيديو",
+              "href" : "#pbhlp1009",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "استخدام Photo Booth في وضع ملء الشاشة",
+              "href" : "#pbhlp36644",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-b",
+          "children" : [
+            {
+              "name" : "تحريك لقطة أو مقطع فيديو",
+              "href" : "#pbhlp1006",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "استخدام التأثيرات والخلفيات",
+              "href" : "#pbhlp1005",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "قص مقطع فيديو",
+              "href" : "#pbhlp32627",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-c",
+          "children" : [
+            {
+              "name" : "تصدير لقطة أو مقطع فيديو",
+              "href" : "#pbhlp11572",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "تحديد صورة رسائل",
+              "href" : "#pbhlp1002",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "تحديد صورة الحساب الخاص بك",
+              "href" : "#pbhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "تحديد صورة ملف تعريف Twitter الخاص بك",
+              "href" : "#pbhlp40699",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "إرسال لقطة أو مقطع فيديو باستخدام Mail",
+              "href" : "#pbhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "مشاركة لقطة أو مقطع فيديو مع آخرين بجوارك",
+              "href" : "#pbhlp40693",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "مشاركة لقطة أو مقطع فيديو إلى الوسائط الاجتماعية",
+              "href" : "#pbhlp40625",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-PhotoBooth-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "13.6",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "pbic.png",
+    "AppVersion" : "4.0",
+    "FolderName" : "PhotoBooth.help",
+    "LocalizationISOCode" : "ar",
+    "buildID" : "C8ADA5BE-87F1-11E1-B012-155775470237",
+    "Title" : "مساعدة Photo Booth",
+    "RemoteURL" : "https:\/\/help.apple.com\/photobooth\/mac\/10.8\/help\/"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "content" : {
+    "button-1" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='pbhlp32628'><div class='subjectids'><a name='pbhlp32628'><\/a><\/div><h1 class='title topictitle1'>การช่วยเหลือ Photo Booth<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>การช่วยเหลือ Photo Booth<\/h2><p class='p'>สร้างรูปภาพเดียว หรือชุดรูปภาพสี่รูปอย่างรวดเร็ว หรือคลิปวีดีโอ<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "การช่วยเหลือ Photo Booth",
+      "name" : "การช่วยเหลือ Photo Booth",
+      "class" : "default"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "pbhlp32628",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628-a" : {
+      "name" : "สิ่งจำเป็น"
+    },
+    "pbhlp32628-b" : {
+      "name" : "เพิ่มคุณภาพให้กับสแนปช็อตและคลิปวีดีโอ"
+    },
+    "offline-message-com-apple-PhotoBooth-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-PhotoBooth-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-PhotoBooth-help'><\/a><\/div><h1 class='title topictitle1'>ขณะนี้ยังไม่สามารถใช้หัวข้อที่เลือก<\/h1><div class='body conbody'><p class='p'>ตรวจสอบว่าคุณได้เชื่อมต่ออินเทอร์เน็ต สำหรับความช่วยเหลือในการเชื่อมต่อ เลือกเมนู Apple > การตั้งค่าระบบ คลิกเครือข่าย และคลิก \"ช่วยเหลือฉัน\"<\/p><p class='p'>ถ้าคุณเชื่อมต่ออินเทอร์เน็ต แต่เนื้อหายังคงไม่ปรากฏ ให้ลองอีกครั้งในภายหลัง<\/p><\/div><\/div>",
+      "alternativeName" : "ขณะนี้ยังไม่สามารถใช้หัวข้อที่เลือก",
+      "name" : "ขณะนี้ยังไม่สามารถใช้หัวข้อที่เลือก",
+      "class" : "content-not-available-message"
+    },
+    "pbhlp32628-c" : {
+      "name" : "ใช้สแนปช็อตและคลิปวีดีโอ"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "pbhlp32628",
+          "class" : "default"
+        },
+        {
+          "id" : "pbhlp32628-a",
+          "children" : [
+            {
+              "name" : "สร้างสแนปช็อตหรือคลิปวีดีโอ",
+              "href" : "#pbhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "ปิดการนับถอยหลังหรือไฟแฟลช",
+              "href" : "#pbhlp18454",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "แสดงตัวอย่างสแนปช็อตและคลิปวีดีโอ",
+              "href" : "#pbhlp11570",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "พิมพ์เอกสารรองรับ",
+              "href" : "#pbhlp11571",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "ลบสแนปช็อตและคลิปวีดีโอ",
+              "href" : "#pbhlp1009",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "ใช้ Photo Booth แบบเต็มหน้าจอ",
+              "href" : "#pbhlp36644",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-b",
+          "children" : [
+            {
+              "name" : "พลิกสแนปช็อตหรือคลิปวีดีโอ",
+              "href" : "#pbhlp1006",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "ใช้เอฟเฟ็กต์และฉากหลัง",
+              "href" : "#pbhlp1005",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "ตัดแต่งคลิปวีดีโอ",
+              "href" : "#pbhlp32627",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-c",
+          "children" : [
+            {
+              "name" : "ส่งออกสแนปช็อตหรือคลิปวีดีโอ",
+              "href" : "#pbhlp11572",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "เลือกรูปภาพข้อความ",
+              "href" : "#pbhlp1002",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "เลือกรูปภาพบัญชีของคุณ",
+              "href" : "#pbhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "เลือกรูปภาพโปรไฟล์ Twitter ของคุณ",
+              "href" : "#pbhlp40699",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "ส่งสแนปช็อต Photo Booth หรือคลิปวีดีโอโดยใช้ Mail",
+              "href" : "#pbhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "แบ่งปันสแนปช็อตหรือคลิปวิดีโอกับผู้อื่นใกล้ ๆ คุณ",
+              "href" : "#pbhlp40693",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "แบ่งปันสแนปช็อตหรือคลิปวิดีโอไปยังเครือข่ายสังคม",
+              "href" : "#pbhlp40625",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-PhotoBooth-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "13.6",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "pbic.png",
+    "AppVersion" : "4.0",
+    "FolderName" : "PhotoBooth.help",
+    "LocalizationISOCode" : "th",
+    "buildID" : "D1FE5E42-87F1-11E1-B012-155775470237",
+    "Title" : "การช่วยเหลือ Photo Booth",
+    "RemoteURL" : "https:\/\/help.apple.com\/photobooth\/mac\/10.8\/help\/"
+  }
+}

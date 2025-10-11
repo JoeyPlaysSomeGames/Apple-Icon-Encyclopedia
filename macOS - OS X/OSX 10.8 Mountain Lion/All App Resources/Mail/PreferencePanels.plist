@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ContentSize</key>
+	<string>{550 ,380}</string>
+	<key>PreferencePanels</key>
+	<array>
+		<dict>
+			<key>Class</key>
+			<string>GeneralPreferences</string>
+			<key>Identifier</key>
+			<string>General</string>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>AccountPreferences</string>
+			<key>Identifier</key>
+			<string>Accounts</string>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>JunkPreferences</string>
+			<key>Identifier</key>
+			<string>Junk</string>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>FontsAndColorsPreferences</string>
+			<key>Identifier</key>
+			<string>Fonts &amp; Colors</string>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>ViewerPreferences</string>
+			<key>Identifier</key>
+			<string>Viewing</string>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>ComposingPreferences</string>
+			<key>Identifier</key>
+			<string>Composing</string>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>SignaturePreferences</string>
+			<key>Identifier</key>
+			<string>Signatures</string>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>RulesPreferences</string>
+			<key>Identifier</key>
+			<string>Rules</string>
+		</dict>
+	</array>
+	<key>UsesButtons</key>
+	<string>0</string>
+</dict>
+</plist>

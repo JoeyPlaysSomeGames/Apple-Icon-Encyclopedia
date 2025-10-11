@@ -1,0 +1,39 @@
+{
+	"meta": {
+		"folder": "sk.lproj",
+		"isoCodes": ["sk"],
+		"isoName": "Slovak",
+		"name": "Slovenčina"
+	},
+	"static_ui": {
+		"jsdisabled": "<div><p>Pre zobrazenie pomocníka musíte zapnúť JavaScript.</p>Viac informácií nájdete v <a href=\"http://help.apple.com/resources/javascript/\">tomto podpornom článku Apple</a>.</div>",
+		"loadfailed": "<div>Pomocník je momentálne nedostupný.</div>"
+	},
+	"ui": {
+		"%@ Search Results": "Výsledky vyhľadávania: %@",
+		"Apple applications": "Apple aplikácie",
+		"Cancel": "Zrušiť",
+		"Change Language": "Zmeniť jazyk",
+		"Close": "Zatvoriť",
+		"Featured application help": "Pomocník pre vybranú aplikáciu",
+		"Go to the homepage": "Prejsť na domovskú stránku",
+		"Help for:": "Pomocník pre:",
+		"Hide": "Skryť",
+		"Home": "Domov",
+		"Loading latest help...": "Načítava sa najnovší pomocník…",
+		"Other applications": "Iné aplikácie",
+		"Print Book": "Tlačiť knihu",
+		"Print Options": "Možnosti tlače",
+		"Print Page": "Tlačiť stránku",
+		"Print Section": "Tlačiť výber",
+		"Recent applications": "Posledné aplikácie",
+		"Search": "Vyhľadať",
+		"Send feedback.": "Vyjadriť názor.",
+		"Show all": "Zobraziť všetko",
+		"Show less": "Zobraziť menej",
+		"Show the previous page": "Zobraziť predošlú stránku",
+		"Show the next page": "Zobraziť ďalšiu stránku",
+		"Show": "Zobraziť",
+		"Was this page helpful?": "Bola táto stránka užitočná?"
+	}
+}

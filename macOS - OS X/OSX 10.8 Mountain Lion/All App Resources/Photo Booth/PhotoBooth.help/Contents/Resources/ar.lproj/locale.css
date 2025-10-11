@@ -1,0 +1,14 @@
+/* <rdar://problem/10535448> */
+
+.RightToLeft:lang(ar) .contentView ol.ListNumber > li, 
+.RightToLeft:lang(ar) ol.ol.steps > li.li.step {
+	list-style: arabic-indic;
+}
+
+.RightToLeft:lang(ar) ol.ListNumber.decimal > li {
+	list-style: arabic-indic;
+}
+
+.RightToLeft:lang(ar) div.body.taskbody > ol.ol.steps > .step {
+	list-style: arabic-indic;
+}

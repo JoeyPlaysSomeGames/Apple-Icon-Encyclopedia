@@ -1,0 +1,40 @@
+{
+	"meta": {
+		"folder": "he.lproj",
+		"cssClass": "RightToLeft",
+		"isoCodes": ["he"],
+		"isoName": "Hebrew",
+		"name": "עברית"
+	},
+	"static_ui": {
+		"jsdisabled": "<div><p>על-מנת לצפות בקבצי עזרה, יש להפעיל את JavaScript.</p>למידע נוסף, היכנס/י אל <a href=\"http://help.apple.com/resources/javascript/\">עמוד תמיכה זו של Apple</a>.</div>",
+		"loadfailed": "<div>מערכת העזרה אינה זמינה כעת.</div>"
+	},
+	"ui": {
+		"%@ Search Results": "%@ תוצאות",
+		"Apple applications": "יישומי Apple",
+		"Cancel": "ביטול",
+		"Change Language": "החלף/י שפה",
+		"Close": "סגור",
+		"Featured application help": "עזרה בנושא היישומים המומלצים",
+		"Go to the homepage": "עבור אל דף הבית",
+		"Help for:": "עזרה בנושא:",
+		"Hide": "הסתר",
+		"Home": "בית",
+		"Loading latest help...": "טוען את קבצי העזרה החדשים ביותר…",
+		"Other applications": "יישומים אחרים",
+		"Print Book": "הדפס ספר",
+		"Print Options": "אפשרויות הדפסה",
+		"Print Page": "הדפס עמוד",
+		"Print Section": "הדפס מקטע",
+		"Recent applications": "יישומים אחרונים",
+		"Search": "חיפוש",
+		"Send feedback.": "שלח/י משוב.",
+		"Show all": "הצג הכול",
+		"Show less": "הצג פחות",
+		"Show the previous page": "הצג את העמוד הקודם",
+		"Show the next page": "הצג את העמוד הבא",
+		"Show": "הצג",
+		"Was this page helpful?": "האם עמוד זה עזר לך?"
+	}
+}

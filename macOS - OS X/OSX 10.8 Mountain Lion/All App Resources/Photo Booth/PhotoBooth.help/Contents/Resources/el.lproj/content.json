@@ -1,0 +1,163 @@
+{
+  "content" : {
+    "button-1" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='pbhlp32628'><div class='subjectids'><a name='pbhlp32628'><\/a><\/div><h1 class='title topictitle1'>Βοήθεια για το Photo Booth<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Βοήθεια για το Photo Booth<\/h2><p class='p'>Δημιουργήστε φωτογραφίες μίας εικόνας, γρήγορη ριπή τεσσάρων φωτογραφιών ή κλιπ ταινιών.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Βοήθεια για το Photo Booth",
+      "name" : "Βοήθεια για το Photo Booth",
+      "class" : "default"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "pbhlp32628",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628-a" : {
+      "name" : "Απαραίτητα"
+    },
+    "pbhlp32628-b" : {
+      "name" : "Ενίσχυση στιγμιότυπων και βιντεοκλίπ"
+    },
+    "offline-message-com-apple-PhotoBooth-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-PhotoBooth-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-PhotoBooth-help'><\/a><\/div><h1 class='title topictitle1'>Αυτήν τη στιγμή, το επιλεγμένο θέμα δεν είναι διαθέσιμο<\/h1><div class='body conbody'><p class='p'>Βεβαιωθείτε ότι είστε συνδεδεμένοι στο Διαδίκτυο. Για βοήθεια με τη σύνδεση, επιλέξτε το μενού Apple > «Προτιμήσεις συστήματος», κάντε κλικ στο «Δίκτυο» και μετά στο «Θέλω βοήθεια».<\/p><p class='p'>Εάν συνδεθείτε στο Διαδίκτυο και το περιεχόμενο δεν εμφανίζεται ακόμη, δοκιμάστε ξανά αργότερα.<\/p><\/div><\/div>",
+      "alternativeName" : "Αυτήν τη στιγμή, το επιλεγμένο θέμα δεν είναι διαθέσιμο",
+      "name" : "Αυτήν τη στιγμή, το επιλεγμένο θέμα δεν είναι διαθέσιμο",
+      "class" : "content-not-available-message"
+    },
+    "pbhlp32628-c" : {
+      "name" : "Χρήση στιγμιότυπων και βιντεοκλίπ"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "pbhlp32628",
+          "class" : "default"
+        },
+        {
+          "id" : "pbhlp32628-a",
+          "children" : [
+            {
+              "name" : "Δημιουργία στιγμιότυπου ή βιντεοκλίπ",
+              "href" : "#pbhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Απενεργοποίηση αντίστροφης μέτρησης ή φλας",
+              "href" : "#pbhlp18454",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Προεπισκόπηση των στιγμιότυπων και βιντεοκλίπ σας",
+              "href" : "#pbhlp11570",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Εκτύπωση σελίδας μικρογραφιών",
+              "href" : "#pbhlp11571",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Διαγραφή στιγμιότυπων και βιντεοκλίπ",
+              "href" : "#pbhlp1009",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Χρήση του Photo Booth σε πλήρη οθόνη",
+              "href" : "#pbhlp36644",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-b",
+          "children" : [
+            {
+              "name" : "Αναστροφή στιγμιότυπου ή βιντεοκλίπ",
+              "href" : "#pbhlp1006",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Χρήση εφέ ή υπόβαθρων",
+              "href" : "#pbhlp1005",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Περικοπή βιντεοκλίπ",
+              "href" : "#pbhlp32627",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-c",
+          "children" : [
+            {
+              "name" : "Εξαγωγή στιγμιότυπου ή βιντεοκλίπ",
+              "href" : "#pbhlp11572",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Επιλογή φωτογραφίας Μηνυμάτων",
+              "href" : "#pbhlp1002",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Επιλογή της φωτογραφίας λογαριασμού σας",
+              "href" : "#pbhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Επιλογή της φωτογραφίας του προφίλ σας στο Twitter",
+              "href" : "#pbhlp40699",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Αποστολή στιγμιότυπου ή βιντεοκλίπ μέσω Mail",
+              "href" : "#pbhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Κοινή χρήση στιγμιότυπου ή βιντεοκλίπ με φίλους",
+              "href" : "#pbhlp40693",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Κοινή χρήση στιγμιότυπου ή βιντεοκλίπ μέσω κοινωνικών μέσων",
+              "href" : "#pbhlp40625",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-PhotoBooth-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "13.6",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "pbic.png",
+    "AppVersion" : "4.0",
+    "FolderName" : "PhotoBooth.help",
+    "LocalizationISOCode" : "el",
+    "buildID" : "C8DCD3D4-87F1-11E1-B012-155775470237",
+    "Title" : "Βοήθεια για το Photo Booth",
+    "RemoteURL" : "https:\/\/help.apple.com\/photobooth\/mac\/10.8\/help\/"
+  }
+}

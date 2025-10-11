@@ -1,0 +1,163 @@
+{
+  "content" : {
+    "button-1" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='pbhlp32628'><div class='subjectids'><a name='pbhlp32628'><\/a><\/div><h1 class='title topictitle1'>Aide Photo Booth<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Aide Photo Booth<\/h2><p class='p'>Prenez des photos à image unique, une série de quatre photos en mode rafale rapide ou enregistrez un plan vidéo.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Aide Photo Booth",
+      "name" : "Aide Photo Booth",
+      "class" : "default"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "pbhlp32628",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628-a" : {
+      "name" : "Essentiels"
+    },
+    "pbhlp32628-b" : {
+      "name" : "Améliorer les instantanés ou plans vidéo"
+    },
+    "offline-message-com-apple-PhotoBooth-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-PhotoBooth-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-PhotoBooth-help'><\/a><\/div><h1 class='title topictitle1'>La rubrique sélectionnée est actuellement indisponible.<\/h1><div class='body conbody'><p class='p'>Assurez-vous d’être connecté à Internet. Pour obtenir de l’aide à la connexion, choisissez le menu Pomme > Préférences Système, cliquez sur Réseau, puis sur Assistant.<\/p><p class='p'>Si vous êtes connecté à Internet et que le contenu ne s’affiche toujours pas, réessayez ultérieurement.<\/p><\/div><\/div>",
+      "alternativeName" : "La rubrique sélectionnée est actuellement indisponible.",
+      "name" : "La rubrique sélectionnée est actuellement indisponible.",
+      "class" : "content-not-available-message"
+    },
+    "pbhlp32628-c" : {
+      "name" : "Utiliser des instantanés et des plans vidéo"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "pbhlp32628",
+          "class" : "default"
+        },
+        {
+          "id" : "pbhlp32628-a",
+          "children" : [
+            {
+              "name" : "Créer un instantané ou un plan vidéo",
+              "href" : "#pbhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Désactiver le compte à rebours ou le flash",
+              "href" : "#pbhlp18454",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Afficher tous vos instantanés et plans vidéo",
+              "href" : "#pbhlp11570",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Imprimer une épreuve",
+              "href" : "#pbhlp11571",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Supprimer des instantanés et plans vidéo",
+              "href" : "#pbhlp1009",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Utiliser Photo Booth en mode plein écran",
+              "href" : "#pbhlp36644",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-b",
+          "children" : [
+            {
+              "name" : "Retourner un instantané ou un plan vidéo",
+              "href" : "#pbhlp1006",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Utiliser des effets et des effets de fond",
+              "href" : "#pbhlp1005",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Élaguer un plan vidéo",
+              "href" : "#pbhlp32627",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-c",
+          "children" : [
+            {
+              "name" : "Exporter un instantané ou un plan vidéo",
+              "href" : "#pbhlp11572",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Sélectionner une image Messages",
+              "href" : "#pbhlp1002",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Sélectionner votre image de compte",
+              "href" : "#pbhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Sélectionner votre photo de profil Twitter",
+              "href" : "#pbhlp40699",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Envoyer un instantané ou un plan vidéo via Mail",
+              "href" : "#pbhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Partager un instantané ou un plan vidéo avec des utilisateurs près de vous",
+              "href" : "#pbhlp40693",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Partager un instantané ou un plan vidéo sur un média social",
+              "href" : "#pbhlp40625",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-PhotoBooth-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "13.6",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "pbic.png",
+    "AppVersion" : "4.0",
+    "FolderName" : "PhotoBooth.help",
+    "LocalizationISOCode" : "fr",
+    "buildID" : "CEDB6034-87F1-11E1-B012-155775470237",
+    "Title" : "Aide Photo Booth",
+    "RemoteURL" : "https:\/\/help.apple.com\/photobooth\/mac\/10.8\/help\/"
+  }
+}

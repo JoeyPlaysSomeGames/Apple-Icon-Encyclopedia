@@ -1,0 +1,163 @@
+{
+  "content" : {
+    "button-1" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='pbhlp32628'><div class='subjectids'><a name='pbhlp32628'><\/a><\/div><h1 class='title topictitle1'>Photo Booth Yardım<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Photo Booth Yardım<\/h2><p class='p'>Tek görüntülü fotoğraflar, dört fotoğraftan oluşan hızlı bir seri veya bir film klibi yaratın.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Photo Booth Yardım",
+      "name" : "Photo Booth Yardım",
+      "class" : "default"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "pbhlp32628",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628-a" : {
+      "name" : "Temel bilgiler"
+    },
+    "pbhlp32628-b" : {
+      "name" : "Enstantaneleri ve video klipleri iyileştirme"
+    },
+    "offline-message-com-apple-PhotoBooth-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-PhotoBooth-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-PhotoBooth-help'><\/a><\/div><h1 class='title topictitle1'>Seçilen konu şu anda yok<\/h1><div class='body conbody'><p class='p'>Internet’e bağlı olduğunuzdan emin olun. Bağlanmayla ilgili yardım için Elma menüsü > Sistem Tercihleri komutunu seçin, Ağ’ı tıklayın ve “Yardımcı Ol”u tıklayın.<\/p><p class='p'>Internet’e bağlıysanız ama içerik hâlâ görünmüyorsa daha sonra yeniden deneyin.<\/p><\/div><\/div>",
+      "alternativeName" : "Seçilen konu şu anda yok",
+      "name" : "Seçilen konu şu anda yok",
+      "class" : "content-not-available-message"
+    },
+    "pbhlp32628-c" : {
+      "name" : "Enstantaneleri ve video klipleri kullanma"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "pbhlp32628",
+          "class" : "default"
+        },
+        {
+          "id" : "pbhlp32628-a",
+          "children" : [
+            {
+              "name" : "Enstantane veya video klip yaratma",
+              "href" : "#pbhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Geri sayımı veya flaşı kapatma",
+              "href" : "#pbhlp18454",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Enstantanelerinizin ve video kliplerinizin önizlemesini görme",
+              "href" : "#pbhlp11570",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Prova sayfası yazdırma",
+              "href" : "#pbhlp11571",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Enstantaneleri ve video klipleri silme",
+              "href" : "#pbhlp1009",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Photo Booth'u tam ekran kullanma",
+              "href" : "#pbhlp36644",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-b",
+          "children" : [
+            {
+              "name" : "Enstantaneyi veya video klibi çevirme",
+              "href" : "#pbhlp1006",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Efektleri ve zeminleri kullanma",
+              "href" : "#pbhlp1005",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Video klibi kısaltma",
+              "href" : "#pbhlp32627",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-c",
+          "children" : [
+            {
+              "name" : "Enstantaneyi veya video klibi dışa aktarma",
+              "href" : "#pbhlp11572",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Mesajlar resmi seçme",
+              "href" : "#pbhlp1002",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Hesap resminizi seçme",
+              "href" : "#pbhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Twitter profili resminizi seçme",
+              "href" : "#pbhlp40699",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Enstantaneyi veya video klibi Mail kullanarak gönderme",
+              "href" : "#pbhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Enstantaneyi veya video klibi yakınınızdaki kişilerle paylaşma",
+              "href" : "#pbhlp40693",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Enstantaneyi veya video klibi sosyal ortamlarda paylaşma",
+              "href" : "#pbhlp40625",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-PhotoBooth-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "13.6",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "pbic.png",
+    "AppVersion" : "4.0",
+    "FolderName" : "PhotoBooth.help",
+    "LocalizationISOCode" : "tr",
+    "buildID" : "D26CF4EC-87F1-11E1-B012-155775470237",
+    "Title" : "Photo Booth Yardım",
+    "RemoteURL" : "https:\/\/help.apple.com\/photobooth\/mac\/10.8\/help\/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+	"meta": {
+		"folder": "ro.lproj",
+		"isoCodes": ["ro"],
+		"isoName": "Romanian",
+		"name": "Română"
+	},
+	"static_ui": {
+		"jsdisabled": "<div><p>Pentru a vizualiza informațiile de ajutor, trebuie să activați JavaScript.</p>Pentru informații suplimentare, consultați <a href=\"http://help.apple.com/resources/javascript/\">acest articol de asistență Apple</a>.</div>",
+		"loadfailed": "<div>Ajutorul este momentan indisponibil.</div>"
+	},
+	"ui": {
+		"%@ Search Results": "%@ rezultate căutare",
+		"Apple applications": "Aplicații Apple",
+		"Cancel": "Renunță",
+		"Change Language": "Schimbă limba",
+		"Close": "Închide",
+		"Featured application help": "Ajutor pentru aplicația recomandată",
+		"Go to the homepage": "Accesează pagina principală",
+		"Help for:": "Ajutor pentru:",
+		"Hide": "Ascunde",
+		"Home": "Buton principal",
+		"Loading latest help...": "Încărcare informații de ajutor recente…",
+		"Other applications": "Alte aplicații",
+		"Print Book": "Tipărește cartea",
+		"Print Options": "Opțiuni tipărire",
+		"Print Page": "Tipărește pagina",
+		"Print Section": "Tipărește secțiunea",
+		"Recent applications": "Aplicații recente",
+		"Search": "Caută",
+		"Send feedback.": "Trimiteți feedback.",
+		"Show all": "Afișează tot",
+		"Show less": "Afișează mai puțin",
+		"Show the previous page": "Afișează pagina anterioară",
+		"Show the next page": "Afișează pagina următoare",
+		"Show": "Afișează",
+		"Was this page helpful?": "Considerați utilă această pagină?"
+	}
+}

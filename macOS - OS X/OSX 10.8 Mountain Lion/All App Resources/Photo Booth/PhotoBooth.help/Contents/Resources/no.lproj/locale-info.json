@@ -1,0 +1,39 @@
+{
+	"meta": {
+		"folder": "no.lproj",
+		"isoCodes": ["nb", "nn", "no"],
+		"isoName": "Norwegian",
+		"name": "Norsk (bokmål)"
+	},
+	"static_ui": {
+		"jsdisabled": "<div><p>For å vise hjelpinnhold må du slå på JavaScript.</p>Du finner mer informasjon i <a href=\"http://help.apple.com/resources/javascript/\">denne Apple-supportartikkelen</a>.</div>",
+		"loadfailed": "<div>Hjelpinnhold er ikke tilgjengelig for øyeblikket.</div>"
+	},
+	"ui": {
+		"%@ Search Results": "%@ treff",
+		"Apple applications": "Apple-programmer",
+		"Cancel": "Avbryt",
+		"Change Language": "Bytt språk",
+		"Close": "Lukk",
+		"Featured application help": "Aktuell programhjelp",
+		"Go to the homepage": "Gå til hjemmesiden",
+		"Help for:": "Hjelp for:",
+		"Hide": "Skjul",
+		"Home": "Hjem",
+		"Loading latest help...": "Laster inn oppdatert hjelpinnhold…",
+		"Other applications": "Andre programmer",
+		"Print Book": "Skriv ut bok",
+		"Print Options": "Utskriftsvalg",
+		"Print Page": "Skriv ut side",
+		"Print Section": "Skriv ut del",
+		"Recent applications": "Sist brukte programmer",
+		"Search": "Søk",
+		"Send feedback.": "Send tilbakemelding.",
+		"Show all": "Vis alle",
+		"Show less": "Vis færre",
+		"Show the previous page": "Vis forrige side",
+		"Show the next page": "Vis neste side",
+		"Show": "Vis",
+		"Was this page helpful?": "Var denne siden nyttig?"
+	}
+}

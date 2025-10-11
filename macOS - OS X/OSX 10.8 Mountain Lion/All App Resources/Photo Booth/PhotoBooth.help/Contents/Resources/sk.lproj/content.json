@@ -1,0 +1,163 @@
+{
+  "content" : {
+    "button-1" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='pbhlp32628'><div class='subjectids'><a name='pbhlp32628'><\/a><\/div><h1 class='title topictitle1'>Pomocník pre Photo Booth<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Pomocník pre Photo Booth<\/h2><p class='p'>Vytvorte jednoduché fotky, štvorice fotiek alebo filmový klip.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Pomocník pre Photo Booth",
+      "name" : "Pomocník pre Photo Booth",
+      "class" : "default"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "pbhlp32628",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628-a" : {
+      "name" : "Základy"
+    },
+    "pbhlp32628-b" : {
+      "name" : "Vylepšenie snímok a videoklipov"
+    },
+    "offline-message-com-apple-PhotoBooth-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-PhotoBooth-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-PhotoBooth-help'><\/a><\/div><h1 class='title topictitle1'>Vybraná téma je momentálne nedostupná<\/h1><div class='body conbody'><p class='p'>Uistite sa, že máte pripojenie na internet. Pre pomoc s pripojením vyberte menu Apple > Systémové nastavenia, kliknite na Sieť a potom na Asistent.<\/p><p class='p'>Ak máte pripojenie na internet a napriek tomu sa obsah nezobrazuje, skúste to znovu neskôr.<\/p><\/div><\/div>",
+      "alternativeName" : "Vybraná téma je momentálne nedostupná",
+      "name" : "Vybraná téma je momentálne nedostupná",
+      "class" : "content-not-available-message"
+    },
+    "pbhlp32628-c" : {
+      "name" : "Použitie snímok a videoklipov"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "pbhlp32628",
+          "class" : "default"
+        },
+        {
+          "id" : "pbhlp32628-a",
+          "children" : [
+            {
+              "name" : "Vytvorenie snímky alebo videoklipu",
+              "href" : "#pbhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Vypnutie odpočítavania alebo blesku",
+              "href" : "#pbhlp18454",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Náhľad snímok a videoklipov",
+              "href" : "#pbhlp11570",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Tlač náhľadov snímok",
+              "href" : "#pbhlp11571",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Vymazanie snímok a videoklipov",
+              "href" : "#pbhlp1009",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Použitie aplikácie Photo Booth v zobrazení na celej obrazovke",
+              "href" : "#pbhlp36644",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-b",
+          "children" : [
+            {
+              "name" : "Preklopenie snímky alebo videoklipu",
+              "href" : "#pbhlp1006",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Používanie efektov a pozadí",
+              "href" : "#pbhlp1005",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Orezanie videoklipu",
+              "href" : "#pbhlp32627",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-c",
+          "children" : [
+            {
+              "name" : "Exportovanie snímky alebo videoklipu",
+              "href" : "#pbhlp11572",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Výber obrázka pre aplikáciu Správy",
+              "href" : "#pbhlp1002",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Výber obrázka pre účet",
+              "href" : "#pbhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Výber obrázka pre profil na Twitteri",
+              "href" : "#pbhlp40699",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Odoslanie snímky alebo videoklipu pomocou aplikácie Mail",
+              "href" : "#pbhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Zdieľanie snímky alebo videoklipu s osobami vo svojej blízkosti",
+              "href" : "#pbhlp40693",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Zdieľanie snímky alebo videoklipu na sociálnych sieťach",
+              "href" : "#pbhlp40625",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-PhotoBooth-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "13.6",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "pbic.png",
+    "AppVersion" : "4.0",
+    "FolderName" : "PhotoBooth.help",
+    "LocalizationISOCode" : "sk",
+    "buildID" : "D20B16F0-87F1-11E1-B012-155775470237",
+    "Title" : "Pomocník pre Photo Booth",
+    "RemoteURL" : "https:\/\/help.apple.com\/photobooth\/mac\/10.8\/help\/"
+  }
+}

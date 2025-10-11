@@ -1,0 +1,40 @@
+{
+	"meta": {
+		"folder": "el.lproj",
+		"cssFile": "locale.css",
+		"isoCodes": ["el"],
+		"isoName": "Greek",
+		"name": "Ελληνικά"
+	},
+	"static_ui": {
+		"jsdisabled": "<div><p>Για προβολή της Βοήθειας, πρέπει να ενεργοποιήσετε την JavaScript.</p>Για περισσότερες πληροφορίες, ανατρέξτε στο άρθρο <a href=\"http://help.apple.com/resources/javascript/\">αυτό το άρθρο υποστήριξης Apple</a>.</div>",
+		"loadfailed": "<div>Η Βοήθεια δεν διατίθεται επί του παρόντος.</div>"
+	},
+	"ui": {
+		"%@ Search Results": "%@ αποτελέσματα αναζήτησης",
+		"Apple applications": "Εφαρμογές Apple",
+		"Cancel": "Ακύρωση",
+		"Change Language": "Αλλαγή γλώσσας",
+		"Close": "Κλείσιμο",
+		"Featured application help": "Βοήθεια προτεινόμενων εφαρμογών",
+		"Go to the homepage": "Μετάβαση στην αρχική σελίδα",
+		"Help for:": "Βοήθεια για:",
+		"Hide": "Απόκρυψη",
+		"Home": "Αφετηρία",
+		"Loading latest help...": "Γίνεται φόρτωση της πιο πρόσφατης Βοήθειας…",
+		"Other applications": "Άλλες εφαρμογές",
+		"Print Book": "Εκτύπωση βιβλίου",
+		"Print Options": "Επιλογές εκτύπωσης",
+		"Print Page": "Εκτύπωση σελίδας",
+		"Print Section": "Εκτύπωση ενότητας",
+		"Recent applications": "Πρόσφατη εφαρμογή",
+		"Search": "Αναζήτηση",
+		"Send feedback.": "Στείλετε σχόλια.",
+		"Show all": "Εμφάνιση όλων",
+		"Show less": "Εμφάνιση λιγότερων",
+		"Show the previous page": "Εμφάνιση της προηγούμενης σελίδας",
+		"Show the next page": "Εμφάνιση της επόμενης σελίδας",
+		"Show": "Εμφάνιση",
+		"Was this page helpful?": "Ήταν χρήσιμη αυτή η σελίδα;"
+	}
+}

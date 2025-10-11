@@ -1,0 +1,163 @@
+{
+  "content" : {
+    "button-1" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='pbhlp32628'><div class='subjectids'><a name='pbhlp32628'><\/a><\/div><h1 class='title topictitle1'>Pomoć za Photo Booth<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Pomoć za Photo Booth<\/h2><p class='p'>Snimajte pojedinačne fotografije, brze nizove od četiri fotografije ili filmske isječke.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Pomoć za Photo Booth",
+      "name" : "Pomoć za Photo Booth",
+      "class" : "default"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "pbhlp32628",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628-a" : {
+      "name" : "Osnove"
+    },
+    "pbhlp32628-b" : {
+      "name" : "Poboljšavanje snimaka i videoisječaka"
+    },
+    "offline-message-com-apple-PhotoBooth-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-PhotoBooth-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-PhotoBooth-help'><\/a><\/div><h1 class='title topictitle1'>Odabrana tema trenutno nije dostupna<\/h1><div class='body conbody'><p class='p'>Provjerite jeste li spojeni na internet. Za pomoć pri spajanju odaberite Apple izbornik > Postavke sustava, kliknite na Mreža i zatim na \"Pomoć\".<\/p><p class='p'>Ako ste spojeni na internet i sadržaj se svejedno ne pojavljuje, pokušajte ponovno kasnije.<\/p><\/div><\/div>",
+      "alternativeName" : "Odabrana tema trenutno nije dostupna",
+      "name" : "Odabrana tema trenutno nije dostupna",
+      "class" : "content-not-available-message"
+    },
+    "pbhlp32628-c" : {
+      "name" : "Upotreba snimaka i videoisječaka"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "pbhlp32628",
+          "class" : "default"
+        },
+        {
+          "id" : "pbhlp32628-a",
+          "children" : [
+            {
+              "name" : "Izrada snimke ili videoisječka",
+              "href" : "#pbhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Isključivanje odbrojavanja ili bljeskalice",
+              "href" : "#pbhlp18454",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Pregled snimaka i videoisječaka",
+              "href" : "#pbhlp11570",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Ispis probnog otiska",
+              "href" : "#pbhlp11571",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Brisanje snimaka i videoisječaka",
+              "href" : "#pbhlp1009",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Upotreba aplikacije Photo Booth preko cijelog zaslona",
+              "href" : "#pbhlp36644",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-b",
+          "children" : [
+            {
+              "name" : "Okretanje snimke ili videoisječka",
+              "href" : "#pbhlp1006",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Uporaba efekata i pozadina",
+              "href" : "#pbhlp1005",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Rezanje videoisječka",
+              "href" : "#pbhlp32627",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-c",
+          "children" : [
+            {
+              "name" : "Eksportiranje snimke ili videoisječka",
+              "href" : "#pbhlp11572",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Odabir slike za aplikaciju Poruke",
+              "href" : "#pbhlp1002",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Podešavanje slike vašeg računa",
+              "href" : "#pbhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Odabir slike za vaš Twitter profil",
+              "href" : "#pbhlp40699",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Slanje snimaka ili videoisječaka pomoću aplikacije Mail",
+              "href" : "#pbhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Dijeljenje snimke ili videoisječka s obližnjim korisnicima",
+              "href" : "#pbhlp40693",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Dijeljenje snimke ili videoisječka na stranicama za društveno umrežavanje",
+              "href" : "#pbhlp40625",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-PhotoBooth-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "13.6",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "pbic.png",
+    "AppVersion" : "4.0",
+    "FolderName" : "PhotoBooth.help",
+    "LocalizationISOCode" : "hr",
+    "buildID" : "CED4FADC-87F1-11E1-B012-155775470237",
+    "Title" : "Pomoć za Photo Booth",
+    "RemoteURL" : "https:\/\/help.apple.com\/photobooth\/mac\/10.8\/help\/"
+  }
+}

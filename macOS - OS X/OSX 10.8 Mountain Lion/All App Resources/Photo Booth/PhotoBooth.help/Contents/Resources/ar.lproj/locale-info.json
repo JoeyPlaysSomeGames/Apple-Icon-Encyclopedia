@@ -1,0 +1,41 @@
+{
+	"meta": {
+		"folder": "ar.lproj",
+		"cssClass": "RightToLeft",
+		"cssFile": "locale.css",
+		"isoCodes": ["ar"],
+		"isoName": "Arabic",
+		"name": "العربية"
+	},
+	"static_ui": {
+		"jsdisabled": "<div><p>للاطلاع على التعليمات، يجب تشغيل JavaScript.</p>للحصول على مزيد من المعلومات، يرجى الاطلاع على <a href=\"http://help.apple.com/resources/javascript/\">مقالة دعم Apple هذه</a>.</div>",
+		"loadfailed": "<div>التعليمات غير متاحة في الوقت الحالي.</div>"
+	},
+	"ui": {
+		"%@ Search Results": "%@ نتيجة (نتائج) بحث",
+		"Apple applications": "تطبيقات Apple",
+		"Cancel": "إلغاء",
+		"Change Language": "تغيير اللغة",
+		"Close": "إغلاق",
+		"Featured application help": "تعليمات تطبيقات مميّزة",
+		"Go to the homepage": "الانتقال إلى الصفحة الرئيسية",
+		"Help for:": "تعليمات لـ:",
+		"Hide": "إخفاء",
+		"Home": "الشاشة الرئيسية",
+		"Loading latest help...": "يتم الآن تحميل أحدث التعليمات…",
+		"Other applications": "تطبيقات أخرى",
+		"Print Book": "طباعة كتاب",
+		"Print Options": "خيارات الطباعة",
+		"Print Page": "طباعة صفحة",
+		"Print Section": "طباعة قسم",
+		"Recent applications": "أحدث التطبيقات",
+		"Search": "بحث",
+		"Send feedback.": "أرسل تغذية مرتدّة.",
+		"Show all": "إظهار الكل",
+		"Show less": "إظهار أقل",
+		"Show the previous page": "إظهار الصفحة السابقة",
+		"Show the next page": "إظهار الصفحة التالية",
+		"Show": "إظهار",
+		"Was this page helpful?": "هل كانت هذه الصفحة مفيدة؟"
+	}
+}

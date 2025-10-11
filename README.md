@@ -10,6 +10,7 @@ You also may find custom icons made by me! Please give credit if you use my cust
 
 
 [YouTube Channel](https://youtube.com/@joeyplayssomegames)
+
 [Official Telegram](https://t.me/JoeyPlaysSomeGames_yt)
 
 # How I did the thing
@@ -22,4 +23,4 @@ I did it all manually because I dont know how to automate it. It takes ages. Lit
 
 # Why?
 
-Because it’s cool! And when I was trying to theme my MacBook, I didnt have a resource like this at all! I hope this helps someone making a theme pack, drawing their own icons, or even just getting nostalgia for a better time :3\
+Because it’s cool! And when I was trying to theme my MacBook, I didnt have a resource like this at all! I hope this helps someone making a theme pack, drawing their own icons, or even just getting nostalgia for a better time :3

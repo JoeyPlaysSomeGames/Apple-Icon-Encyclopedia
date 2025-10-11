@@ -1,0 +1,39 @@
+{
+	"meta": {
+		"folder": "da.lproj",
+		"isoCodes": ["da"],
+		"isoName": "Danish",
+		"name": "Dansk"
+	},
+	"static_ui": {
+		"jsdisabled": "<div><p>Du skal slå JavaScript til, før du kan se hjælpen.</p>Der findes flere oplysninger i <a href=\"http://help.apple.com/resources/javascript/\">denne Apple-supportartikel</a>.</div>",
+		"loadfailed": "<div>Hjælpen er ikke tilgængelig nu.</div>"
+	},
+	"ui": {
+		"%@ Search Results": "%@ søgeresultater",
+		"Apple applications": "Apple-programmer",
+		"Cancel": "Annuller",
+		"Change Language": "Skift sprog",
+		"Close": "Luk",
+		"Featured application help": "Viste program",
+		"Go to the homepage": "Gå til hjemmesiden",
+		"Help for:": "Hjælp til:",
+		"Hide": "Skjul",
+		"Home": "Hjem",
+		"Loading latest help...": "Hjælpen er ikke tilgængelig nu.",
+		"Other applications": "Andre programmer",
+		"Print Book": "Udskriv bog",
+		"Print Options": "Udskriftsindstillinger",
+		"Print Page": "Udskriv side",
+		"Print Section": "Udskriv afsnit",
+		"Recent applications": "Seneste programmer",
+		"Search": "Søg",
+		"Send feedback.": "Send feedback.",
+		"Show all": "Vis alle",
+		"Show less": "Vis færre",
+		"Show the previous page": "Vis forrige side",
+		"Show the next page": "Vis næste side",
+		"Show": "Vis",
+		"Was this page helpful?": "Var denne side nyttig?"
+	}
+}

@@ -1,0 +1,163 @@
+{
+  "content" : {
+    "button-1" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='pbhlp32628'><div class='subjectids'><a name='pbhlp32628'><\/a><\/div><h1 class='title topictitle1'>Photo Booth -ohje<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Photo Booth -ohje<\/h2><p class='p'>Luo yhden kuvan valokuvia, nopeita neljän valokuvan sarjoja tai videoleikkeitä.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Photo Booth -ohje",
+      "name" : "Photo Booth -ohje",
+      "class" : "default"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "pbhlp32628",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628-a" : {
+      "name" : "Perusteet"
+    },
+    "pbhlp32628-b" : {
+      "name" : "Valokuvien ja videoleikkeiden paranteleminen"
+    },
+    "offline-message-com-apple-PhotoBooth-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-PhotoBooth-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-PhotoBooth-help'><\/a><\/div><h1 class='title topictitle1'>Valittu aihe ei ole tällä hetkellä käytettävissä<\/h1><div class='body conbody'><p class='p'>Varmista, että olet yhteydessä internetiin. Jos tarvitset apua yhdistämisessä, valitse Omenavalikko > Järjestelmäasetukset, osoita Verkko ja osoita Avusta.<\/p><p class='p'>Jos olet yhteydessä internetiin, mutta sisältö ei silti tule näkyviin, yritä myöhemmin uudelleen.<\/p><\/div><\/div>",
+      "alternativeName" : "Valittu aihe ei ole tällä hetkellä käytettävissä",
+      "name" : "Valittu aihe ei ole tällä hetkellä käytettävissä",
+      "class" : "content-not-available-message"
+    },
+    "pbhlp32628-c" : {
+      "name" : "Valokuvien ja videoleikkeiden käyttäminen"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "pbhlp32628",
+          "class" : "default"
+        },
+        {
+          "id" : "pbhlp32628-a",
+          "children" : [
+            {
+              "name" : "Valokuvan tai videoleikkeen luominen",
+              "href" : "#pbhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Lähtölaskennan tai salaman laittaminen pois päältä",
+              "href" : "#pbhlp18454",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Valokuvien ja videoleikkeiden esikatseleminen",
+              "href" : "#pbhlp11570",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Vedosarkin tulostaminen",
+              "href" : "#pbhlp11571",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Valokuvien ja videoleikkeiden poistaminen",
+              "href" : "#pbhlp1009",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Photo Boothin käyttäminen koko näytöllä",
+              "href" : "#pbhlp36644",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-b",
+          "children" : [
+            {
+              "name" : "Valokuvan tai videoleikkeen kääntäminen",
+              "href" : "#pbhlp1006",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Tehosteiden ja taustojen käyttäminen",
+              "href" : "#pbhlp1005",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Videoleikkeen trimmaaminen",
+              "href" : "#pbhlp32627",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-c",
+          "children" : [
+            {
+              "name" : "Valokuvan tai videoleikkeen vieminen",
+              "href" : "#pbhlp11572",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Viestit-kuvan valitseminen",
+              "href" : "#pbhlp1002",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Tilikuvan valitseminen",
+              "href" : "#pbhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Twitter-profiilikuvan valitseminen",
+              "href" : "#pbhlp40699",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Valokuvan tai videoleikkeen lähettäminen Maililla",
+              "href" : "#pbhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Valokuvan tai videoleikkeen jakaminen lähellä olevien kanssa",
+              "href" : "#pbhlp40693",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Valokuvan tai videoleikkeen jakaminen yhteisöpalvelussa",
+              "href" : "#pbhlp40625",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-PhotoBooth-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "13.6",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "pbic.png",
+    "AppVersion" : "4.0",
+    "FolderName" : "PhotoBooth.help",
+    "LocalizationISOCode" : "fi",
+    "buildID" : "CEEFB4BC-87F1-11E1-B012-155775470237",
+    "Title" : "Photo Booth -ohje",
+    "RemoteURL" : "https:\/\/help.apple.com\/photobooth\/mac\/10.8\/help\/"
+  }
+}

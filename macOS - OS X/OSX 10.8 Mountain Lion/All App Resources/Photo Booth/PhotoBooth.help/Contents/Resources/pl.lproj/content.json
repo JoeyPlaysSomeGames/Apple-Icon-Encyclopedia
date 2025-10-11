@@ -1,0 +1,163 @@
+{
+  "content" : {
+    "button-1" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='pbhlp32628'><div class='subjectids'><a name='pbhlp32628'><\/a><\/div><h1 class='title topictitle1'>Pomoc Photo Booth<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Pomoc Photo Booth<\/h2><p class='p'>Tworzenie pojedynczych zdjęć, poczwórnych zdjęć oraz klipu wideo.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Pomoc Photo Booth",
+      "name" : "Pomoc Photo Booth",
+      "class" : "default"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "pbhlp32628",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628-a" : {
+      "name" : "Podstawy"
+    },
+    "pbhlp32628-b" : {
+      "name" : "Usuwanie wielu zdjęć oraz klipów wideo"
+    },
+    "offline-message-com-apple-PhotoBooth-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-PhotoBooth-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-PhotoBooth-help'><\/a><\/div><h1 class='title topictitle1'>Zaznaczony temat jest teraz niedostępny.<\/h1><div class='body conbody'><p class='p'>Sprawdź połączenie komputera z siecią. Aby uzyskać pomoc, wybierz polecenie menu Apple > Preferencje systemowe, kliknij w Sieć, a następnie kliknij w Pomóż mi.<\/p><p class='p'>Jeśli komputer jest połączony z Internetem, a żądana strona nadal nie jest dostępna, spróbuj ponownie później.<\/p><\/div><\/div>",
+      "alternativeName" : "Zaznaczony temat jest teraz niedostępny.",
+      "name" : "Zaznaczony temat jest teraz niedostępny.",
+      "class" : "content-not-available-message"
+    },
+    "pbhlp32628-c" : {
+      "name" : "Wykorzystywanie zdjęć oraz klipów wideo"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "pbhlp32628",
+          "class" : "default"
+        },
+        {
+          "id" : "pbhlp32628-a",
+          "children" : [
+            {
+              "name" : "Tworzenie zdjęcia lub klipu wideo",
+              "href" : "#pbhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Wyłączanie odliczania lub rozbłysku ekranu",
+              "href" : "#pbhlp18454",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Podgląd zdjęć oraz klipów wideo",
+              "href" : "#pbhlp11570",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Drukowanie zestawu stykówek",
+              "href" : "#pbhlp11571",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Usuwanie zdjęć oraz klipów wideo",
+              "href" : "#pbhlp1009",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Używanie Photo Booth na pełnym ekranie",
+              "href" : "#pbhlp36644",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-b",
+          "children" : [
+            {
+              "name" : "Odwracanie zdjęcia lub klipu wideo",
+              "href" : "#pbhlp1006",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Używanie efektów oraz dalszego planu",
+              "href" : "#pbhlp1005",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Przycinanie klipu wideo",
+              "href" : "#pbhlp32627",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-c",
+          "children" : [
+            {
+              "name" : "Eksportowanie zdjęcia lub klipu wideo",
+              "href" : "#pbhlp11572",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Zaznaczanie obrazka do programu Wiadomości",
+              "href" : "#pbhlp1002",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Zaznaczanie zdjęcia jako obrazka konta",
+              "href" : "#pbhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Zaznaczanie obrazka profilu Twitter",
+              "href" : "#pbhlp40699",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Wysyłanie zdjęcia lub klipu wideo za pomocą Mail",
+              "href" : "#pbhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Udostępnianie zdjęcia lub klipu wideo",
+              "href" : "#pbhlp40693",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Udostępnianie zdjęcia lub klipu wideo w mediach społecznościowych",
+              "href" : "#pbhlp40625",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-PhotoBooth-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "13.6",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "pbic.png",
+    "AppVersion" : "4.0",
+    "FolderName" : "PhotoBooth.help",
+    "LocalizationISOCode" : "pl",
+    "buildID" : "D11AB246-87F1-11E1-B012-155775470237",
+    "Title" : "Pomoc Photo Booth",
+    "RemoteURL" : "https:\/\/help.apple.com\/photobooth\/mac\/10.8\/help\/"
+  }
+}

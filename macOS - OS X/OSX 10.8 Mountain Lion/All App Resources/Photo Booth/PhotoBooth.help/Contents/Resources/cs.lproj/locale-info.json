@@ -1,0 +1,39 @@
+{
+	"meta": {
+		"folder": "cs.lproj",
+		"isoCodes": ["cs"],
+		"isoName": "Czech",
+		"name": "Čeština"
+	},
+	"static_ui": {
+		"jsdisabled": "<div><p>Chcete-li zobrazit nápovědu, musíte zapnout JavaScript.</p>Další informace viz <a href=\"http://help.apple.com/resources/javascript/\">tento článek podpory Apple</a>.</div>",
+		"loadfailed": "<div>V současné době není nápověda k dispozici.</div>"
+	},
+	"ui": {
+		"%@ Search Results": "Výsledky hledání: %@",
+		"Apple applications": "Aplikace Apple",
+		"Cancel": "Zrušit",
+		"Change Language": "Změnit jazyk",
+		"Close": "Zavřít",
+		"Featured application help": "Nápověda pro doporučené aplikace",
+		"Go to the homepage": "Otevřít domovskou stránku",
+		"Help for:": "Nápověda pro:",
+		"Hide": "Skrýt",
+		"Home": "Plocha",
+		"Loading latest help...": "Načítání nejnovější nápovědy…",
+		"Other applications": "Jiné aplikace",
+		"Print Book": "Tisknout knihu",
+		"Print Options": "Tiskové volby",
+		"Print Page": "Tisknout stránku",
+		"Print Section": "Tisknout část",
+		"Recent applications": "Poslední aplikace",
+		"Search": "Hledat",
+		"Send feedback.": "Sdělte nám svůj názor.",
+		"Show all": "Zobrazit vše",
+		"Show less": "Zobrazit méně",
+		"Show the previous page": "Zobrazit předchozí stránku",
+		"Show the next page": "Zobrazit další stránku",
+		"Show": "Zobrazit",
+		"Was this page helpful?": "Pomohla vám tato stránka?"
+	}
+}

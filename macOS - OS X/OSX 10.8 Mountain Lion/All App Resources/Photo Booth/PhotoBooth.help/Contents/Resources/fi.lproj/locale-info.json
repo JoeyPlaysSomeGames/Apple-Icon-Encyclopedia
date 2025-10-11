@@ -1,0 +1,39 @@
+{
+	"meta": {
+		"folder": "fi.lproj",
+		"isoCodes": ["fi"],
+		"isoName": "Finnish",
+		"name": "Suomi"
+	},
+	"static_ui": {
+		"jsdisabled": "<div><p>Jotta voit katsoa ohjetta, JavaScript on laitettava päälle.</p>Jos haluat aiheesta lisätietoja, katso <a href=\"http://help.apple.com/resources/javascript/\">this Apple support article</a>.</div>",
+		"loadfailed": "<div>Ohjetta ei ole tällä hetkellä saatavilla.</div>"
+	},
+	"ui": {
+		"%@ Search Results": "%@ - hakutulokset",
+		"Apple applications": "Applen ohjelmat",
+		"Cancel": "Kumoa",
+		"Change Language": "Vaihda kieltä",
+		"Close": "Sulje",
+		"Featured application help": "Esittelyssä olevan ohjelman ohje",
+		"Go to the homepage": "Siirry kotisivulle",
+		"Help for:": "Ohje:",
+		"Hide": "Kätke",
+		"Home": "Koti",
+		"Loading latest help...": "Ladataan uusinta ohjetta…",
+		"Other applications": "Muut ohjelmat",
+		"Print Book": "Tulosta kirja",
+		"Print Options": "Tulostusvalinnat",
+		"Print Page": "Tulosta sivu",
+		"Print Section": "Tulosta osa",
+		"Recent applications": "Äskeiset ohjelmat",
+		"Search": "Etsi",
+		"Send feedback.": "Lähetä palautetta.",
+		"Show all": "Näytä kaikki",
+		"Show less": "Näytä vähemmän",
+		"Show the previous page": "Näytä edellinen sivu",
+		"Show the next page": "Näytä seuraava sivu",
+		"Show": "Näytä",
+		"Was this page helpful?": "Oliko tästä sivusta apua?"
+	}
+}

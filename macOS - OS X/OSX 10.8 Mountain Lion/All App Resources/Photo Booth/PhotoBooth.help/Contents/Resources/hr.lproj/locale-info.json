@@ -1,0 +1,39 @@
+{
+	"meta": {
+		"folder": "hr.lproj",
+		"isoCodes": ["hr"],
+		"isoName": "Croatian",
+		"name": "Hrvatski"
+	},
+	"static_ui": {
+		"jsdisabled": "<div><p>Za prikaz pomoći, trebate uključiti JavaScript.</p>Za dodatne informacije, pogledajte <a href=\"http://help.apple.com/resources/javascript/\">ovaj članak Apple podrške</a>.</div>",
+		"loadfailed": "<div>Pomoć trenutno nije dostupna.</div>"
+	},
+	"ui": {
+		"%@ Search Results": "Rezultata pretraživanja: %@",
+		"Apple applications": "Appleove aplikacije",
+		"Cancel": "Odustani",
+		"Change Language": "Promijeni jezik",
+		"Close": "Zatvori",
+		"Featured application help": "Pomoć za ponuđene aplikacije",
+		"Go to the homepage": "Prijelaz na početnu stranicu",
+		"Help for:": "Pomoć za:",
+		"Hide": "Sakrij",
+		"Home": "Početna stranica",
+		"Loading latest help...": "Učitavanje najnovijih datoteka pomoći…",
+		"Other applications": "Ostale aplikacije",
+		"Print Book": "Ispiši knjigu",
+		"Print Options": "Opcije ispisa",
+		"Print Page": "Ispiši stranicu",
+		"Print Section": "Ispiši odjeljak",
+		"Recent applications": "Novije aplikacije",
+		"Search": "Pretraži",
+		"Send feedback.": "Pošalji povratne informacije.",
+		"Show all": "Prikaži sve",
+		"Show less": "Prikaži manje",
+		"Show the previous page": "Prikaži prethodnu stranicu",
+		"Show the next page": "Prikaži sljedeću stranicu",
+		"Show": "Prikaži",
+		"Was this page helpful?": "Je li vam ova stranica pomogla?"
+	}
+}

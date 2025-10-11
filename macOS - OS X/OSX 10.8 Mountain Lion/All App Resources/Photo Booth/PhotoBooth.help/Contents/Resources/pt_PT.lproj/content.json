@@ -1,0 +1,163 @@
+{
+  "content" : {
+    "button-1" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='pbhlp32628'><div class='subjectids'><a name='pbhlp32628'><\/a><\/div><h1 class='title topictitle1'>Ajuda do Photo Booth<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Ajuda do Photo Booth<\/h2><p class='p'>Crie fotografias com uma única imagem, uma consecução rápida de quatro fotografias ou um clip de vídeo.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Ajuda do Photo Booth",
+      "name" : "Ajuda do Photo Booth",
+      "class" : "default"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "pbhlp32628",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628-a" : {
+      "name" : "Noções essenciais"
+    },
+    "pbhlp32628-b" : {
+      "name" : "Melhorar instantâneos e clips de vídeo"
+    },
+    "offline-message-com-apple-PhotoBooth-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-PhotoBooth-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-PhotoBooth-help'><\/a><\/div><h1 class='title topictitle1'>O tópico seleccionado não está disponível de momento<\/h1><div class='body conbody'><p class='p'>Certifique-se de que o seu computador está ligado à Internet. Para obter ajuda relacionada com a ligação, seleccione o menu Apple > Preferências do Sistema, clique em Rede e clique em Assistente.<\/p><p class='p'>Se a ligação à Internet estiver activa e o conteúdo não for apresentado, volte a tentar mais tarde.<\/p><\/div><\/div>",
+      "alternativeName" : "O tópico seleccionado não está disponível de momento",
+      "name" : "O tópico seleccionado não está disponível de momento",
+      "class" : "content-not-available-message"
+    },
+    "pbhlp32628-c" : {
+      "name" : "Utilizar instantâneos e clips de vídeo"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "pbhlp32628",
+          "class" : "default"
+        },
+        {
+          "id" : "pbhlp32628-a",
+          "children" : [
+            {
+              "name" : "Criar um instantâneo ou clip de vídeo",
+              "href" : "#pbhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Desactivar a contagem decrescente ou flash",
+              "href" : "#pbhlp18454",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Pré-visualizar os seus instantâneos e clips de vídeo",
+              "href" : "#pbhlp11570",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Imprimir uma folha de provas",
+              "href" : "#pbhlp11571",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Apagar instantâneos e clips de vídeo",
+              "href" : "#pbhlp1009",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Utilizar o Photo Booth em ecrã completo",
+              "href" : "#pbhlp36644",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-b",
+          "children" : [
+            {
+              "name" : "Virar um instantâneo ou clip de vídeo",
+              "href" : "#pbhlp1006",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Utilizar efeitos e fundos",
+              "href" : "#pbhlp1005",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Encurtar um clip de vídeo",
+              "href" : "#pbhlp32627",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-c",
+          "children" : [
+            {
+              "name" : "Exportar um instantâneo ou clip de vídeo",
+              "href" : "#pbhlp11572",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Seleccionar uma imagem para Mensagens",
+              "href" : "#pbhlp1002",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Seleccionar a sua imagem da conta",
+              "href" : "#pbhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Seleccionar a sua imagem do perfil do Twitter",
+              "href" : "#pbhlp40699",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Enviar um instantâneo ou clip de vídeo utilizando o Mail",
+              "href" : "#pbhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Partilhar um instantâneo ou clip de vídeo com outras pessoas perto de si",
+              "href" : "#pbhlp40693",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Partilhar um instantâneo ou clip de vídeo nas redes sociais",
+              "href" : "#pbhlp40625",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-PhotoBooth-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "13.6",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "pbic.png",
+    "AppVersion" : "4.0",
+    "FolderName" : "PhotoBooth.help",
+    "LocalizationISOCode" : "pt",
+    "buildID" : "D1D80E2C-87F1-11E1-B012-155775470237",
+    "Title" : "Ajuda do Photo Booth",
+    "RemoteURL" : "https:\/\/help.apple.com\/photobooth\/mac\/10.8\/help\/"
+  }
+}

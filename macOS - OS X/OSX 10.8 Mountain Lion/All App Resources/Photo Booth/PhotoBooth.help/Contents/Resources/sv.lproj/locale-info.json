@@ -1,0 +1,39 @@
+{
+	"meta": {
+		"folder": "sv.lproj",
+		"isoCodes": ["sv"],
+		"isoName": "Swedish",
+		"name": "Svenska"
+	},
+	"static_ui": {
+		"jsdisabled": "<div><p>Vill du visa hjälpen måste du aktivera JavaScript.</p>För mer information, se <a href=\"http://help.apple.com/resources/javascript/\">den här Apple Support-artikeln</a>.</div>",
+		"loadfailed": "<div>Hjälpen är inte tillgänglig just nu.</div>"
+	},
+	"ui": {
+		"%@ Search Results": "%@ sökresultat",
+		"Apple applications": "Apple-program",
+		"Cancel": "Avbryt",
+		"Change Language": "Byt språk",
+		"Close": "Stäng",
+		"Featured application help": "Aktuell programhjälp",
+		"Go to the homepage": "Gå till startsidan",
+		"Help for:": "Hjälp för:",
+		"Hide": "Göm",
+		"Home": "Hem",
+		"Loading latest help...": "Läser in den senaste hjälpen…",
+		"Other applications": "Övriga program",
+		"Print Book": "Skriv ut bok",
+		"Print Options": "Skrivaralternativ",
+		"Print Page": "Skriv ut sida",
+		"Print Section": "Skriv ut avsnitt",
+		"Recent applications": "Senaste program",
+		"Search": "Sök",
+		"Send feedback.": "Skicka synpunkter.",
+		"Show all": "Visa alla",
+		"Show less": "Visa färre",
+		"Show the previous page": "Visa föregående sida",
+		"Show the next page": "Visa nästa sida",
+		"Show": "Visa",
+		"Was this page helpful?": "Var den här sidan till hjälp?"
+	}
+}

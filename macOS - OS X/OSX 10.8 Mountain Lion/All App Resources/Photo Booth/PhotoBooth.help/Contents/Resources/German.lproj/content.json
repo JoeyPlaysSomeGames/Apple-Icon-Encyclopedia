@@ -1,0 +1,163 @@
+{
+  "content" : {
+    "button-1" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='pbhlp32628'><div class='subjectids'><a name='pbhlp32628'><\/a><\/div><h1 class='title topictitle1'>Photo Booth-Hilfe<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Photo Booth-Hilfe<\/h2><p class='p'>Erstellen Sie einzelne Fotos, ein Serienbild mit vier Fotos oder einen Filmclip.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Photo Booth-Hilfe",
+      "name" : "Photo Booth-Hilfe",
+      "class" : "default"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "pbhlp32628",
+      "alternativeNameStyle" : "replace"
+    },
+    "pbhlp32628-a" : {
+      "name" : "Wichtige Themen"
+    },
+    "pbhlp32628-b" : {
+      "name" : "Optimieren von Schnappschüssen und Videoclips"
+    },
+    "offline-message-com-apple-PhotoBooth-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-PhotoBooth-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-PhotoBooth-help'><\/a><\/div><h1 class='title topictitle1'>Das ausgewählte Thema ist nicht verfügbar<\/h1><div class='body conbody'><p class='p'>Vergewissern Sie sich, dass Sie mit dem Internet verbunden sind. Wählen Sie „Apple“  > Systemeinstellungen“ und klicken Sie auf „Netzwerk“ und dann auf Assistent“, wenn Sie Informationen zur Internetverbindung benötigen.<\/p><p class='p'>Wenn Sie mit dem Internet verbunden sind, den Inhalt aber dennoch nicht sehen können, versuchen Sie es später noch einmal.<\/p><\/div><\/div>",
+      "alternativeName" : "Das ausgewählte Thema ist nicht verfügbar",
+      "name" : "Das ausgewählte Thema ist nicht verfügbar",
+      "class" : "content-not-available-message"
+    },
+    "pbhlp32628-c" : {
+      "name" : "Verwenden von Schnappschüssen und Videoclips"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "pbhlp32628",
+          "class" : "default"
+        },
+        {
+          "id" : "pbhlp32628-a",
+          "children" : [
+            {
+              "name" : "Schnappschuss oder Videoclip löschen",
+              "href" : "#pbhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Deaktivieren des Photo Booth-Countdowns oder des Bildschirmblinkens",
+              "href" : "#pbhlp18454",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Anzeigen einer Vorschau Ihres Photo Booth-Schnappschusses oder -Videoclips",
+              "href" : "#pbhlp11570",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Drucken eines Korrekturabzugs",
+              "href" : "#pbhlp11571",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Schnappschüsse und Videoclips löschen",
+              "href" : "#pbhlp1009",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Verwenden von Photo Booth im Vollbildmodus",
+              "href" : "#pbhlp36644",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-b",
+          "children" : [
+            {
+              "name" : "Spiegeln eines Schnappschusses oder Videoclips",
+              "href" : "#pbhlp1006",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Verwenden von Effekten und Kulissen",
+              "href" : "#pbhlp1005",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Trimmen eines Videoclips ",
+              "href" : "#pbhlp32627",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "pbhlp32628-c",
+          "children" : [
+            {
+              "name" : "Exportieren eines Schnappschusses oder Videoclips",
+              "href" : "#pbhlp11572",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Auswählen eines Fotos für Nachrichten",
+              "href" : "#pbhlp1002",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Auswählen Ihres Accountbilds",
+              "href" : "#pbhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Auswählen Ihres Twitter-Profilbilds",
+              "href" : "#pbhlp40699",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Senden eines Schnappschusses oder Videoclips mithilfe von Mail",
+              "href" : "#pbhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Teilen eines Schnappschusses oder Videoclips mit anderen",
+              "href" : "#pbhlp40693",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Teilen eines Schnappschusses oder Videoclips über soziale Netzwerke",
+              "href" : "#pbhlp40625",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-PhotoBooth-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "13.6",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "pbic.png",
+    "AppVersion" : "4.0",
+    "FolderName" : "PhotoBooth.help",
+    "LocalizationISOCode" : "de",
+    "buildID" : "C804FB9E-87F1-11E1-B012-155775470237",
+    "Title" : "Photo Booth-Hilfe",
+    "RemoteURL" : "https:\/\/help.apple.com\/photobooth\/mac\/10.8\/help\/"
+  }
+}
