@@ -13,6 +13,10 @@ You also may find custom icons made by me! Please give credit if you use my cust
 
 [Official Telegram](https://t.me/JoeyPlaysSomeGames_yt)
 
+[Website](https://sites.google.com/view/supernovacomputer/projects/apple-icon-encyclopedia-project?authuser=0)
+
+
+
 # How I did the thing
 
 I did it all manually because I dont know how to automate it. It takes ages. Literally Control+Click > “Show Package Contents” > Contents > Resources > then drag and command+C every single image. Then do that for all the apps, utilities, and preference panes…
