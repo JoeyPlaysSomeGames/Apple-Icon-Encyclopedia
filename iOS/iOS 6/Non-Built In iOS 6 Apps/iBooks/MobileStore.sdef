@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "file://localhost/System/Library/DTDs/sdef.dtd">
+<dictionary title="MobileStore Terminology">
+	<suite name="MobileStore Suite" code="msaf" description="MobileStore-specific classes and commands.">
+		<command name="setPassword" code="corepass" description="Sets the store password.">
+			<cocoa class="ASPerformSelectorCommand" key="setPassword:"/>
+			<parameter name="Password" code="pass" description="The password to set" type="text">
+				<cocoa key="Password"/>
+			</parameter>
+			<result type="boolean"/>
+		</command>
+	</suite>
+</dictionary>

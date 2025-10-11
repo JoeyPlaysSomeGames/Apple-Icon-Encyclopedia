@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<style type="text/css">
+p {
+	font-family: "{{.fontFamily}}";
+	font-size: {{.fontSize}}px;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+	color: rgb({{.red}},{{.green}},{{.blue}});
+{{if isVertical}}
+	height: {{.maxSpan}}px;
+{{else}}
+	width: {{.maxSpan}}px;
+{{end isVertical}}
+}
+body {
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
+}
+div {
+{{if isVertical}}
+    -webkit-writing-mode: vertical-rl;
+    width:2em;
+    margin-left: auto;
+    margin-right: auto;
+{{else}}
+	-webkit-writing-mode: horizontal-tb;
+	height: 2em;
+	margin-top: auto;
+	margin-bottom: auto;
+{{end isVertical}}
+}
+img {
+{{if isVertical}}
+    width: 1em;
+{{else}}
+	height: 1em;
+{{end isVertical}}
+}
+		</style>
+	</head>
+	<body>
+		<div>
+			<p class="contents">
+				{{.contents}}
+			</p>
+		</div>
+	</body>
+</html>
