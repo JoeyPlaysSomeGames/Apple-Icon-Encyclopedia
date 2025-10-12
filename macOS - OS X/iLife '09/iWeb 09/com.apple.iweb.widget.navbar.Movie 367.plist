@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data-paths</key>
+	<array>
+		<string>/Users/Eris/Projects/Themes/1.0/Baby.webtheme/nav_normal_heart.png</string>
+		<string>/Users/Eris/Projects/Themes/1.0/Baby.webtheme/nav_rollover_heart.png</string>
+		<string>/Users/Eris/Projects/Themes/1.0/Baby.webtheme/baby_bk_3.jpg</string>
+		<string>/Users/Eris/Projects/Themes/1.0/Baby.webtheme/nav_normal_heart.gif</string>
+		<string>/Users/Eris/Projects/Themes/1.0/Baby.webtheme/nav_active_heart.png</string>
+		<string>/Users/Eris/Projects/Themes/1.0/Baby.webtheme/nav_active_heart.gif</string>
+		<string>/Users/Eris/Projects/Themes/1.0/Baby.webtheme/nav_rollover_heart.gif</string>
+	</array>
+	<key>widget-prefs</key>
+	<dict>
+		<key>navbar-css</key>
+		<string>.navbar {
+font-family: 'Hoefler Text', 'Times New Roman', serif;
+font-size: 1.1em;
+color: #2D3D4C;
+text-align: left;
+}
+
+.navbar-bg { 
+background-image: url(baby_bk_3.jpg);
+background-repeat: repeat-y;
+}
+
+.navbar ul {
+list-style: none;
+line-height: 30px;
+margin: 0px;
+padding: 0px 0 6px 50px;
+}
+
+.navbar ul li {
+display: inline;
+padding: 0px 35px 0px 0px;
+}
+
+
+.navbar a {
+text-decoration: none;
+color: #2D3D4C;
+background-image: url(nav_normal_heart.png);
+_background-image: url(nav_normal_heart.gif);
+background-repeat: no-repeat;
+background-position: 0px 3px;
+padding: 5px 0 5px 25px;
+}
+
+.navbar a:visited {
+text-decoration: none;
+color: #2D3D4C;
+background-image: url(nav_normal_heart.png);
+_background-image: url(nav_normal_heart.gif);
+background-repeat: no-repeat;
+background-position: 0px 3px;
+padding: 5px 0 5px 25px;
+}
+
+.noncurrent-page a:hover {
+text-decoration: none;
+color: #226CB2;
+background-image: url(nav_rollover_heart.png);
+_background-image: url(nav_rollover_heart.gif);
+background-repeat: no-repeat;
+background-position: 0px 3px;
+padding: 5px 0 5px 25px;
+}
+
+.current-page a
+{
+text-decoration: none;
+background-image: url(nav_active_heart.png);
+_background-image: url(nav_active_heart.gif);
+background-repeat: no-repeat;
+background-position: 0px 3px;
+padding: 5px 0 5px 25px;
+color: #FFF;
+}
+</string>
+	</dict>
+</dict>
+</plist>

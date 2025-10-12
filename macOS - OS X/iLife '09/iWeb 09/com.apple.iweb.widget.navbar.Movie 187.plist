@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data-paths</key>
+	<array>
+		<string>/Users/erisstassi/Projects/01_Katana/01_New Themes/__ALL/Cloud 9.webtheme/StarSeperator.jpg</string>
+	</array>
+	<key>widget-prefs</key>
+	<dict>
+		<key>navbar-css</key>
+		<string>.navbar {
+	font-family: 'Helvetica Neue', Arial, sans-serif;
+	font-size: .75em;
+	color: #01B4FF;
+	background-color: #36FAFF;
+	margin: 0px;
+	padding: 0px 10px;
+	line-height: 25px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.navbar-bg {
+	text-align: right;
+}
+
+.navbar-bg ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+li {
+	list-style-type: none;
+	display: inline;
+	padding: 2px 10px 0px 25px;
+	background-image: url(StarSeperator.jpg);
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+
+
+li a {
+	text-decoration: none;
+	color: #01B4FF;
+}
+
+li a:visited {
+	text-decoration: none;
+	color: #01B4FF;
+}
+
+li a:hover{
+ 	color: #A557A2;
+	text-decoration: none;}
+
+
+li.current-page a{	 color: #7124B9;
+	text-decoration: none;}</string>
+	</dict>
+</dict>
+</plist>

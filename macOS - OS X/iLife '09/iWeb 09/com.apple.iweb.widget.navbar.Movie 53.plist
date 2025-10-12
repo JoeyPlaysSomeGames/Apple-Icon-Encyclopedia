@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data-paths</key>
+	<array>
+		<string>/Users/Eris/Projects/Themes/2.0/Darkroom.webtheme/PhotoGray_nav_bg.png</string>
+	</array>
+	<key>widget-prefs</key>
+	<dict>
+		<key>current-page-GUID</key>
+		<string>3EDD7D64-C7A2-4C8A-BB34-F1FB8C1FAB79</string>
+		<key>navbar-css</key>
+		<string>.navbar {
+	font-family: Futura, 'Trebuchet MS', sans-serif;
+	text-transform: uppercase;
+	font-size: .7em;
+	color: #C1C1C1;
+	line-height: 25px;
+	text-align: center;
+	padding: 0px;
+	background-image: url(PhotoGray_nav_bg.png);
+	background-repeat: repeat-y;
+	border-top: 1px solid #999;
+	border-bottom: 1px solid #999;
+}
+
+.navbar-bg {
+	padding: 6px 0px 4px 0px;
+}
+
+.navbar ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px 10px 0px 10px;
+}
+
+.navbar ul li {
+	display: inline; 
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px 10px 0px 10px;
+}
+
+.navbar a {
+	text-decoration: none;
+	color: #C1C1C1;
+	text-shadow: 0px -1px 2px #333;
+}
+
+.navbar a:visited {
+	text-decoration: none;
+	color: #C1C1C1;
+	text-shadow: 0px -1px 2px #333;
+}
+
+.noncurrent-page a:hover {
+	text-decoration: none;
+	color: #EC001E;
+	text-shadow: 0px -1px 2px #333;
+}
+
+.current-page a
+{
+	text-decoration: none;
+	color: #000;
+	text-shadow: 0px -1px 2px #7E7E7E;
+}
+</string>
+		<key>path-to-root</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>

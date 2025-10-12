@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data-paths</key>
+	<array>
+		<string>/Users/Eris/Projects/Themes/1.0/Kids Blue.webtheme/starsdarkblue.gif</string>
+		<string>/Users/Eris/Projects/Themes/1.0/Kids Blue.webtheme/starswhite.png</string>
+		<string>/Users/Eris/Projects/Themes/1.0/Kids Blue.webtheme/starsbrightblue.png</string>
+		<string>/Users/Eris/Projects/Themes/1.0/Kids Blue.webtheme/starswhite.gif</string>
+		<string>/Users/Eris/Projects/Themes/1.0/Kids Blue.webtheme/starsbrightblue.gif</string>
+		<string>/Users/Eris/Projects/Themes/1.0/Kids Blue.webtheme/tile_watercolor_blue_med100.png</string>
+		<string>/Users/Eris/Projects/Themes/1.0/Kids Blue.webtheme/starsdarkblue.png</string>
+	</array>
+	<key>widget-prefs</key>
+	<dict>
+		<key>navbar-css</key>
+		<string>.navbar {
+font-family: 'Hoefler Text', 'Times New Roman';
+font-size: 1em;
+color: #2B435C;
+text-align: left;
+}
+
+.navbar-bg { 
+background-image: url(tile_watercolor_blue_med100.png);
+}
+
+.navbar ul {
+list-style: none;
+line-height: 28px;
+margin: 0px;
+padding: 8px 0 0 50px;
+}
+
+.navbar ul li {
+display: inline;
+padding: 0px 35px 0px 0px;
+}
+
+
+.navbar a {
+text-decoration: none;
+color: #2B435C;
+background-image: url(starsdarkblue.png);
+_background-image: url(starsdarkblue.gif);
+background-repeat: no-repeat;
+background-position: 0px 0px;
+padding-left: 20px;
+}
+
+.navbar a:visited {
+text-decoration: none;
+color: #2B435C;
+background-image: url(starsdarkblue.png);
+_background-image: url(starsdarkblue.gif);
+background-repeat: no-repeat;
+background-position: 0px 0px;
+padding-left: 20px;
+}
+
+.noncurrent-page a:hover {
+text-decoration: none;
+color: #0062AE;
+background-image: url(starsbrightblue.png);
+_background-image: url(starsbrightblue.gif);
+background-repeat: no-repeat;
+background-position: 0px 0px;
+padding-left: 20px;
+}
+
+.current-page a
+{
+text-decoration: none;
+background-image: url(starswhite.png);
+_background-image: url(starswhite.gif);
+background-position: 0px 2px;
+background-repeat: no-repeat;
+padding: 8px 0 0 27px;
+color: #FFF;
+}
+</string>
+	</dict>
+</dict>
+</plist>

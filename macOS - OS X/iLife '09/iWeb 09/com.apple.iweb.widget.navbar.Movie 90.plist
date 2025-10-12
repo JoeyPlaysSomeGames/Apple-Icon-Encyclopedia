@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data-paths</key>
+	<array>
+		<string>/Users/erisstassi/Projects/01_Katana/01_New Themes/__ALL/Elegant.webtheme/flourish_purple_bttm.png</string>
+	</array>
+	<key>widget-prefs</key>
+	<dict>
+		<key>navbar-css</key>
+		<string>.navbar {
+	font-family: Palatino, serif;
+	font-size: .8em;
+	color: #969696;
+	margin: 0px;
+	line-height: 29px;
+	text-transform: uppercase;
+	font-weight: bold;
+	background-image: url(flourish_purple_bttm.png);
+	background-position: top left;
+	letter-spacing: 1px;
+}
+
+.navbar-bg {
+	text-align: center;
+	padding: 0px 20px 0 20px;
+}
+
+.navbar-bg ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+li {
+	list-style-type: none;
+	display: inline;
+	padding: 0px 10px 0px 10px;
+}
+
+
+li a {
+	text-decoration: none;
+	color: #969696;
+}
+
+li a:visited {
+	text-decoration: none;
+	color: #969696;
+}
+
+li a:hover{
+ 	color: #5A5A5A;
+	text-decoration: none;}
+
+
+li.current-page a{	 color: #000;
+	text-decoration: none;}</string>
+	</dict>
+</dict>
+</plist>

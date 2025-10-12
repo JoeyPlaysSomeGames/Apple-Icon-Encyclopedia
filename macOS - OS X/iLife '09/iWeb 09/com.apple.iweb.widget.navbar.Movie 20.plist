@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data-paths</key>
+	<array>
+		<string>/Users/Eris/Projects/Themes/2.0/Goldenrod.webtheme/PrintedPaper_line.gif</string>
+		<string>/Users/Eris/Projects/Themes/2.0/Goldenrod.webtheme/PrintedPaper_line-2.png</string>
+	</array>
+	<key>widget-prefs</key>
+	<dict>
+		<key>navbar-css</key>
+		<string>.navbar {
+	font-family: AppleCasual, 'Comic Sans MS', sans-serif;
+	font-size: .9em;
+	color: #62462E;
+	line-height: 30px;
+	text-transform: uppercase;
+}
+
+.navbar-bg {
+	}
+
+.navbar-bg ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+li {
+	list-style-type: none;
+	display: inline;
+	margin: 0px;
+	padding: 0px 30px 0px 0px;
+}
+
+
+li a {
+	text-decoration: none;
+	color: #62462E	;
+	padding: 0 0 5px 0;
+}
+
+li a:visited {
+	text-decoration: none;
+	color: #62462E	;
+	padding: 0 0 5px 0;
+}
+
+li a:hover{
+ 	color: #D78D4B;
+	text-decoration: none;
+	padding: 0 0 5px 0;
+}
+
+li.current-page a{	 color: #C75624; 	background-image: url(PrintedPaper_line-2.png);
+ 	_background-image: url(PrintedPaper_line.gif); 	background-repeat: no-repeat; 	background-position: center bottom;
+	padding: 0 0 5px 0;
+	text-decoration: none;}</string>
+	</dict>
+</dict>
+</plist>

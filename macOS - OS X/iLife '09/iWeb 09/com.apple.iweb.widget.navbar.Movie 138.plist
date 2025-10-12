@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data-paths</key>
+	<array>
+		<string>/Users/Eris/Projects/Themes/1.0/Kids Pink.webtheme/tile_waterclr_pk_med100.png</string>
+		<string>/Users/Eris/Projects/Themes/1.0/Kids Pink.webtheme/heartpink.png</string>
+		<string>/Users/Eris/Projects/Themes/1.0/Kids Pink.webtheme/heartwhite.png</string>
+		<string>/Users/Eris/Projects/Themes/1.0/Kids Pink.webtheme/heartpurple.png</string>
+		<string>/Users/Eris/Projects/Themes/1.0/Kids Pink.webtheme/heartpink.gif</string>
+		<string>/Users/Eris/Projects/Themes/1.0/Kids Pink.webtheme/heartpurple.gif</string>
+		<string>/Users/Eris/Projects/Themes/1.0/Kids Pink.webtheme/heartwhite.gif</string>
+	</array>
+	<key>widget-prefs</key>
+	<dict>
+		<key>navbar-css</key>
+		<string>.navbar {
+font-family: 'Hoefler Text', 'Times New Roman';
+font-size: 1em;
+color: #6F1897;
+text-align: left;
+}
+
+.navbar-bg { 
+background-image: url(tile_waterclr_pk_med100.png);
+}
+
+.navbar ul {
+list-style: none;
+line-height: 28px;
+margin: 0px;
+padding: 3px 0 0 50px;
+}
+
+.navbar ul li {
+display: inline;
+padding: 0px 35px 0px 0px;
+}
+
+
+.navbar a {
+text-decoration: none;
+color: #6F1897;
+background-image: url(heartpurple.png);
+_background-image: url(heartpurple.gif);
+background-repeat: no-repeat;
+background-position: 0px 1px;
+padding-left: 20px;
+}
+
+.navbar a:visited {
+text-decoration: none;
+color: #6F1897;
+background-image: url(heartpurple.png);
+_background-image: url(heartpurple.gif);
+background-repeat: no-repeat;
+background-position: 0px 1px;
+padding-left: 20px;
+}
+
+.noncurrent-page a:hover {
+text-decoration: none;
+color: #A70A65;
+background-image: url(heartpink.png);
+_background-image: url(heartpink.gif);
+background-repeat: no-repeat;
+background-position: 0px 0px;
+padding-left: 20px;
+}
+
+.current-page a
+{
+text-decoration: none;
+background-image: url(heartwhite.png);
+_background-image: url(heartwhite.gif);
+background-position: 0px 3px;
+padding: 4px 0px 0px 27px;
+color: #FFF;
+}
+</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data-paths</key>
+	<array/>
+	<key>widget-prefs</key>
+	<dict>
+		<key>navbar-css</key>
+		<string>.navbar {
+	font-family: 'Hoefler Text', 'Times New Roman', serif;
+	font-size: .9em;
+	color: #819D56;
+	line-height: 20px;
+	text-align: center;
+}
+
+.navbar-bg {
+
+}
+
+.navbar-bg ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+li {
+	list-style-type: none;
+	display: inline;
+	padding: 0 30px 0 0px;
+
+}
+
+
+li a {
+	text-decoration: none;
+	color: #819D56;
+}
+
+li a:visited {
+	text-decoration: none;
+	color: #819D56;
+}
+
+li a:hover{
+ 	color: #414141;}
+
+
+li.current-page a{	 color: #7B7B7A;}
+</string>
+	</dict>
+</dict>
+</plist>

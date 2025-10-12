@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data-paths</key>
+	<array>
+		<string>/Users/Eris/Projects/Themes/1.1/Highlighter.webtheme/Highlighter_nav_pink.jpg</string>
+		<string>/Users/Eris/Projects/Themes/1.1/Highlighter.webtheme/Highlighter_highlight.png</string>
+	</array>
+	<key>widget-prefs</key>
+	<dict>
+		<key>navbar-css</key>
+		<string>.navbar {
+	font-family: Courier, serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: .8em;
+	color: #595959;
+	line-height: 23px;
+}
+
+.navbar-bg {
+	text-align: center;
+}
+
+.navbar-bg ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+li {
+	list-style-type: none;
+	display: inline;
+	padding: 0px;
+	margin: 0px;
+}
+
+
+li a {
+	text-decoration: none;
+	color: #595959;
+	padding: 4px 20px 4px 20px;
+	float: left;
+}
+
+li a:visited {
+	text-decoration: none;
+	color: #595959;
+	padding: 4px 20px 4px 20px;
+	float: left;
+}
+
+li a:hover{
+ 	color: #FFF;
+	text-decoration: none;}
+
+li.current-page a{	color: #595959;
+	text-decoration: none;
+	background-image: url(Highlighter_highlight.png);
+	_background-image: url(Highlighter_nav_pink.jpg);
+	background-repeat: no-repeat;	
+	background-position: center center;
+}</string>
+	</dict>
+</dict>
+</plist>

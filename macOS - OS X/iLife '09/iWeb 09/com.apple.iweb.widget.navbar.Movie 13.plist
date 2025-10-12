@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data-paths</key>
+	<array>
+		<string>/Users/Eris/Projects/Themes/1.0/Travel.webtheme/leather777-1.jpg</string>
+	</array>
+	<key>widget-prefs</key>
+	<dict>
+		<key>navbar-css</key>
+		<string>.navbar {
+	font-family: Baskerville, 'Times New Roman', serif;
+	font-size: 1.4em;
+	color: #E0B48B;
+	margin: 0px;
+	line-height: 38px;
+	font-style: italic;
+	font-weight: bold;
+	background-image: url(leather777-1.jpg);
+}
+
+.navbar-bg {
+	text-align: left;
+	padding: 12px 10px 10px 10px;
+}
+
+.navbar-bg ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+li {
+	list-style-type: none;
+	display: inline;
+	padding: 0px 20px 0px 20px;
+}
+
+
+li a {
+	text-decoration: none;
+	color: #E0B48B;
+}
+
+li a:visited {
+	text-decoration: none;
+	color: #E0B48B;
+}
+
+li a:hover{
+ 	color: #EEE6CD;
+	text-decoration: none;}
+
+
+li.current-page a{	 color: #fff;
+	text-decoration: none;}</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data-paths</key>
+	<array>
+		<string>/Users/Eris/Projects/Themes/2.0/Play Time.webtheme/Kids_green_header_02.png</string>
+	</array>
+	<key>widget-prefs</key>
+	<dict>
+		<key>navbar-css</key>
+		<string>.navbar {
+font-family: Chalkboard, 'Comic Sans MS', sans-serif;
+font-size: .9em;
+color: #59371A;
+line-height: 25px;
+text-align: left;
+background-image: url(Kids_green_header_02.png);
+background-repeat: repeat-y;
+background-position: top center;
+}
+
+.navbar-bg { width: 500px;}
+
+.navbar ul {
+list-style: none;
+margin: 0px;
+padding: 0 0 0 25px;
+}
+
+.navbar ul li {
+display: inline;
+padding: 0px 25px 0px 0px;
+}
+
+.navbar a {
+text-decoration: none;
+color: #59371A	;
+}
+
+.navbar a:visited {
+text-decoration: none;
+color: #59371A	;
+}
+
+.noncurrent-page a:hover {
+text-decoration: none;
+color: #F2D557;
+}
+
+.current-page a
+{
+text-decoration: none;
+color: #FFFFE3;
+}
+
+</string>
+	</dict>
+</dict>
+</plist>

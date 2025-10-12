@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data-paths</key>
+	<array>
+		<string>/Users/erisstassi/Projects/01_Katana/01_New Themes/__ALL/Comic Book.webtheme/Comic_Nav_shadow.jpg</string>
+		<string>/Users/erisstassi/Projects/01_Katana/01_New Themes/__ALL/Comic Book.webtheme/Comic_Nav_arrow.png</string>
+		<string>/Users/erisstassi/Projects/01_Katana/01_New Themes/__ALL/Comic Book.webtheme/Comic_Nav_arrow.gif</string>
+	</array>
+	<key>widget-prefs</key>
+	<dict>
+		<key>navbar-css</key>
+		<string>.navbar {
+	font-family: 'Comic Sans MS', sans-serif;
+	font-weight: bold;
+	font-size: .7em;
+	line-height: 30px;
+	color: #333;
+	text-transform: uppercase;
+	margin-top: 20px;
+ 	background-image: url(Comic_Nav_shadow.jpg);
+	background-position: top right;
+	background-repeat: repeat-y;
+}
+
+.navbar-bg {
+	text-align: left;
+	padding: 0 5px 0 0;
+
+}
+
+.navbar-bg ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0 0 0 40px;
+	border: 1px solid #2C2C2A;
+	background-color: #87DDDF;
+}
+
+
+li {
+	list-style-type: none;
+	display: inline;
+	padding: 10px;
+}
+
+
+li a {
+	text-decoration: none;
+	color: #333;
+}
+
+li a:visited {
+	text-decoration: none;
+	color: #333;
+}
+
+li a:hover{
+ 	color: #72290A;
+	text-decoration: none;}
+
+
+li.current-page a{	 color: #C75624;
+	padding-left: 15px; 	background-image: url(Comic_Nav_arrow.png);
+ 	_background-image: url(Comic_Nav_arrow.gif); 	background-repeat: no-repeat;
+	background-position: center left;
+	text-decoration: none;}</string>
+	</dict>
+</dict>
+</plist>
