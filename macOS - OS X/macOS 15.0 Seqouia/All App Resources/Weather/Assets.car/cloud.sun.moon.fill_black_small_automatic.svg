@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 18.212 12.1689">
+ <defs>
+  <style>.hierarchical-0:secondary{fill:#4D4D4D;}.hierarchical-1:primary{fill:#212121;opacity:0.0;-sfsymbols-clear-behind:true;}.hierarchical-2:primary{fill:#212121;}.monochrome-0{fill:#000000;}.monochrome-1{fill:#FFFFFF;opacity:0.0;-sfsymbols-clear-behind:true;}.monochrome-2{fill:#000000;}.multicolor-0:labelColor{fill:#212121;}.multicolor-1:tintColor{fill:#007AFF;opacity:0.0;-sfsymbols-clear-behind:true;}.multicolor-2:labelColor{fill:#212121;}</style>
+ </defs>
+ <g id="s" transform="matrix(0.17 0 0 0.17 0.664062 9.91943)">
+  <path class="monochrome-0 multicolor-0:labelColor hierarchical-0:secondary" d="M83.1055-18.1152C94.2383-18.1152 103.223-27.0996 103.223-38.2324C103.223-49.3652 94.2383-58.3496 83.1055-58.3496C71.9727-58.3496 62.9883-49.3652 62.9883-38.2324C62.9883-27.0996 71.9727-18.1152 83.1055-18.1152Z" fill="#212121" opacity="1.0"/>
+  <path class="monochrome-1 multicolor-1:tintColor hierarchical-1:primary" d="M20.5566 13.2324L68.3105 13.2324C83.7402 13.2324 95.3613 1.02539 95.3613-14.6973C95.3613-29.7852 85.0098-41.3574 70.5078-43.1641C65.332-50.5371 56.3965-57.5195 42.0898-57.5195C25.8301-57.5195 12.1582-46.6309 8.74023-31.3965C0.976562-27.5391-3.90625-19.6289-3.90625-10.4004C-3.90625 3.41797 6.39648 13.2324 20.5566 13.2324Z" fill="#FFFFFF" opacity="1.0"/>
+  <path class="monochrome-2 multicolor-2:labelColor hierarchical-2:primary" d="M20.5566 5.9082L68.3105 5.9082C79.5898 5.9082 88.0371-2.92969 88.0371-14.6973C88.0371-27.1484 78.9062-36.1816 66.2598-36.084C62.5-43.0664 55.2246-50.1953 42.0898-50.1953C27.9297-50.1953 16.4062-39.8438 15.332-26.0742C8.10547-24.2676 3.41797-18.1152 3.41797-10.4004C3.41797-0.683594 10.3516 5.9082 20.5566 5.9082Z" fill="#212121" opacity="1.0"/>
+ </g>
+</svg>

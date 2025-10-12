@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 31 24">
+ <title>Updated Toolbar@2x</title>
+ <g fill="none" fill-rule="evenodd" id="Updated-Toolbar" stroke="none" stroke-width="1">
+  <g fill="#367AF6" id="Group">
+   <path d="M1.02638 22.992C0.336781 22.32 0 21.312 0 19.9733L0 4.04267C0 2.69333 0.336781 1.68 1.02638 1.008C1.71598 0.336 2.75305 0 4.1269 0L26.8783 0C28.2629 0 29.2946 0.336 29.9788 1.01333C30.6631 1.69067 31.0052 2.69867 30.9999 4.04267L30.9999 19.9733C30.9999 21.312 30.6578 22.32 29.9788 22.992C29.2946 23.664 28.2629 24 26.8783 24L4.1269 24C2.75305 24 1.72132 23.664 1.02638 22.992ZM26.8516 21.92C27.8619 22.032 28.7761 21.312 28.8883 20.3147C28.9044 20.1707 28.9044 20.0213 28.883 19.8773L28.883 4.16C28.9204 3.59467 28.7279 3.03467 28.3431 2.61867C27.9368 2.24533 27.3915 2.05333 26.8409 2.08533L4.15363 2.08533C3.59768 2.05333 3.05241 2.24533 2.64079 2.61867C2.26124 3.04 2.0688 3.59467 2.10087 4.16L2.10087 19.856C2.06345 20.416 2.2559 20.9707 2.64079 21.3867C3.05241 21.76 3.59768 21.952 4.15363 21.92L26.8516 21.92Z" fill-rule="nonzero" id="Shape"/>
+   <rect height="3" id="Rectangle" rx="1" width="13" x="9" y="3.5"/>
+   <rect height="3" id="Rectangle-Copy" rx="1" width="7" x="20.5" y="8"/>
+   <rect height="3" id="Rectangle-Copy-2" rx="1" width="7" x="12" y="8"/>
+   <rect height="3" id="Rectangle-Copy-5" rx="1" width="7" x="3.3" y="8"/>
+  </g>
+ </g>
+</svg>

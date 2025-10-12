@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 14.3623 14.3623">
+ <defs>
+  <style>.hierarchical-0:tertiary{-sfsymbols-motion-group:3;-sfsymbols-layer-tags:-563c64f43a5c6c84;}.hierarchical-1:primary{-sfsymbols-motion-group:2;-sfsymbols-layer-tags:-563c64f43a5c6c84;}.hierarchical-2:tertiary{-sfsymbols-motion-group:1;-sfsymbols-layer-tags:-563c64f43a5c6c84;-sfsymbols-clear-behind:true;}.hierarchical-3:primary{-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-563c64f43a5c6c84;}.monochrome-0{-sfsymbols-motion-group:3;-sfsymbols-layer-tags:-563c64f43a5c6c84;}.monochrome-1{-sfsymbols-motion-group:2;-sfsymbols-layer-tags:-563c64f43a5c6c84;}.monochrome-2{-sfsymbols-motion-group:1;-sfsymbols-layer-tags:-563c64f43a5c6c84;}.monochrome-3{-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-563c64f43a5c6c84;}.multicolor-0:tintColor{-sfsymbols-motion-group:3;-sfsymbols-layer-tags:-563c64f43a5c6c84;}.multicolor-1:tintColor{-sfsymbols-motion-group:2;-sfsymbols-layer-tags:-563c64f43a5c6c84;}.multicolor-2:tintColor{-sfsymbols-motion-group:1;-sfsymbols-layer-tags:-563c64f43a5c6c84;-sfsymbols-clear-behind:true;}.multicolor-3:tintColor{-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-563c64f43a5c6c84;}</style>
+ </defs>
+ <g id="s" transform="matrix(0.17 0 0 0.17 -1.1196 13.1743)">
+  <path class="monochrome-0 multicolor-0:tintColor hierarchical-0:tertiary" d="M48.8281 6.73828C72.0215 6.73828 90.8203-12.0605 90.8203-35.2539C90.8203-58.4473 72.0215-77.2461 48.8281-77.2461C25.6348-77.2461 6.8359-58.4473 6.8359-35.2539C6.8359-12.0605 25.6348 6.73828 48.8281 6.73828Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.085"/>
+  <path class="monochrome-1 multicolor-1:tintColor hierarchical-1:primary" d="M43.6523-16.3086C41.1133-16.3086 39.2578-18.0664 38.916-21.3867L35.9863-48.4863C35.5957-52.002 37.5977-54.0527 40.4297-54.0527C42.8711-54.0527 44.5801-52.5391 44.7754-50.6836C45.166-48.2422 47.4121-46.3867 50.6348-46.3867C53.5645-46.3867 55.0293-48.0469 55.4688-50.2441C56.0059-52.6367 57.666-54.0527 59.8633-54.0527C62.5488-54.0527 64.3066-52.1484 64.1602-48.9746C63.8672-43.0176 61.084-35.5957 52.3438-35.5957C50-35.5957 47.998-36.084 46.3379-37.207L48.0957-21.9727C48.5352-18.3105 46.6309-16.3086 43.6523-16.3086Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.085"/>
+  <path class="monochrome-2 multicolor-2:tintColor hierarchical-2:tertiary" d="M59.2773-16.1133L29.7363-45.6543C27.2949-48.0957 27.2949-51.9043 29.7363-54.2969C32.1289-56.7383 35.9863-56.7383 38.4277-54.2969L67.9199-24.8047C70.3613-22.3633 70.3613-18.5547 67.9199-16.1621C65.5273-13.7207 61.6699-13.7207 59.2773-16.1133Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.085"/>
+  <path class="monochrome-3 multicolor-3:tintColor hierarchical-3:primary" d="M61.4746-18.3594L31.9336-47.8516C30.7617-48.9746 30.8105-50.9277 31.9336-52.0996C33.1055-53.2227 35.0586-53.2715 36.2305-52.0996L65.7227-22.6074C66.8945-21.4355 66.8457-19.5312 65.7227-18.3594C64.5508-17.2363 62.5977-17.2363 61.4746-18.3594Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.085"/>
+ </g>
+</svg>

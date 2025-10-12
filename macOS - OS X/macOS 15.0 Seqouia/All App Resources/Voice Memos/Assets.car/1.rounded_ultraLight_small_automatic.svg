@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3.28265 10.1494">
+ <defs>
+  <style>.hierarchical-0:primary{-sfsymbols-motion-group:0;-sfsymbols-layer-tags:60f189d7f7e19e53;}.monochrome-0{-sfsymbols-motion-group:0;-sfsymbols-layer-tags:60f189d7f7e19e53;}.multicolor-0:tintColor{-sfsymbols-motion-group:0;-sfsymbols-layer-tags:60f189d7f7e19e53;}</style>
+ </defs>
+ <g id="s" transform="matrix(0.17 0 0 0.17 -5.26284 11.0637)">
+  <path class="monochrome-0 multicolor-0:tintColor hierarchical-0:primary" d="M49.053-5.62795C49.6157-5.62795 50.0176-6.02987 50.0176-6.71313L50.0176-63.9462C50.0176-64.5089 49.6961-64.8304 49.1736-64.8304C48.7717-64.8304 48.5707-64.75 48.209-64.5089L31.851-54.1394C31.3687-53.8179 31.2079-53.5767 31.2079-53.1748C31.2079-52.6121 31.5696-52.2102 32.1323-52.2102C32.4137-52.2102 32.6146-52.2906 32.8558-52.4513L47.9679-62.017L48.0482-62.017L48.0482-6.71313C48.0482-6.02987 48.4502-5.62795 49.053-5.62795Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.085"/>
+ </g>
+</svg>

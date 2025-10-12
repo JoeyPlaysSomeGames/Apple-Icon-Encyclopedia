@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 15.0066 15.0067">
+ <defs>
+  <style>.hierarchical-0:secondary{-sfsymbols-motion-group:1;-sfsymbols-layer-tags:60f189d7f7e19e53 6d65c74bf0e7a576;}.hierarchical-1:primary{opacity:0.0;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:6d65c74bf0e7a576 _slash;-sfsymbols-clear-behind:true;}.hierarchical-2:primary{-sfsymbols-motion-group:0;-sfsymbols-layer-tags:6d65c74bf0e7a576 _slash;}.monochrome-0{-sfsymbols-motion-group:1;-sfsymbols-layer-tags:60f189d7f7e19e53 6d65c74bf0e7a576;}.monochrome-1{opacity:0.0;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:6d65c74bf0e7a576 _slash;-sfsymbols-clear-behind:true;}.monochrome-2{-sfsymbols-motion-group:0;-sfsymbols-layer-tags:6d65c74bf0e7a576 _slash;}.multicolor-0:tintColor{-sfsymbols-motion-group:1;-sfsymbols-layer-tags:60f189d7f7e19e53 6d65c74bf0e7a576;}.multicolor-1:tintColor{opacity:0.0;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:6d65c74bf0e7a576 _slash;-sfsymbols-clear-behind:true;}.multicolor-2:tintColor{-sfsymbols-motion-group:0;-sfsymbols-layer-tags:6d65c74bf0e7a576 _slash;}</style>
+ </defs>
+ <g id="s" transform="matrix(0.17 0 0 0.17 -0.797774 13.4923)">
+  <path class="monochrome-0 multicolor-0:tintColor hierarchical-0:secondary" d="M54.0129-5.27174C59.1898-5.27174 62.6547-8.6143 62.6547-13.7912L62.6547-56.47C62.6547-62.3806 58.986-66.1308 52.7493-66.1308C49.4067-66.1308 46.431-65.8047 43.0069-63.522L32.327-56.3885C30.0443-54.8395 29.066-52.8828 29.066-50.4778C29.066-47.0537 31.5525-44.6487 34.7728-44.6487C36.4033-44.6487 37.3409-44.9748 38.8083-45.9939L45.0451-50.3148L45.3712-50.3148L45.3712-13.7912C45.3712-8.6143 48.836-5.27174 54.0129-5.27174Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.085"/>
+  <path class="monochrome-1 multicolor-1:tintColor hierarchical-1:primary" d="M89.0661-8.224C92.7172-4.57291 92.7172 1.35554 89.0661 5.00663C85.415 8.65772 79.4866 8.65772 75.8355 5.00663L8.59388-62.235C4.94279-65.8861 4.94279-71.8145 8.59388-75.4656C12.245-79.1167 18.1734-79.1167 21.8245-75.4656Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.085"/>
+  <path class="monochrome-2 multicolor-2:tintColor hierarchical-2:primary" d="M84.916-4.07389C86.2766-2.71331 86.2766-0.504064 84.916 0.85652C83.5554 2.2171 81.3462 2.2171 79.9856 0.85652L12.744-66.3851C11.3834-67.7457 11.3834-69.9549 12.744-71.3155C14.1046-72.6761 16.3138-72.6761 17.6744-71.3155Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.085"/>
+ </g>
+</svg>

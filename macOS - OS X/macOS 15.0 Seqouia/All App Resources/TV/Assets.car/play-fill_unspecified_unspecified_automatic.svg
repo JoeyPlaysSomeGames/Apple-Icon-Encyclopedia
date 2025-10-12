@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 14 12">
+ <title>assets/play-fill</title>
+ <g fill="none" fill-rule="evenodd" id="assets/play-fill" stroke="none" stroke-width="1">
+  <path d="M3.79365 12C4.0582 12 4.28307 11.8866 4.54762 11.7236L12.2593 6.94625C12.8082 6.59894 13 6.37212 13 5.99646C13 5.62079 12.8082 5.39398 12.2593 5.05375L4.54762 0.269344C4.28307 0.10632 4.0582 0 3.79365 0C3.30423 0 3 0.396929 3 1.01359L3 10.9793C3 11.596 3.30423 12 3.79365 12Z" fill="#000000" fill-rule="nonzero" id="Path"/>
+ </g>
+</svg>

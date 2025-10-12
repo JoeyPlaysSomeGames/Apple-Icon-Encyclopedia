@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15.5095" height="9.86283" viewBox="0 0 15.5095 9.86283">
+ <defs>
+  <style>.hierarchical-0:secondary{fill:#4D4D4D;}.hierarchical-1:primary{fill:#212121;opacity:0.0;-sfsymbols-clear-behind:true;}.hierarchical-2:primary{fill:#212121;}.monochrome-0{fill:#000000;}.monochrome-1{fill:#FFFFFF;opacity:0.0;-sfsymbols-clear-behind:true;}.monochrome-2{fill:#000000;}.multicolor-0:labelColor{fill:#212121;}.multicolor-1:tintColor{fill:#007AFF;opacity:0.0;-sfsymbols-clear-behind:true;}.multicolor-2:labelColor{fill:#212121;}</style>
+ </defs>
+ <g id="s" transform="matrix(0.17 0 0 0.17 -0.228269 9.19768)">
+  <path class="monochrome-0 multicolor-0:labelColor hierarchical-0:secondary" d="M74.7481-18.4009C84.565-18.4009 92.5752-26.4145 92.5752-36.2314C92.5752-46.0938 84.565-54.104 74.7481-54.104C64.8892-54.104 56.8789-46.0938 56.8789-36.2314C56.8789-26.4145 64.8892-18.4009 74.7481-18.4009Z" fill="#212121" opacity="1.0"/>
+  <path class="monochrome-1 multicolor-1:tintColor hierarchical-1:primary" d="M18.9365 3.91262L61.0137 3.91262C72.9111 3.91262 82.333-5.17772 82.333-16.6563C82.333-27.6612 73.6323-36.0157 62.0234-36.8799C57.1484-45.3272 49.2539-51.0865 38.5981-51.0865C25.6709-51.0865 15.018-41.0733 12.9194-28.1348C6.45701-25.7261 1.34276-20.1265 1.34276-12.3106C1.34276-3.5117 8.08496 3.91262 18.9365 3.91262Z" fill="#FFFFFF" opacity="1.0"/>
+  <path class="monochrome-2 multicolor-2:labelColor hierarchical-2:primary" d="M18.9365 0.898445L61.0137 0.898445C71.2769 0.898445 79.3189-6.86084 79.3189-16.6563C79.3189-26.4448 71.085-33.8692 60.2358-33.9214C55.8413-42.4072 48.602-48.0723 38.5981-48.0723C26.6328-48.0723 16.8022-38.2681 15.7212-25.8067C9.41552-24.168 4.35693-19.3281 4.35693-12.3106C4.35693-5.06542 9.85547 0.898445 18.9365 0.898445Z" fill="#212121" opacity="1.0"/>
+ </g>
+</svg>

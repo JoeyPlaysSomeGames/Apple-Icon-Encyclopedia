@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 19.9681 12.5941">
+ <defs>
+  <style>.hierarchical-0:primary{fill:#212121;}.hierarchical-1:primary{fill:#212121;opacity:0.0;-sfsymbols-clear-behind:true;}.monochrome-0{fill:#000000;}.monochrome-1{fill:#FFFFFF;opacity:0.0;-sfsymbols-clear-behind:true;}.multicolor-0:tintColor{fill:#007AFF;}.multicolor-1:tintColor{fill:#007AFF;opacity:0.0;-sfsymbols-clear-behind:true;}</style>
+ </defs>
+ <g id="s" transform="matrix(0.17 0 0 0.17 -0.77659 12.3468)">
+  <path class="monochrome-0 multicolor-0:tintColor hierarchical-0:primary" d="M26.0192 1.45496L79.068 1.45496C93.5447 1.45496 104.78-9.51565 104.78-23.6829C104.78-37.7387 93.5262-48.42 78.6897-48.6308C72.9133-59.4364 62.6616-65.8469 50.3571-65.8469C33.9597-65.8469 20.3133-53.4304 18.4275-37.176C10.1183-34.575 4.56817-27.35 4.56817-18.2817C4.56817-6.80759 13.2732 1.45496 26.0192 1.45496ZM97.6047-23.7641C111.024-23.7641 122.028-34.7595 122.028-48.206C122.028-61.6958 111.024-72.628 97.6047-72.628C84.2206-72.628 73.2165-61.6958 73.2165-48.206C73.2165-34.7595 84.2206-23.7641 97.6047-23.7641ZM97.6047-31.9483C88.6747-31.9483 81.4316-39.2262 81.4316-48.1649C81.4316-57.1571 88.6747-64.4002 97.6047-64.4002C106.578-64.4002 113.813-57.1571 113.813-48.1649C113.813-39.2262 106.578-31.9483 97.6047-31.9483Z" fill="#007AFF" opacity="1.0"/>
+  <path class="monochrome-1 multicolor-1:tintColor hierarchical-1:primary" d="M25.9465-7.59185C17.8754-7.59185 13.6252-12.1554 13.6252-18.096C13.6252-23.1489 16.6249-27.5166 23.7039-29.4151C26.1915-30.0243 26.9989-31.1689 27.2635-33.7003C28.6184-47.483 38.425-56.8104 50.3571-56.8104C59.5319-56.8104 66.7708-51.707 71.3585-42.6842C72.4248-40.5406 73.6906-39.7806 76.2753-39.7806C88.8748-39.7806 95.7333-32.3953 95.7333-23.4698C95.7333-14.6311 88.6385-7.59185 79.0624-7.59185L25.9465-7.59185Z" fill="#FFFFFF" opacity="1.0"/>
+ </g>
+</svg>

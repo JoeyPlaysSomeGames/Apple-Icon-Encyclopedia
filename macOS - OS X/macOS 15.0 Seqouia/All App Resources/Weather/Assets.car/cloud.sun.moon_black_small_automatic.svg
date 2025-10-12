@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16.9585 11.123">
+ <defs>
+  <style>.hierarchical-0:primary{fill:#212121;}.hierarchical-1:primary{fill:#212121;opacity:0.0;-sfsymbols-clear-behind:true;}.monochrome-0{fill:#000000;}.monochrome-1{fill:#FFFFFF;opacity:0.0;-sfsymbols-clear-behind:true;}.multicolor-0:tintColor{fill:#007AFF;}.multicolor-1:tintColor{fill:#007AFF;opacity:0.0;-sfsymbols-clear-behind:true;}</style>
+ </defs>
+ <g id="s" transform="matrix(0.17 0 0 0.17 -0.581055 10.0356)">
+  <path class="monochrome-0 multicolor-0:tintColor hierarchical-0:primary" d="M23.0469 6.39648L65.4785 6.39648C78.2227 6.39648 88.1348-3.36914 88.1348-15.918C88.1348-28.5156 78.7109-38.1836 66.3574-38.5254C61.5723-47.2656 53.3691-51.8555 42.5293-51.8555C28.8574-51.8555 17.627-42.3828 15.1367-28.8086C7.95898-26.4648 3.41797-20.1172 3.41797-12.2559C3.41797-1.46484 11.7676 6.39648 23.0469 6.39648ZM83.0566-19.043C94.2383-19.043 103.174-27.9785 103.174-39.209C103.174-50.4395 94.2383-59.0332 83.0566-59.0332C71.875-59.0332 62.9395-50.4395 62.9395-39.209C62.9395-27.9785 71.875-19.043 83.0566-19.043ZM83.0566-29.3457C77.7344-29.3457 73.3887-33.6914 73.3887-39.0137C73.3887-44.3848 77.7344-48.7305 83.0566-48.7305C88.3789-48.7305 92.7246-44.3848 92.7246-39.0137C92.7246-33.6914 88.3789-29.3457 83.0566-29.3457Z" fill="#007AFF" opacity="1.0"/>
+  <path class="monochrome-1 multicolor-1:tintColor hierarchical-1:primary" d="M23.4863-5.32227C17.9199-5.32227 15.1855-8.10547 15.1855-12.1582C15.1855-15.8691 17.627-18.457 22.7539-19.7754C25.0488-20.3613 25.5859-21.3867 25.9766-23.6816C27.8809-34.9121 34.2773-40.1855 42.5293-40.1855C48.7305-40.1855 54.0039-36.5234 57.7148-29.7852C58.7402-27.9297 59.7656-27.2461 62.1094-27.2461C72.1191-27.2461 76.416-22.2656 76.416-15.7715C76.416-9.81445 72.0703-5.32227 65.0391-5.32227L23.4863-5.32227Z" fill="#FFFFFF" opacity="1.0"/>
+ </g>
+</svg>

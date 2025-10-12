@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15.0095" height="9.3622" viewBox="0 0 15.0095 9.3622">
+ <defs>
+  <style>.hierarchical-0:primary{fill:#212121;}.hierarchical-1:primary{fill:#212121;opacity:0.0;-sfsymbols-clear-behind:true;}.monochrome-0{fill:#000000;}.monochrome-1{fill:#FFFFFF;opacity:0.0;-sfsymbols-clear-behind:true;}.multicolor-0:tintColor{fill:#007AFF;}.multicolor-1:tintColor{fill:#007AFF;opacity:0.0;-sfsymbols-clear-behind:true;}</style>
+ </defs>
+ <g id="s" transform="matrix(0.17 0 0 0.17 -0.728309 9.20174)">
+  <path class="monochrome-0 multicolor-0:tintColor hierarchical-0:primary" d="M18.9331 0.943854L61.0103 0.943854C71.3325 0.943854 79.4336-6.82568 79.4336-16.6348C79.4336-26.479 71.1441-33.959 60.2949-34.0147C55.8936-42.5039 48.602-48.211 38.5981-48.211C26.6191-48.211 16.7397-38.3545 15.6484-25.8931C9.34276-24.251 4.28417-19.3589 4.28417-12.2891C4.28417-5.03369 9.79639 0.943854 18.9331 0.943854ZM74.7481-18.334C84.6104-18.334 92.5752-26.2534 92.5752-36.2065C92.5752-46.1631 84.6104-54.1279 74.7481-54.1279C64.8438-54.1279 56.8789-46.1631 56.8789-36.2065C56.8789-26.2534 64.8438-18.334 74.7481-18.334ZM74.7481-20.5073C65.813-20.5073 59.0523-27.2261 59.0523-36.2065C59.0523-45.1904 65.813-51.9511 74.7481-51.9511C83.6865-51.9511 90.4018-45.1904 90.4018-36.2065C90.4018-27.2261 83.6865-20.5073 74.7481-20.5073Z" fill="#007AFF" opacity="1.0"/>
+  <path class="monochrome-1 multicolor-1:tintColor hierarchical-1:primary" d="M18.9649-1.27396C10.9961-1.27396 6.50198-6.23928 6.50198-12.3208C6.50198-17.9355 10.3657-22.0835 16.2954-23.8662C17.3926-24.1728 17.6709-24.5591 17.73-25.436C18.4761-36.7129 27.9097-45.9931 38.5981-45.9931C48.0747-45.9931 54.6855-40.2842 58.2954-33.1099C58.7202-32.2114 59.2949-31.8945 60.3989-31.8945C69.9477-31.8945 77.2158-25.0884 77.2158-16.5757C77.2158-8.15041 70.1089-1.27396 61.0171-1.27396L18.9649-1.27396Z" fill="#FFFFFF" opacity="1.0"/>
+ </g>
+</svg>
