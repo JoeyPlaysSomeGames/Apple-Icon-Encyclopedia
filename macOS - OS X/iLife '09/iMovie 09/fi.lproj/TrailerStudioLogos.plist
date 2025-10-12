@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>_LOCALIZABLE_</key>
+	<dict>
+		<key>##heading</key>
+		<string>Logon tyyli:</string>
+		<key>##label0</key>
+		<string>Musta tausta</string>
+		<key>##label1</key>
+		<string>Pyörivä maapallo avaruudesta kuvattuna</string>
+		<key>##label2</key>
+		<string>Auringonsäteitä pilvien lomitse</string>
+		<key>##label3</key>
+		<string>Luminen vuorenhuippu</string>
+		<key>##label4</key>
+		<string>Hohtava pyramidi</string>
+		<key>##label5</key>
+		<string>Signaaleja ristiin rastiin maapalloa</string>
+	</dict>
+	<key>label</key>
+	<string>##heading</string>
+	<key>values</key>
+	<array>
+		<array>
+			<string>##label0</string>
+			<string>##label1</string>
+			<string>##label2</string>
+			<string>##label3</string>
+			<string>##label4</string>
+			<string>##label5</string>
+		</array>
+	</array>
+</dict>
+</plist>
