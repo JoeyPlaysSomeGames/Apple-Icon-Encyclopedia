@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 12.272 12.064">
+ <defs>
+  <style>.st0{fill:#FFFFFF;}.st1{fill:none;stroke:#000000;stroke-width:0.5;}.st2{font-family:'Arial-BoldMT';}.st3{font-size:12px;}.st4{font-family:'ArialMT';}.st5{fill:#00AEEF;opacity:0.4;enable-background:new;}.st6{fill:#27AAE1;}.st7{fill:none;stroke:#27AAE1;stroke-width:0.577;}</style>
+ </defs>
+ <g id="s" transform="matrix(0.13 0 0 0.13 -375.206 -79.872)">
+  <path d="M2923.4 635.4h35.3v-5.8c0-9.6-5.7-15.2-15.2-15.2h-42.1c-9.6 0-15.2 5.7-15.2 15.2V671c0 9.6 5.7 15.2 15.2 15.2h6.8v-35.6C2908.2 641.1 2913.8 635.4 2923.4 635.4z"/>
+  <path d="M2965.4 635.4h-6.7V671c0 9.5-5.6 15.2-15.2 15.2h-35.3v5.8h-0.1c0 9.6 5.7 15.2 15.2 15.2h42.1c9.6 0 15.2-5.7 15.2-15.2v-41.4C2980.6 641 2974.9 635.4 2965.4 635.4z"/>
+ </g>
+</svg>

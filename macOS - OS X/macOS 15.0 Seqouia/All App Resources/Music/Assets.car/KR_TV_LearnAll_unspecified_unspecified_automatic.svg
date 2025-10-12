@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 72 72">
+ <title>kr-tv/KR_TV_LearnAll</title>
+ <g fill="none" fill-rule="evenodd" id="kr-tv/KR_TV_LearnAll" stroke="none" stroke-width="1">
+  <g id="Korean-Age-Rating---7">
+   <path d="M36 1C16.67 1 1 16.67 1 36C1 55.33 16.67 71 36 71C55.33 71 71 55.33 71 36C71 16.67 55.33 1 36 1Z" fill="#FFFFFF" fill-rule="nonzero" id="Path"/>
+   <circle cx="36" cy="36" fill="#FAC405" id="Oval" r="30"/>
+   <path d="M36 0C55.8823 0 72 16.1177 72 36C72 55.8823 55.8823 72 36 72C16.1177 72 0 55.8823 0 36C0 16.1177 16.1177 0 36 0ZM36 2C17.2223 2 2 17.2223 2 36C2 54.7777 17.2223 70 36 70C54.7777 70 70 54.7777 70 36C70 17.2223 54.7777 2 36 2Z" fill="#CFCDC3" fill-rule="nonzero" id="Oval"/>
+   <path d="M22.6531 47L23.7884 42.6558L30.3274 42.6558L31.4627 47L38.2136 47L31.0843 25.1577L23.0315 25.1577L15.9021 47L22.6531 47ZM29.1468 38.1299L24.969 38.1299L26.9973 30.3647L27.1184 30.3647L29.1468 38.1299ZM46.2841 47L46.2841 25.1577L40.0781 25.1577L40.0781 47L46.2841 47ZM55.1417 47L55.1417 25.1577L48.9356 25.1577L48.9356 47L55.1417 47Z" fill="#000000" fill-rule="nonzero" id="All"/>
+  </g>
+ </g>
+</svg>

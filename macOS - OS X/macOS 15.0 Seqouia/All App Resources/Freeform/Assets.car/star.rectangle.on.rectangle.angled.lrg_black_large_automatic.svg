@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.183" height="23.153" viewBox="0 0 27.183 23.153">
+ <defs>
+  <style>.hierarchical-0:secondary{-sfsymbols-motion-group:2;}.hierarchical-1:primary{opacity:0.0;-sfsymbols-motion-group:1;-sfsymbols-clear-behind:true;}.hierarchical-2:primary{-sfsymbols-motion-group:0;}.monochrome-0{-sfsymbols-motion-group:2;}.monochrome-1{opacity:0.0;-sfsymbols-motion-group:1;-sfsymbols-clear-behind:true;}.monochrome-2{-sfsymbols-motion-group:0;}.multicolor-0:tintColor{-sfsymbols-motion-group:2;}.multicolor-1:tintColor{-sfsymbols-motion-group:1;}.multicolor-2:tintColor{-sfsymbols-motion-group:0;}</style>
+ </defs>
+ <g id="s" transform="matrix(0.13 0 0 0.13 0.314233 16.6075)">
+  <path class="monochrome-0 multicolor-0:tintColor hierarchical-0:secondary" d="M46.5328 22L147.833 4.2C165.733 1 174.033-11 171.033-28.9L158.333-101.3C155.133-119.1 143.233-127.5 125.333-124.4L24.0328-106.6C6.13282-103.4-2.16718-91.4 0.732817-73.6L13.4328-1.2C16.6328 16.6 28.4328 24.9 46.4328 21.9L46.4328 21.9ZM45.5328-2.1C40.4328-1.2 37.4328-3 36.4328-8.5L24.8328-74.2C23.8328-79.7 26.1328-82.5 31.1328-83.4L125.833-100.1C130.933-101 133.933-99.2 134.933-93.7L146.533-28C147.433-22.5 145.233-19.7 140.233-18.8L45.5328-2.1L45.5328-2.1ZM75.0328 50.1L177.933 50.1C196.133 50.1 206.433 39.7 206.433 21.7L206.433-51.9C206.433-70.1 196.033-80.3 177.933-80.3L75.0328-80.3C56.8328-80.3 46.5328-69.9 46.5328-51.9L46.5328 21.7C46.5328 39.9 56.9328 50.1 75.0328 50.1Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.065"/>
+  <path class="monochrome-0 monochrome-1 multicolor-0:tintColor multicolor-1:tintColor hierarchical-0:secondary hierarchical-1:primary" d="M78.2328 26C73.1328 26 70.4328 23.7 70.4328 18.2L70.4328-48.5C70.4328-54 73.1328-56.3 78.2328-56.3L174.533-56.3C179.633-56.3 182.333-54 182.333-48.5L182.333 18.2C182.333 23.7 179.633 26 174.533 26L78.2328 26Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.065"/>
+  <path class="monochrome-2 multicolor-2:tintColor hierarchical-2:primary" d="M111.133 14.6L126.533 3.4L141.933 14.6C145.933 17.4 150.133 14.9 148.433 9.8L142.533-8.2L157.933-19.2C161.233-21.6 160.933-27.2 155.433-27L136.533-27L130.733-45C129.233-49.8 124.133-49.8 122.533-45L116.733-26.9L97.6328-26.9C92.4328-27.1 91.8328-21.7 95.1328-19.3L110.733-8.1L104.633 9.9C102.933 14.8 107.333 17.7 111.133 14.7L111.333 14.7Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.065"/>
+ </g>
+</svg>

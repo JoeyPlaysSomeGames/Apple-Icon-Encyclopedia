@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16.809 16.445">
+ <defs>
+  <style>.st0{fill:#FFFFFF;}.st1{fill:none;stroke:#000000;stroke-width:0.5;}.st2{font-family:'Arial-BoldMT';}.st3{font-size:12px;}.st4{font-family:'ArialMT';}.st5{fill:#00AEEF;opacity:0.4;enable-background:new;}.st6{fill:#27AAE1;}.st7{fill:none;stroke:#27AAE1;stroke-width:0.577;}</style>
+ </defs>
+ <g id="s" transform="matrix(0.13 0 0 0.13 -64.363 -189.449)">
+  <path d="M608.5 1483.6h-12.8v-10.4c0-10.2-5.6-15.9-15.9-15.9H511c-10.4 0-15.9 5.6-15.9 15.9v68.3c0 10.4 5.5 16 15.9 16h12.8c0 2.6 0 10.3 0 10.3c0 10.4 5.5 16 15.9 16h68.8c10.4 0 15.9-5.7 15.9-15.9v-68.4C624.4 1489.3 618.8 1483.6 608.5 1483.6zM511.1 1554.9c-9 0-13.5-4.7-13.5-13.5v-68.1c0-8.9 4.6-13.5 13.5-13.5h68.5c8.5 0 13.5 4.6 13.5 13.5v10.3h-53.4c-10.4 0-15.9 5.6-15.9 15.9c0 0 0 38.4 0 55.4C519.9 1554.9 511.1 1554.9 511.1 1554.9zM621.8 1567.7c0 8.9-4.9 13.4-13.5 13.4h-68.5c-9 0-13.5-4.7-13.5-13.5v-10.1h53.5c10.4 0 15.9-5.7 15.9-15.9V1486h12.6c8.5 0 13.5 4.6 13.5 13.5V1567.7z"/>
+ </g>
+</svg>

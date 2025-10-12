@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" clip-rule="evenodd" stroke-miterlimit="10" viewBox="0 0 1200.00 802.67">
+    <defs/>
+    <g>
+        <rect x="15" y="0" width="0.01" height="15" stroke="#ED2024" stroke-width="0.50" fill="none" id="start_section_bounds"/>
+        <rect x="20" y="0" width="70" height="15" stroke="#ED2024" stroke-width="0.50" fill="none" id="middle_section_bounds"/>
+        <rect x="94.99" y="0" width="0.01" height="15" stroke="#ED2024" stroke-width="0.50" fill="none" id="end_section_bounds"/>
+
+        <path d="M 15.3 0 L 15.3 15 C 10.9 15 7.5 11.6 7.5 7.5 C 7.5 3.4 10.9 0 15.3 0 Z M 15 0 L 15.01 0 L 15.01 15 L 15 15 Z" fill="#000000" id="start_section"/>
+        <path d="M 20 0 L 90 0 L 90 15 L 20 15 Z" fill="#000000" id="middle_section"/>
+        <path d="M 94.7 0 L 94.7 15 C 99.1 15 102.5 11.6 102.5 7.5 C 102.5 3.4 99.1 0 94.7 0 Z M 96 0 L 94.99 0 L 94.99 15 L 96 15 Z " fill="#000000" id="end_section"/>
+    </g>
+</svg>

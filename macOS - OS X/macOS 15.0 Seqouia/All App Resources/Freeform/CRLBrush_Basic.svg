@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" clip-rule="evenodd" stroke-miterlimit="10" viewBox="0 0 1200.00 802.67">
+    <defs/>
+    <g>
+        <rect x="35" y="0" width="70" height="15" stroke="#ED2024" stroke-width="0.50" fill="none" id="middle_section_bounds"/>
+        <path d="M 35 0 L 105 0 L 105 15 L 35 15 Z M 35 0" fill="#000000" id="middle_section"/>
+    </g>
+</svg>

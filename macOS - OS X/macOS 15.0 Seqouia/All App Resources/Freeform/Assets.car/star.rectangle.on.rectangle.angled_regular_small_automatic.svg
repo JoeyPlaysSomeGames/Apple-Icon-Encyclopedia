@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 13.013 10.816">
+ <defs>
+  <style>.hierarchical-0:secondary{-sfsymbols-motion-group:3;}.hierarchical-1:primary{opacity:0.0;-sfsymbols-motion-group:2;-sfsymbols-clear-behind:true;}.hierarchical-2:secondary{-sfsymbols-motion-group:1;-sfsymbols-clear-behind:true;}.hierarchical-3:primary{-sfsymbols-motion-group:0;}.monochrome-0{-sfsymbols-motion-group:3;}.monochrome-1{opacity:0.0;-sfsymbols-motion-group:2;-sfsymbols-clear-behind:true;}.monochrome-2{-sfsymbols-motion-group:1;}.monochrome-3{-sfsymbols-motion-group:0;}.multicolor-0:tintColor{-sfsymbols-motion-group:3;}.multicolor-1:tintColor{opacity:0.0;-sfsymbols-motion-group:2;-sfsymbols-clear-behind:true;}.multicolor-2:tintColor{-sfsymbols-motion-group:1;-sfsymbols-clear-behind:true;}.multicolor-3:tintColor{-sfsymbols-motion-group:0;}</style>
+ </defs>
+ <g id="s" transform="matrix(0.13 0 0 0.13 -1.1115 10.2375)">
+  <path class="monochrome-0 multicolor-0:tintColor hierarchical-0:secondary" d="M30.7-8.5L81.7-17.4C89.9-18.9 93.2-23.6 91.8-31.7L85.6-67.1C84.2-75.2 79.4-78.5 71.2-77L20.3-68C12.1-66.6 8.8-61.8 10.1-53.8L16.4-18.4C17.8-10.3 22.5-7.1 30.8-8.5ZM29.6-15.4C26.1-14.8 23.8-16.3 23.2-19.9L17.1-54.5C16.4-58.2 18.1-60.4 21.5-61L72.2-69.9C75.7-70.5 78-69 78.6-65.4L84.7-30.8C85.3-27.1 83.7-24.9 80.3-24.3L29.5-15.4Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.065"/>
+  <path class="monochrome-2 multicolor-2:tintColor hierarchical-2:secondary" d="M44.1 4.2L95.9 4.2C104.2 4.2 108.4 0.1 108.4-8.1L108.4-44C108.4-52.2 104.2-56.3 95.9-56.3L44.1-56.3C35.8-56.3 31.6-52.2 31.6-44L31.6-8.1C31.6 0.1 35.7 4.2 44.1 4.2Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.065"/>
+  <path class="monochrome-1 monochrome-2 multicolor-1:tintColor multicolor-2:tintColor hierarchical-1:primary hierarchical-2:secondary" d="M44.2-2.9C40.7-2.9 38.7-4.8 38.7-8.5L38.7-43.7C38.7-47.4 40.7-49.3 44.2-49.3L95.8-49.3C99.3-49.3 101.3-47.4 101.3-43.7L101.3-8.5C101.3-4.8 99.3-2.9 95.8-2.9L44.2-2.9Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.065"/>
+  <path class="monochrome-3 multicolor-3:tintColor hierarchical-3:primary" d="M61.3-10L70-16.4L78.7-10C80.8-8.5 82.9-10 82.1-12.4L78.6-22.7L87.4-29C89.3-30.4 88.7-33 86.1-33L75.3-33C75.3-33 72-43.3 72-43.3C71.3-45.6 68.7-45.6 67.9-43.3L64.6-32.9L53.8-32.9C51.2-33 50.6-30.4 52.5-29L61.3-22.7L57.8-12.4C57-10.1 59.2-8.4 61.2-10Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.065"/>
+ </g>
+</svg>

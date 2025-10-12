@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 14 11">
+ <title>assets/speaker-fill</title>
+ <g fill="none" fill-rule="evenodd" id="assets/speaker-fill" stroke="none" stroke-width="1">
+  <path d="M9.76165 11C10.1756 11 10.4704 10.7069 10.4704 10.3016L10.4704 0.735828C10.4704 0.330499 10.1756 0 9.7491 0C9.4543 0 9.25986 0.130952 8.93996 0.430272L6.26165 2.9246C6.22401 2.96202 6.16756 2.98073 6.10484 2.98073L4.31093 2.98073C3.45789 2.98073 3 3.44841 3 4.34637L3 6.6661C3 7.57029 3.45789 8.03175 4.31093 8.03175L6.10484 8.03175C6.16756 8.03175 6.22401 8.05045 6.26165 8.08787L8.93996 10.6071C9.22222 10.8815 9.46685 11 9.76165 11Z" fill="#000000" fill-rule="nonzero" id="Path"/>
+ </g>
+</svg>

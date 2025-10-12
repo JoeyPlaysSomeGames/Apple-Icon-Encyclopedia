@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 19.656 16.289">
+ <defs>
+  <style>.hierarchical-0:secondary{-sfsymbols-motion-group:2;}.hierarchical-1:primary{opacity:0.0;-sfsymbols-motion-group:1;-sfsymbols-clear-behind:true;}.hierarchical-2:primary{-sfsymbols-motion-group:0;}.monochrome-0{-sfsymbols-motion-group:2;}.monochrome-1{opacity:0.0;-sfsymbols-motion-group:1;-sfsymbols-clear-behind:true;}.monochrome-2{-sfsymbols-motion-group:0;}.multicolor-0:tintColor{-sfsymbols-motion-group:2;}.multicolor-1:tintColor{-sfsymbols-motion-group:1;}.multicolor-2:tintColor{-sfsymbols-motion-group:0;}</style>
+ </defs>
+ <g id="s" transform="matrix(0.13 0 0 0.13 0.2145 13.0715)">
+  <path class="monochrome-0 multicolor-0:tintColor hierarchical-0:secondary" d="M31.3 5.9L110.2-7.9C122.3-10.1 127.2-17.1 125.1-29L115.6-83.5C113.5-95.4 106.4-100.3 94.3-98.2L15.6-84.3C3.5-82.2-1.4-75.1 0.6-63.3L10.3-8.8C12.4 3.1 19.4 7.9 31.6 5.9L31.5 5.9ZM29.8-3.3C24-2.3 20.2-4.8 19.2-10.7L9.8-64.1C8.7-70.2 11.4-73.8 17.1-74.8L95.5-88.6C101.2-89.6 105.1-87.1 106.1-81.2L115.5-27.8C116.5-21.7 113.9-18.1 108.2-17.1L29.6-3.3L29.7-3.3ZM50.8 24.5L130.9 24.5C143.1 24.5 149.3 18.4 149.3 6.3L149.3-48.9C149.3-61 143.1-67.1 130.9-67.1L50.8-67.1C38.6-67.1 32.4-61 32.4-48.9L32.4 6.3C32.4 18.4 38.5 24.5 50.8 24.5Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.065"/>
+  <path class="monochrome-0 monochrome-1 multicolor-0:tintColor multicolor-1:tintColor hierarchical-0:secondary hierarchical-1:primary" d="M51 15C45.2 15 41.9 11.9 41.9 5.8L41.9-48.5C41.9-54.6 45.2-57.7 51-57.7L130.8-57.7C136.6-57.7 139.9-54.6 139.9-48.5L139.9 5.8C139.9 11.9 136.6 15 130.8 15L51 15Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.065"/>
+  <path class="monochrome-2 multicolor-2:tintColor hierarchical-2:primary" d="M77.3 3.2L90.9-6.8L104.5 3.2C107.4 5.2 110.3 3.2 109.2-0.1L103.8-16.2L117.5-26C120-27.9 119.3-31.5 115.7-31.5L98.9-31.5L93.7-47.6C92.7-50.7 89.1-50.7 88.1-47.6L82.9-31.4L66-31.4C62.5-31.5 61.6-27.9 64.2-26L77.9-16.2L72.5-0.1C71.4 3.1 74.4 5.4 77.1 3.2L77.2 3.2Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.065"/>
+ </g>
+</svg>

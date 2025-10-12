@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16.887 14.495">
+ <defs>
+  <style>.hierarchical-0:secondary{-sfsymbols-motion-group:2;}.hierarchical-1:primary{opacity:0.0;-sfsymbols-motion-group:1;-sfsymbols-clear-behind:true;}.hierarchical-2:primary{-sfsymbols-motion-group:0;}.monochrome-0{-sfsymbols-motion-group:2;}.monochrome-1{opacity:0.0;-sfsymbols-motion-group:1;-sfsymbols-clear-behind:true;}.monochrome-2{-sfsymbols-motion-group:0;}.multicolor-0:tintColor{-sfsymbols-motion-group:2;}.multicolor-1:tintColor{-sfsymbols-motion-group:1;}.multicolor-2:tintColor{-sfsymbols-motion-group:0;}</style>
+ </defs>
+ <g id="s" transform="matrix(0.13 0 0 0.13 0.3315 12.0965)">
+  <path class="monochrome-0 multicolor-0:tintColor hierarchical-0:secondary" d="M28.5 0.5L90.1-10.3C101.4-12.3 106.9-20.3 105-31.5L97.2-76C95.2-87.3 87.4-92.8 76.1-90.9L14.5-80.1C3.2-78.1-2.3-70.1-0.4-58.9L7.4-14.4C9.4-3.1 17.2 2.4 28.5 0.5ZM28.2-16.7C25.6-16.2 24.1-17.1 23.5-19.9L16.5-59.1C16-62 17.1-63.3 19.7-63.8L75.9-73.8C78.5-74.3 80-73.4 80.6-70.6L87.6-31.4C88.1-28.5 87-27.2 84.4-26.7L28.2-16.7ZM46.4 18.2L108.9 18.2C120.4 18.2 127.1 11.4 127.1 0L127.1-45.2C127.1-56.7 120.3-63.4 108.9-63.4L46.4-63.4C34.9-63.4 28.2-56.6 28.2-45.2L28.2 0C28.2 11.5 35 18.2 46.4 18.2Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.065"/>
+  <path class="monochrome-0 monochrome-1 multicolor-0:tintColor multicolor-1:tintColor hierarchical-0:secondary hierarchical-1:primary" d="M49 1.2C46.4 1.2 45 0.1 45-2.8L45-42.6C45-45.5 46.3-46.6 49-46.6L106.1-46.6C108.7-46.6 110.1-45.5 110.1-42.6L110.1-2.8C110.1 0.1 108.8 1.2 106.1 1.2L49 1.2Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.065"/>
+  <path class="monochrome-2 multicolor-2:tintColor hierarchical-2:primary" d="M68.7-5L77.6-11.5L86.5-5C88.9-3.3 91.5-4.8 90.5-8L87.1-18.3L96-24.7C97.9-26.1 97.9-29.6 94.4-29.5L83.5-29.5L80.1-39.8C79.1-42.8 76-42.8 75.1-39.8L71.7-29.4L60.7-29.4C57.5-29.5 57.2-26.2 59.1-24.7L68.1-18.2L64.6-7.9C63.5-4.8 66.3-3.1 68.6-4.9L68.7-4.9Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.065"/>
+ </g>
+</svg>

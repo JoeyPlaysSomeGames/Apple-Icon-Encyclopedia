@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 15.3747 17.3243">
+ <defs>
+  <style>.hierarchical-0:tertiary{-sfsymbols-motion-group:0;}.hierarchical-1:tertiary{-sfsymbols-motion-group:0;}.hierarchical-2:tertiary{-sfsymbols-motion-group:0;}.hierarchical-3:primary{-sfsymbols-motion-group:0;-sfsymbols-clear-behind:true;}.monochrome-0{-sfsymbols-motion-group:0;}.multicolor-0:labelColor{opacity:0.1;-sfsymbols-motion-group:0;}.multicolor-1:labelColor{opacity:0.15;-sfsymbols-motion-group:0;}.multicolor-2:labelColor{opacity:0.2;-sfsymbols-motion-group:0;}.multicolor-3:labelColor{-sfsymbols-motion-group:0;-sfsymbols-clear-behind:true;}</style>
+ </defs>
+ <g id="s" transform="matrix(0.13 0 0 0.13 -1.58742 13.2376)">
+  <path class="multicolor-0:labelColor hierarchical-0:tertiary" d="M15.6512-2.41468L71.3444-35.0301L127.038-2.41468L71.3444 29.6858Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.065"/>
+  <path class="multicolor-1:labelColor hierarchical-1:tertiary" d="M127.038-2.41468L71.3444-35.0301L71.3444-99.9505L127.481-67.4285Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.065"/>
+  <path class="multicolor-2:labelColor hierarchical-2:tertiary" d="M71.3444-99.9505L71.3444-35.0301L15.6512-2.41468L15.2075-67.4285Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.065"/>
+  <path class="monochrome-0 multicolor-3:labelColor hierarchical-3:primary" d="M17.6736 1.66837Q15.2313 0.242944 13.8461-2.11567Q12.4609-4.47428 12.4609-7.33161L12.4609-63.2078Q12.4609-66.0651 13.8461-68.4237Q15.2313-70.7823 17.6736-72.2078L66.1317-100.146Q68.5805-101.578 71.3476-101.578Q74.1148-101.578 76.5571-100.146L125.015-72.2078Q127.458-70.7823 128.843-68.4237Q130.228-66.0651 130.228-63.2078L130.228-7.33161Q130.228-4.47428 128.843-2.11567Q127.458 0.242944 125.015 1.66837L76.5571 29.7543Q74.1148 31.1862 71.3476 31.1862Q68.5805 31.1862 66.1317 29.7543L17.6736 1.66837ZM69.3798-33.8643L16.3901-62.6471L16.3901-7.01476Q16.3901-5.44145 17.1767-4.11264Q17.9634-2.78382 19.2954-1.9602L68.119 26.3741Q68.6015 26.6893 69.3798 26.937ZM125.396-66.5763Q124.705-67.8527 123.348-68.6051L74.2498-96.982Q72.9177-97.8121 71.3814-97.8121Q69.845-97.8121 68.439-96.982L19.3408-68.6051Q17.9839-67.8527 17.2925-66.5763L71.3444-37.1722L125.396-66.5763ZM73.309 26.937Q74.1067 26.6828 74.6022 26.3547L123.394-1.9602Q124.726-2.78382 125.512-4.11264Q126.299-5.44145 126.299-7.01476L126.299-62.6471L73.309-33.8643L73.309 26.937Z" fill="none" opacity="1.0" stroke="black" stroke-width="0.065"/>
+ </g>
+</svg>

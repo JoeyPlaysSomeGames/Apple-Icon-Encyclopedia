@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 14.807 14.547">
+ <defs>
+  <style>.st0{fill:#FFFFFF;}.st1{fill:none;stroke:#000000;stroke-width:0.5;}.st2{font-family:'Arial-BoldMT';}.st3{font-size:12px;}.st4{font-family:'ArialMT';}.st5{fill:#00AEEF;opacity:0.4;enable-background:new;}.st6{fill:#27AAE1;}.st7{fill:none;stroke:#27AAE1;stroke-width:0.577;}</style>
+ </defs>
+ <g id="s" transform="matrix(0.13 0 0 0.13 -296.79 -134.511)">
+  <path d="M2379.5 1059.6h-8.8v44.8c0 11.1-6.2 17.3-17.4 17.3h-44v7.6h-0.1c0 11.2 6.2 17.3 17.4 17.3h52.9c11.2 0 17.4-6.2 17.4-17.3v-52.4C2396.9 1065.8 2390.7 1059.6 2379.5 1059.6z"/>
+  <path d="M2326.7 1059.6h44v-7.6c0-11.1-6.2-17.3-17.4-17.3h-52.9c-11.3 0-17.4 6.2-17.4 17.3v52.4c0 11.2 6.2 17.3 17.4 17.3h8.9v-44.8C2309.3 1065.8 2315.4 1059.6 2326.7 1059.6z"/>
+ </g>
+</svg>

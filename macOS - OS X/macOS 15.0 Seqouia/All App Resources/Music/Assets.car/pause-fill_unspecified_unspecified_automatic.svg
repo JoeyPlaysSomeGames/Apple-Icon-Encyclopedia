@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 341-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 14 11">
+ <title>assets/pause-fill</title>
+ <g fill="none" fill-rule="evenodd" id="assets/pause-fill" stroke="none" stroke-width="1">
+  <path d="M3.80769 11L5.19231 11C5.72065 11 6 10.6894 6 10.0952L6 0.898097C6 0.28361 5.72065 0 5.19231 0L3.80769 0C3.27935 0 3 0.31062 3 0.898097L3 10.0952C3 10.6894 3.27935 11 3.80769 11ZM8.81377 11L10.1923 11C10.7267 11 11 10.6894 11 10.0952L11 0.898097C11 0.28361 10.7267 0 10.1923 0L8.81377 0C8.27935 0 8 0.31062 8 0.898097L8 10.0952C8 10.6894 8.27935 11 8.81377 11Z" fill="#000000" fill-rule="nonzero" id="Shape"/>
+ </g>
+</svg>
