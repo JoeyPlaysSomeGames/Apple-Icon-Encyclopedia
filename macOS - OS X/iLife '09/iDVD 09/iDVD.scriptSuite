@@ -1,0 +1,960 @@
+{
+    Name = "iDVD";
+    AppleEventCode = "iDVD";
+    Classes = {
+        iDVDApplication = {
+            AppleEventCode = "capp";
+            Superclass = "NSCoreSuite.NSApplication";
+            SupportedCommands = {
+            	"iDVD.OpenProject" = "handleOpenProjectCommand:";
+            	"iDVD.ArchiveProject" = "handleArchiveProjectCommand:";
+            	"iDVD.SaveProject" = "handleSaveProjectCommand:";
+            	"iDVD.CloseProject" = "handleCloseProjectCommand:";
+            	"iDVD.NewProject" = "handleNewProjectCommand:";
+                "iDVD.Quit" = "handleQuitCommand:";
+                "iDVD.ShowObjectByName" = "handleShowObjectByNameCommand:";
+                "iDVD.OpenTray" = "handleOpenTrayCommand:";
+                "iDVD.CloseTray" = "handleCloseTrayCommand:";
+                "iDVD.StartBurn" = "handleStartBurnCommand:";
+                "iDVD.StartDiscImageBurn" = "handleStartDiscImageBurnCommand:";
+                "iDVD.StartVideoTSFolderBurn" = "handleStartVideoTSFolderBurnCommand:";
+                "iDVD.Unlock" = "handleUnlockCommand:";
+                "iDVD.StartMagiciDVD" = "handleStartMagiciDVDCommand:";
+                "iDVD.CreateMagiciDVD" = "handleCreateMagiciDVDCommand:";
+                "iDVD.AddMovieForMagiciDVD" = "handleAddMovieForMagiciDVDCommand:";
+                "iDVD.AddSlideshowForMagiciDVD" = "handleAddSlideshowForMagiciDVDCommand:";
+				"iDVD.AutoFillDropzonesInCurrentMenu" = "handleAutoFillDropzonesInCurrentMenuCommand:";
+            };
+            ToManyRelationships = {
+                menus = {
+                    AppleEventCode = "iMen";
+                    ReadOnly = "NO";
+                    Type = "iDVDScriptMenu";
+                };
+                slideshows = {
+                    AppleEventCode = "slsh";
+                    ReadOnly = "NO";
+                    Type = "iDVDScriptSlideshow";
+                };
+                themes = {
+                    AppleEventCode = "them";
+                    ReadOnly = "YES";
+                    Type = "iDVDScriptTheme";
+                };
+            };
+            Attributes = {
+                properties = {
+                    AppleEventCode = "pALL";
+                    ReadOnly = "NO";
+                    Type = "NSArray";
+                };
+                currentProject = {
+                    AppleEventCode = "cPrj";
+                    ReadOnly = "YES";
+                    Type = "iDVDScriptProject";
+                };
+                currentMenu = {
+                    AppleEventCode = "cMnu";
+                    ReadOnly = "YES";
+                    Type = "iDVDScriptMenu";
+                };
+                quietMode = {
+                    AppleEventCode = "iQmD";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Bool>";
+                };
+                ready = {
+                    AppleEventCode = "iDrY";
+                    ReadOnly = "YES";
+                    Type = "NSNumber<Bool>";
+                };
+                motionMode = {
+                    AppleEventCode = "iMmD";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Bool>";
+                };
+                previewMode = {
+                    AppleEventCode = "iPmD";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Bool>";
+                };				
+                renderMode = {
+                    AppleEventCode = "iRmD";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Bool>";
+                };                   
+                isBurning = {
+                    AppleEventCode = "iiBr";
+                    ReadOnly = "YES";
+                    Type = "NSNumber<Bool>";
+                };
+                supportMarkers = {
+                    AppleEventCode = "iSmR";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Bool>";
+                };
+                tvStandard = {
+                    AppleEventCode = "tvSt";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<TVStandard>";
+                };
+                videoAspectRatio = {
+                    AppleEventCode = "tvAR";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<VideoAspectRatio>";
+                };				
+                discReady = {
+                    AppleEventCode = "dsRy";
+                    ReadOnly = "YES";
+                    Type = "NSNumber<Bool>";
+                };
+                availableDVDBurners = {
+                    AppleEventCode = "aDVb";
+                    ReadOnly = "YES";
+                    Type = "NSArray";
+                };
+                applicationDefinedButtonShapeNames = {
+                    AppleEventCode = "aDBs";
+                    ReadOnly = "YES";
+                    Type = "NSArray";
+                };
+				projectName = {
+						AppleEventCode = "prNM";
+						ReadOnly = "NO";
+						Type = "NSString";
+				};
+				projectDirty = {
+						AppleEventCode = "prDR";
+						ReadOnly = "YES";
+						Type = "NSNumber<Bool>";
+				};
+				backgroundEncoding = {
+						AppleEventCode = "bkEN";
+						ReadOnly = "NO";
+						Type = "NSNumber<Bool>";
+				};
+				bestQualityEncoding = {
+						AppleEventCode = "bEEN";
+						ReadOnly = "NO";
+						Type = "NSNumber<Bool>";
+				};
+				proQualityEncoding = {
+						AppleEventCode = "bEPQ";
+						ReadOnly = "NO";
+						Type = "NSNumber<Bool>";
+				};				
+                availableTransitions = {
+                    AppleEventCode = "avTs";
+                    ReadOnly = "YES";
+                    Type = "NSArray";
+                };
+                projectSize = {
+                    AppleEventCode = "prSZ";
+                    ReadOnly = "YES";
+                    Type = "NSNumber<LongLong>";
+                };
+                autoPlayMovie = {
+                    AppleEventCode = "apMO";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                autoPlaySlideshow = {
+                    AppleEventCode = "apSS";
+                    ReadOnly = "NO";
+                    Type = "NSArray";
+                };
+                autoPlaySlideshowTransitionType = {
+                    AppleEventCode = "apTT";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<TransitionType>";
+                };
+                autoPlaySlideshowTransitionDirection = {
+                    AppleEventCode = "apDI";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<TransitionDirection>";
+                };
+                loopAutoPlay = {
+                    AppleEventCode = "loAP";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Bool>";
+                };				
+            };
+        };
+        iDVDScriptProject = {
+            AppleEventCode = "proj";
+            Superclass = "NSCoreSuite.AbstractObject";
+            ToManyRelationships = {
+                menus = {
+                    AppleEventCode = "iMen";
+                    ReadOnly = "NO";
+                    Type = "iDVDScriptMenu";
+                };
+                slideshows = {
+                    AppleEventCode = "slsh";
+                    ReadOnly = "NO";
+                    Type = "iDVDScriptSlideshow";
+                };
+            };
+            Attributes = {
+                name = {
+                    AppleEventCode = "pnam";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                isDirty = {
+                    AppleEventCode = "isDI";
+                    ReadOnly = "YES";
+                    Type = "NSNumber<Bool>";
+                };
+            };
+        };
+        iDVDScriptTheme = {
+            AppleEventCode = "them";
+            Superclass = "NSCoreSuite.AbstractObject";
+            Attributes = {
+                name = {
+                    AppleEventCode = "pnam";
+                    ReadOnly = "YES";
+                    Type = "NSString";
+                };
+            };
+        };        
+        iDVDScriptMenu = {
+            AppleEventCode = "iMen";
+            Superclass = "NSCoreSuite.AbstractObject";
+            ToManyRelationships = {
+                buttons = {
+                    AppleEventCode = "bttn";
+                    ReadOnly = "NO";
+                    Type = "iDVDScriptButton";
+                };
+                dropzones = {
+                    AppleEventCode = "drzn";
+                    ReadOnly = "YES";
+                    Type = "iDVDScriptDropzone";
+                };
+                slideshows = {
+                    AppleEventCode = "slsh";
+                    ReadOnly = "NO";
+                    Type = "iDVDScriptSlideshow";
+                };
+                movies = {
+                    AppleEventCode = "movi";
+                    ReadOnly = "NO";
+                    Type = "iDVDScriptMovie";
+                };
+                textObjects = {
+                    AppleEventCode = "iDtO";
+                    ReadOnly = "NO";
+                    Type = "iDVDScriptTextObject";
+                };
+            };
+            Attributes = {
+                name = {
+                    AppleEventCode = "pnam";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                title = {
+                    AppleEventCode = "tiTl";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                titleOriginX = {
+                    AppleEventCode = "meTx";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<UnsignedInt>";
+                };
+                titleOriginY = {
+                    AppleEventCode = "meTy";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<UnsignedInt>";
+                };
+                background = {
+                    AppleEventCode = "mBac";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };				
+                backgroundAsset = {
+                    AppleEventCode = "mBas";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                backgroundAudio = {
+                    AppleEventCode = "bAud";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                playlist = {
+                    AppleEventCode = "plYs";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                duration = {
+                    AppleEventCode = "mODu";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Float>";
+                };
+                snapToGrid = {
+                    AppleEventCode = "mOSg";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Bool>";
+                };
+                theme = {
+                    AppleEventCode = "mOTh";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                titleFont = {
+                    AppleEventCode = "mOTf";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                titleFontColor = {
+                    AppleEventCode = "mOTc";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };	
+                titleFontSize = {
+                    AppleEventCode = "mOTs";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Float>";
+                };
+                buttonFont = {
+                    AppleEventCode = "mOBf";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                buttonFontColor = {
+                    AppleEventCode = "mOBc";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };			
+                buttonFontSize = {
+                    AppleEventCode = "mOBs";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Float>";
+                };							
+				parent = {
+                    AppleEventCode = "pPar";
+                    ReadOnly = "YES";
+                    Type = "iDVDScriptMenu";
+                };
+                transitionType = {
+                    AppleEventCode = "trTy";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<TransitionType>";
+                };
+                transitionDirection = {
+                    AppleEventCode = "trDi";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<TransitionDirection>";
+                };
+                transitionDuration = {
+                    AppleEventCode = "trDu";
+                    ReadOnly = "YES";
+                    Type = "NSNumber<Float>";
+                };
+				useIntro = {
+					AppleEventCode = "usIn";
+					ReadOnly = "NO";
+					Type = "NSNumber<Bool>";
+				};
+				useOutro = {
+					AppleEventCode = "usOu";
+					ReadOnly = "NO";
+					Type = "NSNumber<Bool>";
+				};
+                volume = {
+                    AppleEventCode = "snVo";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Float>";
+                };
+            };
+        };
+        iDVDScriptButton = {
+            AppleEventCode = "bttn";
+            Superclass = "NSCoreSuite.AbstractObject";
+            Attributes = {
+                name = {
+                    AppleEventCode = "pnam";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                label = {
+                    AppleEventCode = "bLbl";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                isMovie = {
+                    AppleEventCode = "bImv";
+                    ReadOnly = "YES";
+                    Type = "NSNumber<Bool>";
+                };
+                isSlideshow = {
+                    AppleEventCode = "bIss";
+                    ReadOnly = "YES";
+                    Type = "NSNumber<Bool>";
+                };
+                isFolder = {
+                    AppleEventCode = "bIfd";
+                    ReadOnly = "YES";
+                    Type = "NSNumber<Bool>";
+                };
+                isBack = {
+                    AppleEventCode = "bIbk";
+                    ReadOnly = "YES";
+                    Type = "NSNumber<Bool>";
+                };
+                isForward = {
+                    AppleEventCode = "bIfw";
+                    ReadOnly = "YES";
+                    Type = "NSNumber<Bool>";
+                };
+                movie = {
+                    AppleEventCode = "bMov";
+                    ReadOnly = "YES";
+                    Type = "NSString";
+                };
+                slideshow = {
+                    AppleEventCode = "bSsw";
+                    ReadOnly = "YES";
+                    Type = "NSString";
+                };
+                folder = {
+                    AppleEventCode = "bFld";
+                    ReadOnly = "YES";
+                    Type = "NSString";
+                };
+                customAsset = {
+                    AppleEventCode = "bCas";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                originX = {
+                    AppleEventCode = "bOrX";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<UnsignedInt>";
+                };
+                originY = {
+                    AppleEventCode = "bOrY";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<UnsignedInt>";
+                };
+                fontName = {
+                    AppleEventCode = "bFoN";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                fontColor = {
+                    AppleEventCode = "bFoC";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };			
+                fontSize = {
+                    AppleEventCode = "bFoS";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Float>";
+                };
+				fontDropShadow = {
+                    AppleEventCode = "bFdS";
+                    ReadOnly = "NO";
+                    Type = "NSString";				
+				};
+				fontDropShadowEnabled = {
+                    AppleEventCode = "bFdE";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Bool>";				
+				};
+				buttonShapeName = {
+                    AppleEventCode = "bSnA";
+                    ReadOnly = "NO";
+                    Type = "NSString";				
+				};
+				scalingFactor = {
+                    AppleEventCode = "bScF";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Float>";					
+				};
+				isMotionButton = {
+                    AppleEventCode = "bIsM";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Bool>";					
+				};
+                selected = {
+                    AppleEventCode = "bSel";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Bool>";
+                };
+                parent = {
+                    AppleEventCode = "pPar";
+                    ReadOnly = "YES";
+                    Type = "iDVDScriptMenu";
+                };
+                buttonType = {
+                    AppleEventCode = "btTy";
+                    ReadOnly = "YES";
+                    Type = "NSNumber<ButtonType>";
+                };
+                labelPosition = {
+                    AppleEventCode = "bTps";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<ButtonLabelPosition>";
+                };
+                labelAlignment = {
+                    AppleEventCode = "bTlA";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<ButtonLabelAlignment>";
+                };
+                transitionType = {
+                    AppleEventCode = "trTy";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<TransitionType>";
+                };
+                transitionDirection = {
+                    AppleEventCode = "trDi";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<TransitionDirection>";
+                };
+                transitionDuration = {
+                    AppleEventCode = "trDu";
+                    ReadOnly = "YES";
+                    Type = "NSNumber<Float>";
+                };
+            };
+        };
+		iDVDScriptDropzone = {
+			AppleEventCode = "drzn";
+            Superclass = "NSCoreSuite.AbstractObject";
+            ToManyRelationships = {
+                images = {
+                    AppleEventCode = "imag";
+                    ReadOnly = "NO";
+                    Type = "iDVDScriptImage";
+                };
+            };
+            Attributes = {
+                name = {
+                    AppleEventCode = "pnam";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+				numberOfAssets = {
+                    AppleEventCode = "nAst";
+                    ReadOnly = "YES";
+                    Type = "NSNumber<UnsignedInt>";					
+				};
+				moviePath = {
+                    AppleEventCode = "mpth";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+				};
+                parent = {
+                    AppleEventCode = "pPar";
+                    ReadOnly = "YES";
+                    Type = "iDVDScriptMenu";
+                };
+			};			
+		};
+        iDVDScriptTextObject = {
+            AppleEventCode = "iDtO";
+            Superclass = "NSCoreSuite.AbstractObject";
+            Attributes = {
+                name = {
+                    AppleEventCode = "pnam";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                content = {
+                    AppleEventCode = "iTCt";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                originX = {
+                    AppleEventCode = "bOrX";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<UnsignedInt>";
+                };
+                originY = {
+                    AppleEventCode = "bOrY";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<UnsignedInt>";
+                };
+                selected = {
+                    AppleEventCode = "bSel";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Bool>";
+                };
+                fontName = {
+                    AppleEventCode = "bFoN";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                fontColor = {
+                    AppleEventCode = "bFoC";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                fontSize = {
+                    AppleEventCode = "bFoS";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Float>";
+                };
+                parent = {
+                    AppleEventCode = "pPar";
+                    ReadOnly = "YES";
+                    Type = "iDVDScriptMenu";
+                };
+            };
+        };
+        iDVDScriptSlideshow = {
+            AppleEventCode = "slsh";
+            Superclass = "NSCoreSuite.AbstractObject";
+            ToManyRelationships = {
+                images = {
+                    AppleEventCode = "imag";
+                    ReadOnly = "NO";
+                    Type = "iDVDScriptImage";
+                };
+            };
+            Attributes = {
+                name = {
+                    AppleEventCode = "pnam";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                duration = {
+                    AppleEventCode = "mODu";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Float>";
+                };
+                displayArrows = {
+                    AppleEventCode = "sArw";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Bool>";
+                };
+                backgroundAudio = {
+                    AppleEventCode = "bAud";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                playlist = {
+                    AppleEventCode = "plYs";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };				
+                sourcebutton = {
+                    AppleEventCode = "sBtN";
+                    ReadOnly = "YES";
+                    Type = "iDVDScriptButton";
+                };
+                transitionType = {
+                    AppleEventCode = "trTy";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<TransitionType>";
+                };
+                transitionDirection = {
+                    AppleEventCode = "trDi";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<TransitionDirection>";
+                };
+                transitionDuration = {
+                    AppleEventCode = "trDu";
+                    ReadOnly = "YES";
+                    Type = "NSNumber<Float>";
+                };
+                parent = {
+                    AppleEventCode = "pPar";
+                    ReadOnly = "YES";
+                    Type = "iDVDScriptMenu";
+                };     
+				data = {
+					AppleEventCode = "ssDt";
+					ReadOnly = "NO";
+					Type = "NSArray";
+				};
+                volume = {
+                    AppleEventCode = "snVo";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Float>";
+                };
+                loops = {
+                    AppleEventCode = "lOOp";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Bool>";
+                };
+                saveToDVDROM = {
+                    AppleEventCode = "stDR";
+                    ReadOnly = "NO";
+                    Type = "NSNumber<Bool>";
+                };				
+            };
+        };
+        iDVDScriptImage = {
+            AppleEventCode = "imag";
+            Superclass = "NSCoreSuite.AbstractObject";
+            Attributes = {
+                name = {
+                    AppleEventCode = "pnam";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                title = {
+                    AppleEventCode = "tiTl";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                imageComment = {
+                    AppleEventCode = "imCo";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                path = {
+                    AppleEventCode = "ppth";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                parent = {
+                    AppleEventCode = "pPar";
+                    ReadOnly = "YES";
+                    Type = "iDVDScriptSlideshow";
+                };                
+            };
+        };
+        iDVDScriptMovie = {
+            AppleEventCode = "movi";
+            Superclass = "NSCoreSuite.AbstractObject";
+            Attributes = {
+                name = {
+                    AppleEventCode = "pnam";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+                path = {
+                    AppleEventCode = "ppth";
+                    ReadOnly = "NO";
+                    Type = "NSString";
+                };
+				marimbaSlideshowFilePath = {
+					AppleEventCode = "pmsf";
+					ReadOnly = "NO";
+					Type = "NSString";
+				};
+                parent = {
+                    AppleEventCode = "pPar";
+                    ReadOnly = "YES";
+                    Type = "iDVDScriptMenu";
+                };
+				percentEncoded = {
+					AppleEventCode = "mPEn";
+					ReadOnly = "YES";
+					Type = "NSNumber<Float>";
+				};				
+            };
+        };
+    };
+    UsedFeatures = (UnnamedArguments); 
+    Commands = {
+		OpenProject = {
+			AppleEventClassCode = iDVD;
+			AppleEventCode = opFi;
+			Arguments = {
+						ProjectPath = {AppleEventCode = pJnm; Type = NSString; };
+			};
+			CommandClass = iDVDScriptCommand;
+			ResultAppleEventCode = long;
+			Type = "NSNumber<Long>";
+		};
+		NewProject = {
+			AppleEventClassCode = iDVD;
+			AppleEventCode = nwPj;
+			Arguments = {
+						ProjectName = {AppleEventCode = pJnm; Type = NSString; };
+						ProjectPath = {AppleEventCode = pJpt; Type = NSString; };
+						SaveCurrent = {AppleEventCode = pSct; Type = "NSNumber<Bool>"; };
+			};
+			CommandClass = iDVDScriptCommand;
+			ResultAppleEventCode = long;
+			Type = "NSNumber<Long>";
+		};
+		SaveProject = {
+			AppleEventClassCode = iDVD;
+			AppleEventCode = svPj;
+			Arguments = {
+						ProjectPath = {AppleEventCode = pJnm; Type = NSString; Optional = "Yes"; };
+			};
+			CommandClass = iDVDScriptCommand;
+			ResultAppleEventCode = long;
+			Type = "NSNumber<Long>";
+		};
+		ArchiveProject = {
+			AppleEventClassCode = iDVD;
+			AppleEventCode = arPj;
+			Arguments = {
+				ProjectPath = {AppleEventCode = arPT; Type = NSString;};
+				IncludeThemes = {AppleEventCode = aJIT; Type = "NSNumber<Bool>"; Optional = "Yes"; };
+				IncludeEncodedAssets = {AppleEventCode = aJIE; Type = "NSNumber<Bool>"; Optional = "Yes"; };
+			};
+			CommandClass = iDVDScriptCommand;
+			ResultAppleEventCode = long;
+			Type = "NSNumber<Long>";
+		};
+		Quit = {
+			AppleEventClassCode = iDVD;
+			AppleEventCode = quia;
+			CommandClass = iDVDScriptCommand;
+			Type = "";
+		};
+		ShowObjectByName = {
+			AppleEventClassCode = iDVD;
+			AppleEventCode = sObJ;
+			Arguments = {
+				ObjectName = {AppleEventCode = oBjN; Type = NSString; };
+			};
+			CommandClass = iDVDScriptCommand;
+			ResultAppleEventCode = long;
+			Type = "NSNumber<Long>";
+		};
+		OpenTray = {
+			AppleEventClassCode = iDVD;
+			AppleEventCode = opTr;
+			Arguments = {
+				OfBurner = {AppleEventCode = ofBR; Type = NSString; };
+			};
+			CommandClass = iDVDScriptCommand;
+			ResultAppleEventCode = long;
+			Type = "NSNumber<Long>";
+		};
+		CloseTray = {
+			AppleEventClassCode = iDVD;
+			AppleEventCode = clTr;
+			Arguments = {
+				OfBurner = {AppleEventCode = ofBR; Type = NSString; };
+				LockDevice = {AppleEventCode = lcDv; Type = "NSNumber<Bool>"; Optional = "Yes"; };				
+			};
+			CommandClass = iDVDScriptCommand;
+			ResultAppleEventCode = long;
+			Type = "NSNumber<Long>";
+		};
+		StartBurn = {
+			AppleEventClassCode = iDVD;
+			AppleEventCode = stBR;
+			Arguments = {
+				WithBurner = {AppleEventCode = wiBR; Type = NSString; };			
+				EraseRewritable = {AppleEventCode = erRW; Type = "NSNumber<Bool>"; Optional = "Yes"; };
+			};			
+			CommandClass = iDVDScriptCommand;
+			ResultAppleEventCode = long;
+			Type = "NSNumber<Long>";
+		};
+		StartDiscImageBurn = {
+			AppleEventClassCode = iDVD;
+			AppleEventCode = stDI;
+			Arguments = {
+				DiscImagePath = {AppleEventCode = diPT; Type = NSString; };
+			};
+			CommandClass = iDVDScriptCommand;
+			ResultAppleEventCode = long;
+			Type = "NSNumber<Long>";
+		};
+		StartVideoTSFolderBurn = {
+			AppleEventClassCode = iDVD;
+			AppleEventCode = stVT;
+			Arguments = {
+				FolderPath = {AppleEventCode = dVPT; Type = NSString; };
+			};
+			CommandClass = iDVDScriptCommand;
+			ResultAppleEventCode = long;
+			Type = "NSNumber<Long>";
+		};
+		Unlock = {
+			AppleEventClassCode = iDVD;
+			AppleEventCode = unDV;
+			Arguments = {
+				BurningDevice = {AppleEventCode = brDv; Type = NSString; };
+			};
+			CommandClass = iDVDScriptCommand;
+			ResultAppleEventCode = long;
+			Type = "NSNumber<Long>";
+		};
+		StartMagiciDVD = {
+			AppleEvenClassCode = iDVD;
+			AppleEventCode = smiD;
+			Arguments = {
+				projectTitle = {AppleEventCode = miTI; Type = NSString; };
+				projectTheme = {AppleEventCode = miTH; Type = NSString; };
+			};
+			CommandClass = iDVDScriptCommand;
+			ResultAppleEventCode = long;
+			Type = "NSNumber<Long>";
+		};
+		CreateMagiciDVD = {
+			AppleEvenClassCode = iDVD;
+			AppleEventCode = cmiD;
+			CommandClass = iDVDScriptCommand;
+			ResultAppleEventCode = long;
+			Type = "NSNumber<Long>";
+		};	
+		AddMovieForMagiciDVD = {
+			AppleEvenClassCode = iDVD;
+			AppleEventCode = amiD;
+			Arguments = {
+				Path = {AppleEventCode = miMP; Type = NSString; };
+			};
+			CommandClass = iDVDScriptCommand;
+			ResultAppleEventCode = long;
+			Type = "NSNumber<Long>";
+		};
+		AddSlideshowForMagiciDVD = {
+			AppleEvenClassCode = iDVD;
+			AppleEventCode = asiD;
+			Arguments = {
+				Name = {AppleEventCode = snMP; Type = NSString; };			
+				Paths = {AppleEventCode = siMP; Type = NSArray; };
+				AudioPaths = {AppleEventCode = apMP; Type = NSArray; Optional = "Yes"; };
+			};
+			CommandClass = iDVDScriptCommand;
+			ResultAppleEventCode = long;
+			Type = "NSNumber<Long>";
+		};
+		AutoFillDropzonesInCurrentMenu = {
+			AppleEvenClassCode = iDVD;
+			AppleEventCode = afiD;
+			CommandClass = iDVDScriptCommand;
+			ResultAppleEventCode = long;
+			Type = "NSNumber<Long>";
+		};				
+    };
+    Enumerations = {
+		TVStandard = {
+            AppleEventCode = "tvSt";
+            Enumerators = {ntsc = "ntsc"; pal = "pal "; };
+		};
+		VideoAspectRatio = {
+            AppleEventCode = "tvAR";
+            Enumerators = {standard = "stnd"; wide = "wide"; };
+		};		
+        ButtonType = {
+            AppleEventCode = "btTy";
+            Enumerators = {slideshow = "slid"; movie = "move"; folder = "fold"; back = "back"; forward = "forw";  unknown = "unkn"; };
+        };
+        TransitionType = {
+            AppleEventCode = "trTy";
+            Enumerators = {none = "none"; cube = "cube"; dissolve = "xdis"; droplet = "mddr"; fadeThroughBlack = "fdtb"; flip = "flip"; mosaic = "mosc"; mosaicFlipLarge = "mflr"; mosaicFlipSmall = "mfll"; pageFlip = "pflp"; push = "push"; reveal = "reve"; twirl = "twrl" ; wipe = "wipe";};
+        };
+        TransitionDirection = {
+            AppleEventCode = "trDi";
+            Enumerators = {transitionNone = "trNo"; transitionUp = "trUp"; transitionDown = "trDo"; transitionLeft = "trLe"; transitionRight = "trRi"; };
+        };
+        ButtonLabelPosition = {
+            AppleEventCode = "bLpS";
+            Enumerators = {labelPositionNoLabel = "nolb"; labelPositionCenter = "lpCE"; labelPositionLeft = "lpLE"; labelPositionRight = "lpRI"; labelPositionTop = "lpTO"; labelPositionBottom = "lpBO"; };
+        };
+        ButtonLabelAlignment = {
+            AppleEventCode = "bLaL";
+            Enumerators = {labelAlignmentCenter = "loce"; labelAlignmentLeft = "lole"; labelAlignmentRight = "lore"; };
+        };
+    };
+}
+
+

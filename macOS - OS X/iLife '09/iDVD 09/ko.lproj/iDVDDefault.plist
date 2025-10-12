@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppleSavePanelExpanded</key>
+	<string>NO</string>
+	<key>Delete Stuff</key>
+	<false/>
+	<key>Fade Menu Audio</key>
+	<false/>
+	<key>Fade Slideshow Audio</key>
+	<false/>
+	<key>MediaBrowserAcceptedCustomAudioTypes</key>
+	<array>
+		<string>mp3</string>
+		<string>mp4</string>
+		<string>m4p</string>
+		<string>m4a</string>
+		<string>m4b</string>
+		<string>aac</string>
+		<string>aif</string>
+		<string>aiff</string>
+		<string>wav</string>
+		<string>m4v</string>
+	</array>
+	<key>MediaBrowserAcceptedCustomImageTypes</key>
+	<array>
+		<string>gif</string>
+		<string>jpg</string>
+		<string>jpeg</string>
+		<string>jp2</string>
+		<string>tif</string>
+		<string>tiff</string>
+		<string>pdf</string>
+		<string>psd</string>
+		<string>sgi</string>
+		<string>tga</string>
+		<string>png</string>
+		<string>pict</string>
+		<string>pct</string>
+	</array>
+	<key>MediaBrowserAcceptedCustomMovieTypes</key>
+	<array>
+		<string>mov</string>
+		<string>dv</string>
+		<string>mp4</string>
+		<string>m4v</string>
+		<string>avi</string>
+		<string>3gp</string>
+		<string>3g2</string>
+	</array>
+	<key>NSDefaultOpenDirectory</key>
+	<string>~</string>
+	<key>NSTableView Columns MediaBrowseriTunesSongsTable</key>
+	<array>
+		<data>
+		BAt0eXBlZHN0cmVhbYED6IQBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErCVNvbmcgTmFtZYY=
+		</data>
+		<string>120</string>
+		<data>
+		BAt0eXBlZHN0cmVhbYED6IQBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBkFydGlzdIY=
+		</data>
+		<string>90</string>
+		<data>
+		BAt0eXBlZHN0cmVhbYED6IQBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErBFRpbWWG
+		</data>
+		<string>50</string>
+	</array>
+	<key>ScaleSlidesToTVSafeArea</key>
+	<true/>
+	<key>ShowDropZones</key>
+	<true/>
+	<key>VideoStandardNTSC</key>
+	<true/>
+	<key>Watermark</key>
+	<true/>
+</dict>
+</plist>

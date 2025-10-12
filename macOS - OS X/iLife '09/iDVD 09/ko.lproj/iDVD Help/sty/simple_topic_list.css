@@ -1,0 +1,178 @@
+/* CSS simple_topic_list.css*/
+/*Draft 0c 9-16-08*/
+
+
+body {
+	margin: 0px;
+	padding: 0 40px 45px 0;
+	background-color: #fff;
+	color: #333;
+	font-family: 'Lucida Grande', Arial, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	text-align: left;
+	min-width: 360px;
+}
+
+#apple-pd {
+	margin-top: 2px;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+/* START NAVBAR STYLES */
+
+#navbox { 
+	position: fixed; 
+	top: 0; 
+	left: 0; 
+	width: 100%; 
+	height: 20px; 
+	float: left; 
+	padding-top: -2px; 
+	border-bottom: 1px solid #939393;
+}
+
+#navboxgradient {
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 20px;
+	padding-top: -2px;
+	width: 100%;
+}
+
+#navleftbox {
+	font-size: 10px; 
+	position: absolute; 
+	top: 1px; 
+	left: 15px 
+}
+#navrightbox {
+	font-size: 10px;
+	margin-right: 25px; 
+	float: right; 
+	padding-bottom: 1px;
+}
+
+.navlink_left { 
+	color: #333; 
+	font-weight: normal;
+	line-height: 22px;
+	margin: -9px 0 -6px;
+	text-align: left;
+	vertical-align: middle;
+}
+.navlink_right { 
+	color: #333;
+	line-height: 22px;
+	margin-left: 8px;
+	text-align: right;
+	vertical-align: middle;  
+ }
+/* End Navbar styles */
+
+/* START HEADER AREA STYLES */
+
+#headerbox {
+	margin-top: 46px;
+	margin-bottom: 24px;
+	padding-right: 6px;
+}
+
+h1 {
+	color: #000000;
+	font-size: 16px;
+	font-family: 'Lucida Grande', Arial, sans-serif;
+	font-weight: bold;
+	margin-top: 8px;
+	margin-bottom: 0;
+	text-align: left;
+}
+
+#iconbox {
+	margin-bottom: -3px;
+	float: left;
+}
+
+#iconimg {}
+
+#pagetitle {
+	border: solid 1px #fff;
+	margin-left: 40px;
+	margin-right: 45px;
+	width: 88%;
+}
+
+/* End Header Area Styles */
+
+/* EMBEDDED/INLINE LINK STYLES */
+
+a {
+	color: #3366CC;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #011E57;
+}
+
+.linkarrow {
+	font-family: 'Lucida Grande';
+	font-size: 10pt;
+	padding-left: 2px;
+	vertical-align: top;
+}
+
+a.linkarrow:hover {
+	text-decoration: none;
+}
+
+.linkinline {
+	margin-top: 9px;
+	margin-bottom: 18px;
+}
+
+/* End Embedded/Inline Link Styles */
+
+/* START TASKBOX STYLES */
+
+.taskprimtext {
+	margin-top: 0;
+	margin-bottom: 22px;
+}
+
+.taskprimlink {
+	margin-left: 42px;
+	margin-right: 45px;
+	margin-top: 0;
+}
+
+.taskprimtextlongtext {
+	color: #000;
+	font-size: 12px;
+	font-weight: bold;
+	margin-left: 42px;
+	margin-right: 45px;
+	margin-bottom: 0;
+}
+
+.taskauxlinktext {
+	margin-left: 52px;
+	margin-right: 45px;
+	margin-top: 0;
+}
+
+.taskauxlinkshowall {
+	font-size: 10px;
+	font-weight: bold;
+	margin-left: 52px;
+	margin-right: 45px;
+	margin-top: 0;
+}
+
+/* End Taskbox Styles */
