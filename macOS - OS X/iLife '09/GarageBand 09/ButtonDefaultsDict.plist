@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Keywords</key>
+	<array>
+		<string></string>
+		<string>Drums</string>
+		<string>Single</string>
+		<string>Ensemble</string>
+		<string></string>
+		<string>Electronic Beats</string>
+		<string>Clean</string>
+		<string>Distorted</string>
+		<string>Rock/Blues</string>
+		<string>Percussion</string>
+		<string>Acoustic</string>
+		<string>Electric</string>
+		<string>Urban</string>
+		<string>Drum Kit</string>
+		<string>Relaxed</string>
+		<string>Intense</string>
+		<string>World/Ethnic</string>
+		<string>Bass</string>
+		<string>Cheerful</string>
+		<string>Dark</string>
+		<string>Electronic/Dance</string>
+		<string>Guitars</string>
+		<string>Dry</string>
+		<string>Processed</string>
+		<string>Country/Folk</string>
+		<string>Piano</string>
+		<string>Grooving</string>
+		<string>Arrhythmic</string>
+		<string>Jazz</string>
+		<string>Synthesizer</string>
+		<string>Melodic</string>
+		<string>Dissonant</string>
+		<string>Orchestral</string>
+		<string>Strings</string>
+		<string>Part</string>
+		<string>Fill</string>
+		<string>Cinematic/New Age</string>
+		<string>Vocals</string>
+		<string>Tambourine</string>
+		<string>Celesta</string>
+		<string>Texture/Atmosphere</string>
+		<string>Electric Piano</string>
+		<string>Brass</string>
+		<string>Harp</string>
+		<string>Experimental</string>
+		<string>Slide Guitar</string>
+		<string>Woodwind</string>
+		<string>Harpsichord</string>
+		<string>Sound Effect</string>
+		<string>Organ</string>
+		<string>Bongo</string>
+		<string>Conga</string>
+		<string>Vinyl/Scratch</string>
+		<string>Shaker</string>
+		<string>English Horn</string>
+		<string>French Horn</string>
+		<string>Mallets</string>
+		<string>Vibraphone</string>
+		<string>Clavinet</string>
+		<string>Harmonica</string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>FixedKeywords</key>
+	<array>
+		<string>Single</string>
+		<string>Ensemble</string>
+		<string>Clean</string>
+		<string>Distorted</string>
+		<string>Acoustic</string>
+		<string>Electric</string>
+		<string>Relaxed</string>
+		<string>Intense</string>
+		<string>Cheerful</string>
+		<string>Dark</string>
+		<string>Dry</string>
+		<string>Processed</string>
+		<string>Grooving</string>
+		<string>Arrhythmic</string>
+		<string>Melodic</string>
+		<string>Dissonant</string>
+		<string>Part</string>
+		<string>Fill</string>	
+	</array>
+</dict>
+</plist>

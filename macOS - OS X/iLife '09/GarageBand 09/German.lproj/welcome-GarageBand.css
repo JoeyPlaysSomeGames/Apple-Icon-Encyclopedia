@@ -1,0 +1,97 @@
+﻿/*
+    This file has a UTF-8 BOM in it so it can be included from a UTF-16 page
+    without specifying an explicit character set. When editing it, please be
+    sure to preserve the BOM (first three bytes of the file, EF BB BF).
+ */
+
+.error-container {
+    position: relative;
+    padding: 10px;
+    min-height: 90px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 49px;
+    border: 1px solid #999999;
+    -webkit-border-radius: 10px;
+}
+
+.suggestion-container {
+    position: relative;
+    padding: 10px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 55px;
+    border: 1px solid #999999;
+    -webkit-border-radius: 10px;
+}
+
+.icon {
+    position: absolute;
+    top: 11px;
+    left: 7px;
+    width: 90px;
+    height: 90px;
+    margin-right: 12px;
+}
+
+.error-title
+{
+    color: #888888;
+    font-size: 25px;
+    font-weight: bold;
+    padding-bottom: 0px;
+    margin-top: 7px;
+    margin-bottom: 10px;
+    margin-left: 93px;
+}
+
+.suggestion-form
+{
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.suggestion-form input
+{
+    font-size: 16px;
+}
+
+.suggestion-prompt
+{
+    color: #888888;
+    padding-bottom: 0px;
+    margin-top: 6px;
+    margin-bottom: 18px;
+    text-align: center;
+    font-size: 13px;
+}
+
+.error-message {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-height: 23px;
+    padding-right: 23px;
+    margin-left: 93px;
+    font-size: 13px;
+}
+
+.help-button {
+    position: absolute;
+    bottom: 5px;
+    width: 23px;
+    height: 23px;
+    background-image: url(ErrorPageHelpButton.tif);
+    right: 5px;
+}
+
+.parental-controls-form {
+    text-align: center;
+    margin-bottom: 8px;
+    margin-top: 15px;
+}
+
+.parental-controls-form input {
+    font-size: 16px;
+}
