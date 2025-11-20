@@ -12,4 +12,4 @@ iOS 8.4.1: My jailbroken iPhone 5! I have it duel booted with iOS 6 and iOS 8. S
 
 iOS 9.3.5: My jailbroken iPad mini 1! I also have it duel booted with iOS 6, but I think im gonna replace iOS 9 with iOS 8 so the jailbreak can be untethered!
 
-![A picture of my iPhone 5](MyiPadMini.jpg)
+![A picture of my iPad mini](MyiPadMini.jpg)
